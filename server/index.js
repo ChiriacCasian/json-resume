@@ -7,6 +7,10 @@ import { render, pdf } from 'resumed';
 const app = express();
 const PORT = 3001;
 const RESUME_PATH = path.resolve('resume.json');
+const JOBBOARD_STATE_PATH = path.resolve('jobboard/state.json');
+const JOBBOARD_STATE_URL =
+    'https://raw.githubusercontent.com/ChiriacCasian/json-resume/main/jobboard/state.json';
+const EMPTY_STATE = { generatedAt: null, companies: [] };
 
 app.use(express.json({ limit: '50mb' }));
 
@@ -42,6 +46,28 @@ app.post('/api/save', async (req, res) => {
         await fs.writeFile(RESUME_PATH, JSON.stringify(req.body, null, 2));
         res.send('Saved');
     } catch { res.status(500).send('Error'); }
+});
+
+// Job-board tracker state. The daily GitHub Action commits jobboard/state.json;
+// we serve whichever copy is newer — the pushed one on GitHub (no `git pull`
+// needed) or a freshly-scraped local one — falling back to local when offline.
+async function readLocalState() {
+    try { return JSON.parse(await fs.readFile(JOBBOARD_STATE_PATH, 'utf-8')); }
+    catch { return null; }
+}
+
+async function fetchRemoteState() {
+    try {
+        const r = await fetch(JOBBOARD_STATE_URL, { signal: AbortSignal.timeout(5000) });
+        return r.ok ? await r.json() : null;
+    } catch { return null; }
+}
+
+app.get('/api/jobboard', async (req, res) => {
+    const candidates = (await Promise.all([readLocalState(), fetchRemoteState()]))
+        .filter(Boolean)
+        .sort((a, b) => (b?.generatedAt || '').localeCompare(a?.generatedAt || ''));
+    res.json(candidates[0] || EMPTY_STATE);
 });
 
 app.post('/render', async (req, res) => {

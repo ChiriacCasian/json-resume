@@ -1,7 +1,8 @@
 import { useState, useEffect, useRef, useMemo, useCallback, memo } from 'react';
 import Editor, { DiffEditor } from '@monaco-editor/react';
-import { Button, Group, Loader, Box, Text, ActionIcon, Grid, Card, Flex } from '@mantine/core';
+import { Button, Group, Loader, Box, Text, ActionIcon, Grid, Card, Flex, SegmentedControl } from '@mantine/core';
 import { Group as PanelGroup, Panel, Separator as PanelResizeHandle } from 'react-resizable-panels';
+import JobBoard from './JobBoard';
 
 const RESUME_WIDTH = 1024;
 const RESUME_HEIGHT = 1448;
@@ -133,6 +134,7 @@ const PreviewPanel = ({
 );
 
 function App() {
+  const [view, setView] = useState('resume');
   const [themes, setThemes] = useState([]);
   const [currentTheme, setCurrentTheme] = useState('');
   const [jsonContent, setJsonContent] = useState(null);
@@ -257,10 +259,10 @@ function App() {
     scrollToTheme(themeName);
   };
 
-  if (!jsonContent) return <Loader size="xl" pos="absolute" inset={0} m="auto" />;
-
-  return (
-    <Box h="100vh" w="100vw" display="flex" style={{ overflow: 'hidden' }}>
+  const resumeView = !jsonContent ? (
+    <Loader size="xl" pos="absolute" inset={0} m="auto" />
+  ) : (
+    <Box h="100%" w="100%" display="flex" style={{ overflow: 'hidden' }}>
       <PanelGroup direction="horizontal">
         <EditorPanel
           justSaved={justSaved}
@@ -288,6 +290,23 @@ function App() {
           downloading={downloading}
         />
       </PanelGroup>
+    </Box>
+  );
+
+  return (
+    <Box h="100vh" w="100vw" style={{ display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+      <Group h={44} px="md" justify="center" wrap="nowrap" bg="white"
+             style={{ borderBottom: `1px solid ${BORDER_COLOR}`, flexShrink: 0 }}>
+        <SegmentedControl
+          size="xs"
+          value={view}
+          onChange={setView}
+          data={[{ label: 'Resume', value: 'resume' }, { label: 'Job Board', value: 'jobboard' }]}
+        />
+      </Group>
+      <Box style={{ flex: 1, minHeight: 0, position: 'relative' }}>
+        {view === 'jobboard' ? <JobBoard /> : resumeView}
+      </Box>
     </Box>
   );
 }

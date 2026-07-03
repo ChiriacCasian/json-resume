@@ -1,0 +1,59 @@
+name: Job Watch
+
+# Daily scrape of the career pages in jobboard/companies.txt. Diffs against the
+# committed jobboard/state.json, commits any changes back (git = the database),
+# and emails when new roles appear.
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 06:00 UTC daily (GitHub cron can be delayed a bit)
+  workflow_dispatch:        # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write           # to commit the updated state.json
+
+concurrency:
+  group: jobwatch
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: jobboard/scraper/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          pip install -r jobboard/scraper/requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Scrape and diff
+        id: scrape
+        run: python jobboard/scraper/scrape.py
+
+      - name: Commit updated state
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(jobboard): update state.json [skip ci]"
+          file_pattern: jobboard/state.json
+
+      - name: Email new postings
+        if: steps.scrape.outputs.has_new == 'true'
+        continue-on-error: true   # a mail hiccup must not fail the scrape
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: Job Watch <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.MAIL_TO }}
+          subject: "🆕 New job postings detected"
+          body: ${{ steps.scrape.outputs.body }}
