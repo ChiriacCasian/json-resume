@@ -44,7 +44,9 @@ jobs:
           file_pattern: jobboard/state.json
 
       - name: Email new postings
-        if: steps.scrape.outputs.has_new == 'true'
+        # Only scheduled runs email. Manual (workflow_dispatch) runs stay silent
+        # so you can seed/refresh the CI baseline without a notification.
+        if: steps.scrape.outputs.has_new == 'true' && github.event_name == 'schedule'
         continue-on-error: true   # a mail hiccup must not fail the scrape
         uses: dawidd6/action-send-mail@v3
         with:
