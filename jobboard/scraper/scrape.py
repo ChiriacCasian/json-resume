@@ -30,7 +30,9 @@ TXT_IN = ROOT / "companies.txt"
 JSON_IN = ROOT / "companies.json"
 STATE = ROOT / "state.json"
 RECENT_DAYS = 14
-NEW_ITEMS_CAP = 25  # per company, in the email summary
+NEW_ITEMS_CAP = 25   # per company, in the email summary
+OPEN_ITEMS_CAP = 60  # per company, current openings stored for the UI
+MAX_NEW_ALERT = 40   # more "new" than this in one run = likely a scrape glitch, re-baseline silently
 
 
 def now() -> str:
@@ -134,6 +136,7 @@ def _preserve(res: dict, prev: dict | None, status: str, msg: str) -> None:
         res["source"] = prev.get("source")
         res["knownIds"] = prev.get("knownIds", [])
         res["totalOpen"] = prev.get("totalOpen", 0)
+        res["openItems"] = prev.get("openItems", [])
         res["recentItems"] = prev.get("recentItems", [])
 
 
@@ -142,7 +145,8 @@ def process(entry: dict, prev_map: dict[str, dict]) -> dict:
     res = {
         "id": entry["id"], "name": entry["name"], "url": entry["url"],
         "source": None, "status": "ok", "lastCheckedAt": now(),
-        "totalOpen": 0, "knownIds": [], "recentItems": [], "newItems": [],
+        "totalOpen": 0, "knownIds": [], "openItems": [],
+        "recentItems": [], "newItems": [],
     }
     try:
         source, jobs = resolve(entry)
@@ -153,8 +157,15 @@ def process(entry: dict, prev_map: dict[str, dict]) -> dict:
         else:
             known = set(prev.get("knownIds", []))
             new_jobs = [j for j in jobs if j.id not in known]
+            # A huge jump almost always means the page/extraction changed, not a
+            # real burst — re-baseline silently instead of flooding the email.
+            if len(new_jobs) > MAX_NEW_ALERT:
+                print(f"    ! {len(new_jobs)} new (>{MAX_NEW_ALERT}); re-baselining, not alerting")
+                new_jobs = []
         res["totalOpen"] = len(jobs)
         res["knownIds"] = cur_ids
+        res["openItems"] = [{"id": j.id, "title": j.title, "url": j.url}
+                            for j in jobs[:OPEN_ITEMS_CAP]]
         res["newItems"] = [j.to_item(today()) for j in new_jobs]
         res["recentItems"] = merge_recent(prev, new_jobs, today())
     except Blocked as e:

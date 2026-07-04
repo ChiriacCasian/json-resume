@@ -17,6 +17,7 @@ If Playwright isn't installed, only steps 2-3 (static) run.
 
 from __future__ import annotations
 
+import re
 from urllib.parse import urljoin, urlparse
 
 from ._base import Job, fingerprint, http_get, USER_AGENT
@@ -92,12 +93,42 @@ _HINTS = (
     "/job", "/jobs/", "/careers/", "/career/", "/position", "/opening",
     "/vacan", "/role", "gh_jid", "/apply", "/listing", "/posting",
 )
-_NOISE = {
+# Exact nav/section labels that live under /careers/ but aren't jobs.
+_NOISE_EXACT = {
     "privacy", "cookie", "cookies", "terms", "login", "log in", "sign in",
-    "sign up", "contact", "about", "about us", "home", "apply now",
-    "learn more", "read more", "view all", "see all", "all jobs",
-    "all openings", "search jobs", "back", "next", "previous",
+    "sign up", "contact", "about", "about us", "home", "apply now", "careers",
+    "learn more", "read more", "view all", "see all", "all jobs", "saved jobs",
+    "all openings", "search jobs", "back", "next", "previous", "here",
+    "open jobs", "open positions", "open roles", "culture", "benefits",
+    "perks", "perks & benefits", "engineering", "go to market", "sales",
+    "our teams", "teams", "locations", "students", "graduates",
+    "students & graduates", "early careers", "university recruiting",
+    "internships", "internships & early careers", "how we hire",
+    "hiring process", "interviewing with us", "interview prep", "faq",
+    "diversity", "diversity & inclusion", "life at", "our culture",
+    "recruitment fraud", "talent community", "join our talent community",
+    "career areas", "job alerts", "meet the team", "why join", "values",
 }
+
+# Substrings that appear only in footer/legal/nav/UI chrome, never in a job title.
+_NOISE_SUBSTR = (
+    "privacy", "cookie", "do not sell", "personal information",
+    "similar technolog", "all rights reserved", "view all job", "saved job",
+    "terms of", "manage preferences", "life at", "getting hired",
+    "students and early", "students & early", "contractor opportunit",
+    "meet our", "our story", "why join", "how we hire", "learn more",
+)
+
+# URL fragments that mark a link as a legal/privacy page, not a posting.
+_NOISE_URL = (
+    "privacy", "cookie", "candidateprivacy", "/legal", "gdpr",
+    "/terms", "/press", "do-not-sell",
+)
+
+
+def _is_noise(text: str) -> bool:
+    low = text.lower()
+    return low in _NOISE_EXACT or any(s in low for s in _NOISE_SUBSTR)
 
 
 def _extract_links(base_url: str, html: str) -> list[Job]:
@@ -109,11 +140,14 @@ def _extract_links(base_url: str, html: str) -> list[Job]:
         href = a["href"]
         if not any(h in href.lower() for h in _HINTS):
             continue
-        text = " ".join(a.get_text(" ").split())
-        if not (4 <= len(text) <= 120) or text.lower() in _NOISE:
-            continue
         absu = urljoin(base_url, href)
-        key = fingerprint(text, urlparse(absu).path)
+        if any(s in absu.lower() for s in _NOISE_URL):
+            continue
+        text = " ".join(re.sub(r"[→↳›»‹«]", "", a.get_text(" ")).split())
+        if not (4 <= len(text) <= 120) or _is_noise(text):
+            continue
+        path = urlparse(absu).path
+        key = fingerprint(text, path)
         out[key] = Job(id=key, title=text, url=absu)
     return list(out.values())
 
@@ -167,15 +201,14 @@ def collect(url: str, entry: dict, html: str | None = None) -> tuple[str, list[J
     if 3 <= len(api_jobs) <= _API_FILTER_CEILING:
         return "generic:api", api_jobs
 
-    # Otherwise trust what the filtered page actually renders.
-    if len(dom_jobs) >= 3:
-        return "generic:dom", dom_jobs
-
-    # Last resorts: a large (likely unfiltered) API feed, then static HTML.
-    if api_jobs:
-        return "generic:api", api_jobs
+    # Otherwise trust what the filtered page actually renders (even a few roles)
+    # rather than a large, likely-unfiltered API dump.
     if dom_jobs:
         return "generic:dom", dom_jobs
+
+    # Last resorts: the large API feed, then static HTML.
+    if api_jobs:
+        return "generic:api", api_jobs
 
     if html is None:
         try:
