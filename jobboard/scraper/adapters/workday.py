@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+from urllib.parse import urlsplit, parse_qs
 
 import httpx
 
@@ -12,6 +13,12 @@ NAME = "workday"
 
 _LANG = re.compile(r"^[a-z]{2}([-_][A-Za-z]{2})?$")
 _URL_IN_HTML = re.compile(r"https://[a-z0-9-]+\.[a-z0-9]+\.myworkdayjobs\.com/[^\s\"'<>]+")
+
+
+def label(token: str) -> str:
+    """Clean source label: the full URL is the token, so show just the tenant."""
+    host = urlsplit(token).netloc
+    return f"workday:{host.split('.')[0]}" if host else "workday"
 
 
 def match(url: str, html: str) -> str | None:
@@ -34,10 +41,15 @@ def fetch(token: str) -> list[Job]:
     if not site:
         return []
 
+    # The URL's query params (locationHierarchy1, jobFamilyGroup, ...) are exactly
+    # Workday's facet ids, so forward them as appliedFacets to honour the filter.
+    applied = parse_qs(urlsplit(token).query)
+
     api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     jobs, offset = [], 0
-    while offset <= 400:
-        data = http_post(api, json={"limit": 20, "offset": offset, "searchText": ""}).json()
+    while offset <= 1000:
+        body = {"appliedFacets": applied, "limit": 20, "offset": offset, "searchText": ""}
+        data = http_post(api, json=body).json()
         postings = data.get("jobPostings", [])
         for j in postings:
             path = j.get("externalPath", "")

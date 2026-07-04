@@ -93,7 +93,9 @@ def resolve(entry: dict) -> tuple[str, list[Job]]:
         token = mod.match(url, html)
         if token:
             try:
-                return f"{mod.NAME}:{token}", mod.fetch(token)
+                label_fn = getattr(mod, "label", None)
+                label = label_fn(token) if label_fn else f"{mod.NAME}:{token}"
+                return label, mod.fetch(token)
             except Exception:
                 break  # a bad ATS guess must not error the company -> generic
 
