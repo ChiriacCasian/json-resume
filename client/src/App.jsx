@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useMemo, useCallback, memo } from 'react';
 import Editor, { DiffEditor } from '@monaco-editor/react';
-import { Button, Group, Loader, Box, Text, ActionIcon, Grid, Card, Flex, SegmentedControl } from '@mantine/core';
+import { Button, Group, Loader, Box, Text, ActionIcon, Grid, Card, Flex, SegmentedControl, Progress, Tooltip } from '@mantine/core';
 import { Group as PanelGroup, Panel, Separator as PanelResizeHandle } from 'react-resizable-panels';
 import JobBoard from './JobBoard';
 
@@ -10,6 +10,17 @@ const MIN_GRID_COLUMNS = 1;
 const MAX_GRID_COLUMNS = 4;
 const BORDER_COLOR = '#e9ecef';
 const SELECTED_BORDER = '2px solid #228be6';
+
+// Letter @96dpi = exactly what Puppeteer exports at (0 margins), so the hidden iframe
+// wraps text and breaks pages just like the real PDF. Verified against the actual export:
+// 1024px of content = 1 page = 97%.
+const PAGE_PRINT_WIDTH = 816;
+const PAGE_PRINT_HEIGHT = 1056;
+// Reproduces the theme's @media print layout inside the hidden measuring iframe
+// so the fill % matches the actual exported PDF page break.
+const PRINT_EMULATION_STYLE =
+  '<style>html,body{margin:0!important;padding:0!important;background:#fff!important;}' +
+  '.resume{padding:0!important;margin:0 auto!important;border:none!important;box-shadow:none!important;}</style>';
 
 const SHARED_MONACO_OPTIONS = {
   wordWrap: 'on',
@@ -36,7 +47,7 @@ const findDefaultTheme = (themesData, savedTheme) => {
 
 const PanelHeader = ({ title, children }) => (
   <Group h={50} px="md" justify="space-between" wrap="nowrap" style={{ borderBottom: `1px solid ${BORDER_COLOR}` }} bg="white">
-    <Text size="sm" fw={700} truncate>{title}</Text>
+    {typeof title === 'string' ? <Text size="sm" fw={700} truncate>{title}</Text> : title}
     <Group gap={5} wrap="nowrap">{children}</Group>
   </Group>
 );
@@ -91,7 +102,7 @@ const PreviewPanel = ({
 }) => (
   <Panel defaultSize={50} minSize={25}>
     <Flex direction="column" h="100%" bg="white">
-      <PanelHeader title="Preview">
+      <PanelHeader title={currentTheme ? <PageFillMeter theme={currentTheme} json={jsonContent} /> : "Preview"}>
         <Group gap={5} wrap="nowrap">
           <Button
             size="xs"
@@ -100,7 +111,7 @@ const PreviewPanel = ({
             loading={downloading}
             disabled={gridColumns !== 1}
             mr="sm"
-            title={gridColumns !== 1 ? "Select a theme first to export" : "Click to export as PDF to CV dir"}
+            title={gridColumns !== 1 ? "Select a theme first to export" : "Click to export & download the PDF"}
           >
             Export PDF
           </Button>
@@ -132,6 +143,106 @@ const PreviewPanel = ({
     </Flex>
   </Panel>
 );
+
+// Live "how full is the page" gauge. Renders the current resume into a hidden,
+// print-emulated iframe, measures the content height, and reports it as a % of
+// one printed page (100% = exactly one page; >100% = spills onto a second page).
+const PageFillMeter = ({ theme, json }) => {
+  const [html, setHtml] = useState('');
+  const [pct, setPct] = useState(null);
+  const iframeRef = useRef(null);
+
+  // Debounced re-render so typing doesn't hammer the server.
+  useEffect(() => {
+    if (!theme || !json) return;
+    let cancelled = false;
+    const t = setTimeout(async () => {
+      try {
+        const res = await fetch(`/render?theme=${theme}`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: json,
+        });
+        const content = await res.text();
+        if (!cancelled) setHtml(content + PRINT_EMULATION_STYLE);
+      } catch { /* ignore transient errors while editing */ }
+    }, 350);
+    return () => { cancelled = true; clearTimeout(t); };
+  }, [theme, json]);
+
+  // Estimate page fill the way the PDF actually paginates: the theme puts
+  // `page-break-inside: avoid` on section blocks, so a block that would straddle a
+  // page edge is pushed *whole* onto the next page (leaving a gap). Summing raw
+  // height misses that gap and under-reports — so we walk the unbreakable blocks in
+  // order and simulate the pushes, matching the real Puppeteer/Letter export.
+  const measure = () => {
+    const resume = iframeRef.current?.contentDocument?.querySelector('.resume');
+    if (!resume) return;
+    const PAGE = PAGE_PRINT_HEIGHT;
+    const baseTop = resume.getBoundingClientRect().top;
+
+    const atoms = [];
+    resume.querySelectorAll(':scope > div').forEach((section) => {
+      const sc = section.querySelector(':scope > .sectionContent');
+      if (!sc) { atoms.push(section); return; }          // name / contact / summary header etc.
+      section.querySelectorAll(':scope > .sectionName, :scope > .sectionLine').forEach((e) => atoms.push(e));
+      const blocks = sc.querySelectorAll(':scope > *');   // the individual unbreakable rows
+      if (blocks.length) blocks.forEach((e) => atoms.push(e)); else atoms.push(sc);
+    });
+
+    let shift = 0, pageEnd = PAGE, maxBottom = 0;
+    for (const el of atoms) {
+      const r = el.getBoundingClientRect();
+      let top = (r.top - baseTop) + shift;
+      const h = r.height;
+      let bottom = top + h;
+      if (top < pageEnd && bottom > pageEnd && h <= PAGE) {  // block straddles the edge -> push it down
+        shift += pageEnd - top;
+        top = pageEnd;
+        bottom = top + h;
+      }
+      while (top >= pageEnd) pageEnd += PAGE;
+      if (bottom > maxBottom) maxBottom = bottom;
+    }
+
+    const effective = maxBottom || resume.getBoundingClientRect().height;
+    if (effective > 0) setPct((effective / PAGE) * 100);
+  };
+
+  const rounded = pct == null ? null : Math.round(pct);
+  const over = rounded != null && rounded > 100;
+  const near = rounded != null && rounded > 92 && rounded <= 100;
+  const remaining = rounded == null ? null : Math.max(0, 100 - rounded);
+  const color = rounded == null ? 'gray' : over ? 'red' : near ? 'yellow' : 'teal';
+  const tip = rounded == null
+    ? 'Measuring page…'
+    : over ? `${rounded - 100}% over one page — trim to fit`
+    : `${remaining}% room left on the page`;
+
+  return (
+    <Tooltip label={tip} withArrow position="bottom">
+      <Group gap={6} wrap="nowrap" style={{ cursor: 'default' }}>
+        <Progress value={Math.min(rounded ?? 0, 100)} color={color} w={80} size="sm" radius="xl" />
+        <Text size="xs" c={over ? 'red' : 'dimmed'} fw={600} style={{ whiteSpace: 'nowrap', minWidth: 30 }}>
+          {rounded == null ? '…' : `${rounded}%`}
+        </Text>
+        <iframe
+          ref={iframeRef}
+          srcDoc={html}
+          title="page-fill-measure"
+          aria-hidden="true"
+          tabIndex={-1}
+          onLoad={measure}
+          style={{
+            position: 'fixed', left: -99999, top: 0,
+            width: PAGE_PRINT_WIDTH, height: 1600,
+            border: 'none', pointerEvents: 'none',
+          }}
+        />
+      </Group>
+    </Tooltip>
+  );
+};
 
 function App() {
   const [view, setView] = useState('resume');
@@ -215,16 +326,31 @@ function App() {
 
       if (!response.ok) throw new Error('Export failed');
 
-      const result = await response.json();
+      // Trigger a browser download of the returned PDF
+      const blob = await response.blob();
+      const disposition = response.headers.get('Content-Disposition') || '';
+      const match = disposition.match(/filename="?([^"]+)"?/);
+      const fileName = match ? match[1] : 'resume.pdf';
 
-      // Update local state with the new version
-      const parsed = JSON.parse(jsonContent);
-      parsed.meta.version = result.version;
-      const updated = JSON.stringify(parsed, null, 2);
-      setJsonContent(updated);
-      setSavedContent(updated);
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = fileName;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
 
-      alert(`Export successful!\nVersion bumped to ${result.version}\nSaved to: ${result.path}`);
+      // Keep local state's version in sync with the server-side bump
+      const version = response.headers.get('X-Resume-Version');
+      if (version) {
+        const parsed = JSON.parse(jsonContent);
+        if (!parsed.meta) parsed.meta = {};
+        parsed.meta.version = version;
+        const updated = JSON.stringify(parsed, null, 2);
+        setJsonContent(updated);
+        setSavedContent(updated);
+      }
     } catch (error) {
       console.error('Download error:', error);
       alert('Failed to export PDF');

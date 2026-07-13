@@ -85,49 +85,30 @@ app.post('/api/export-pdf', async (req, res) => {
         const themeName = req.query.theme;
         let resume = req.body;
 
-        // Increment version in resume.json
-        const currentVersionStr = resume.meta?.version || '0';
-        const currentVersion = parseInt(currentVersionStr);
-        const nextVersion = currentVersion + 1;
-
-        // Move current PDF to 'old' directory
-        const currentFileName = `Teodor-Neagoe-CV-1-page-v${currentVersionStr}.pdf`;
-        const currentPath = path.resolve('..', currentFileName);
-        const oldDirPath = path.resolve('..', 'old');
-        const archivePath = path.resolve(oldDirPath, currentFileName);
-
-        try {
-            await fs.access(currentPath);
-            await fs.mkdir(oldDirPath, { recursive: true });
-            await fs.rename(currentPath, archivePath);
-            console.log(`Archived ${currentFileName} to old/`);
-        } catch (err) {
-            // File doesn't exist or other error, ignore
-        }
+        // Increment the version stored in resume.json
+        const nextVersion = parseInt(resume.meta?.version || '0') + 1;
 
         if (!resume.meta) resume.meta = {};
         resume.meta.version = nextVersion.toString();
         resume.meta.lastModified = new Date().toISOString();
 
-        // Save updated resume.json
+        // Persist the bumped version back to resume.json
         await fs.writeFile(RESUME_PATH, JSON.stringify(resume, null, 2));
 
         const html = await getRenderedHtml(resume, themeName);
         const theme = await import(`jsonresume-theme-${themeName}`);
         const pdfBuffer = await pdf(html, resume, theme);
 
-        const fileName = `Teodor-Neagoe-CV-1-page-v${nextVersion}.pdf`;
-        const outputPath = path.resolve('..', fileName);
+        const personSlug = (resume.basics?.name || 'Resume').trim().replace(/\s+/g, '-');
+        const fileName = `${personSlug}-CV-1-page-v${nextVersion}.pdf`;
 
-        await fs.writeFile(outputPath, Buffer.from(pdfBuffer));
-        console.log(`PDF saved to: ${outputPath}`);
-
-        res.json({
-            success: true,
-            version: nextVersion.toString(),
-            fileName,
-            path: outputPath
-        });
+        // Stream the PDF straight back to the browser as a download.
+        // (No longer written to disk outside the project directory.)
+        res.setHeader('Content-Type', 'application/pdf');
+        res.setHeader('Content-Disposition', `attachment; filename="${fileName}"`);
+        res.setHeader('X-Resume-Version', nextVersion.toString());
+        res.setHeader('Access-Control-Expose-Headers', 'X-Resume-Version, Content-Disposition');
+        res.send(Buffer.from(pdfBuffer));
     } catch (e) {
         console.error(`PDF Export failed:`, e.message);
         res.status(500).send('PDF Export failed');

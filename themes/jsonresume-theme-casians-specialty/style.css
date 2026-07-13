@@ -59,7 +59,7 @@ a:hover {
 }
 
 .sectionLine {
-  border-bottom: 1px solid #999;
+  border-bottom: 1.5px solid #1e3a8a;
   margin-bottom: 5px;
   width: 100%;
 }
@@ -193,12 +193,14 @@ a:hover {
 /* Education elements */
 .coursesBlock {
   margin-top: 2px;
+  display: flex;
+  gap: 10px;
 }
 
 .coursesList {
-  width: 28%;
+  flex: 1;
+  min-width: 0;
   vertical-align: top;
-  display: inline-block;
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 15px;

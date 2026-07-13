@@ -1,14 +1,12 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Teodor Neagoe",
-    "dateOfBirth": 21,
-    "label": "Software Engineer | Student | Founder",
-    "image": "",
-    "email": "teodor.neagoe.climber@gmail.com",
-    "phone": "+40 773 837 073",
-    "url": "https://github.com/Teoneag",
-    "summary": "Software Engineer with experience in production app development (Uber internship; Recollect CTO; YellowDocs Technical Co-Founder), robotics (RoboCup participant), and AI-driven systems (honours research at TU Delft; Ekkie.ai founding-engineer)",
+    "name": "Chiriac Sebastian Casian",
+    "label": "Software Engineer",
+    "email": "chiriaccasian@gmail.com",
+    "phone": "+40 771 724 193",
+    "url": "https://github.com/ChiriacCasian",
+    "summary": "Software engineer with experience building production AI agents, cloud-native backend services, observability infrastructure, and evaluation pipelines.",
     "location": {
       "city": "Delft",
       "region": "South Holland",
@@ -17,26 +15,26 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "Teoneag",
-        "url": "https://github.com/Teoneag"
+        "username": "ChiriacCasian",
+        "url": "https://github.com/ChiriacCasian"
       },
       {
         "network": "LinkedIn",
-        "username": "teodor-neagoe",
-        "url": "https://www.linkedin.com/in/teodor-neagoe"
+        "username": "sebastian-chiriac",
+        "url": "https://www.linkedin.com/in/sebastian-chiriac"
       }
     ]
   },
   "education": [
     {
       "institution": "Delft University of Technology",
-      "area": "Computer Science & Engineering with Quantum Science & Quantum Information Minor",
-      "studyType": "Bachelor of Science (Honours)",
+      "area": "Computer Science & Engineering with Quantum Science & Quantum Information Specialization",
+      "studyType": "Bachelor of Science",
       "startDate": "2023-09-01",
       "courses": [
-        "OOP Project: Full-stack expense splitter (Spring Boot, JavaFX",
+        "OOP Project: Full-stack expense splitter (Spring Boot, JavaFX)",
         "Interpreter with desugarer & type checker in Scala; Ray tracer in C++ with OpenGL",
-        "Quantum Engineering Project: Implemented qkNN in Python (Qiskit) "
+        "Quantum Engineering Project: Implemented a quantum K-Nearest Neighbours classifier."
       ]
     }
   ],
@@ -44,101 +42,62 @@
     {
       "name": "Ekkie.ai",
       "location": "Roosendaal, Netherlands",
-      "position": "Founding Engineer (Part-time)",
+      "position": "Founder & CTO",
       "startDate": "2026-01-01",
       "summary": "",
       "url": "https://www.ekkie.ai",
       "highlights": [
-        "Rebuilt the dispatcher (1 of 3 products sold to customers) from 0 in Python within the first 2 weeks",
-        "Designing & building the new deterministic engine using Spring Boot Kotlin (previously implemented in Python)",
-        "Tech stack: Kotlin (Spring Boot), Python (Microsoft Agent Framework) TypeScript (Next.js), Autotask, Topdesk, Azure suite (Graph, SQL, Blob)"
+        "Implemented a production multi-stage LLM agent with the Microsoft Agent (MAF) framework  containing a deterministic planner an executor and a resolution checker workflow with conditional edges and human-in-the-loop approval gates on high-risk mcp tool calls that autonomously resolves Microsoft 365 IT support tickets at a 92% resolution rate, measured by a custom evaluation pipeline that drove continuous agent improvement.",
+        "Built and operated the entire multi-tenant production platform on Microsoft Azure (Container Apps, Cosmos NoSQL DB (with DiskANN) vector search powering some custom documentation search tools), Key Vault, Blob Storage, and Azure AI Foundry all secured with keyless OIDC and managed-identity auth and delivered via GitHub Actions CI/CD with automated deploy and one-click rollback.",
+        "Built end-to-end observability and incident-response infrastructure using OpenTelemetry, distributed tracing, structured logging, health checks, and Azure Application Insights/Log Analytics, enabling rapid root-cause analysis, proactive production monitoring, and incident.io incident response",
+        "Tech stack: Kotlin (Spring Boot), Azure cloud computing platform, Python (Microsoft Agent Framework), TypeScript (React)"
       ]
     },
     {
-      "name": "YellowDocs.com",
-      "location": "Delft, Netherlands",
-      "position": "Technical Co-founder",
-      "startDate": "2025-12-01",
-      "url": "https://yellowdocs.com/",
-      "highlights": [
-        "Secured 2 paying customers within the first 2 months (both interested in investing)",
-        "Developed both Web & mobile UI",
-        "Tech stack: Supabase, TypeScript (React + Vite)"
-      ]
-    },
-    {
-      "name": "Uber",
+      "name": "JetBrains",
       "location": "Amsterdam, Netherlands",
-      "position": "Software Engineer Intern",
-      "startDate": "2025-07-01",
-      "endDate": "2026-01-01",
+      "position": "Software Engineer Intern - 8 months",
+      "startDate": "2024-12-01",
+      "endDate": "2025-08-01",
       "highlights": [
-        "Designed & implemented an internal tool to simplify data retrieval for our team; built endpoints & frontend",
-        "Re-designed & implemented ui routing (for our team products) to support scalable deployment across multiple UI versions",
-        "Onboarded the team to a new observability tool, improving monitoring & debugging capabilities for our product with funneling",
-        "Tech stack: Go (Fx), TypeScript (React + Fusion.js), Protobuf, Phabricator, nginx"
+        "Designed and implemented embeddings-based semantic similarity metrics (via cosine similarity) to evaluate plain-text AI completions, expanding evaluation coverage beyond deterministic code-based metrics.",
+        "Improved observability by adding new telemetry metrics and an interactive HTML dashboard that aggregated large evaluation reports data, making high-volume evaluation reports diagnosable at a glance and making it possible to spot high-level systemic problems",
+        "Was responsible for the TeamCity-based AI evaluation pipeline by diagnosing regressions, pinpointing root causes, and resolving pipeline issues to improve build stability and pass rates, served as the primary resource for engineers running experiments and onboarding to the evaluation infrastructure",
+        "Tech stack: Kotlin, TeamCity CI/CD & Buildserver, Java, Python"
       ]
     },
     {
       "name": "WTSS",
       "location": "Rotterdam, Netherlands",
-      "position": "Software Engineer Intern",
+      "position": "Software Engineer Intern  - 2 months",
       "startDate": "2025-04-01",
       "endDate": "2025-07-01",
       "highlights": [
-        "As part of team of 5 students, we created a proof of concept architecture from the ground up for their whole software",
-        "Built a code generation platform for e2e tests for Playwright, Appium, and API testing",
-        "Tech stack: Java (Spring Boot), TypeScript (React), Playwright, Appium, Docker"
-      ]
-    },
-    {
-      "name": "Recollect",
-      "location": "Delft, Netherlands",
-      "position": "CTO",
-      "url": "https://recollectsapp.com/",
-      "startDate": "2024-10-01",
-      "endDate": "2025-12-01",
-      "highlights": [
-        "Designed & built photo journaling app",
-        "Shipped Android & iOS app",
-        "Tech stack: Dart (Flutter), Firebase"
-      ]
-    },
-    {
-      "name": "Delft Mercurians - Tu Delft's RoboCup Team",
-      "location": "Delft, Netherlands",
-      "position": "Software Engineer",
-      "url": "https://delftmercurians.nl/",
-      "startDate": "2023-09-01",
-      "endDate": "2025-02-01",
-      "highlights": [
-        "Built a Rust-based physics simulator using Bevy & Rapier"
+        "Created a distributed, event-driven orchestration system using RabbitMQ to coordinate microservices and containerized E2E test workers, enabling reliable asynchronous execution, workload distribution, and e2e test scheduling",
+        "Achieved reliable programmatic control of physical mobile devices and emulators from containerized environments by integrating Playwright and Appium into a Docker workers, enabling fully automated e2e test execution.",
+        "Tech stack: Java (Spring Boot), RabbitMQ, TypeScript (React), Playwright, Appium, Docker"
       ]
     }
   ],
   "projects": [
     {
-      "name": "CoinSky - Flutter Firebase crypto wallet",
-      "url": "https://github.com/Teoneag/CoinSky",
+      "name": "Automated E2E Testing Platform with TeamCity Integration",
+      "description": "A platform for creating & scheduling e2e tests for web, mobile and API applications, that simulates e2e tests on physical devices and emulators (via Playwright and Appium), automatically monitors application health, and alerts on specific e2e step failures.",
+      "url": "https://github.com/ChiriacCasian/E2ETestingPlatform",
       "highlights": [],
       "roles": []
     },
     {
-      "name": "GDB Driver for Java - Java library for easier GDB debugging",
-      "description": "",
-      "url": "https://github.com/Teoneag/GDB-Driver-for-Java",
+      "name": "Commit Scheduler",
+      "description": "A published IntelliJ IDEA plugin with 200+ downloads that schedules the push date of your commits on a highly configurable, predefined schedule.",
+      "url": "https://github.com/ChiriacCasian/CommitScheduler",
       "highlights": [],
       "roles": []
     },
     {
-      "name": "Ultimate Tic-Tac-Toe in Assembly x86_64",
-      "url": "https://github.com/Teoneag/Ultimate-Tic-Tac-Toe-Assembly",
-      "highlights": [],
-      "roles": []
-    },
-    {
-      "name": "Jarvis - Flutter Firebase Personal assistant (Alexa + Todoist + Notion)",
-      "url": "https://github.com/Teoneag/Jarvis-2",
+      "name": "AI AutoComplete Caching",
+      "description": "An IntelliJ IDEA plugin that caches AI-generated code autocompletions using a Trie (prefix tree) data structure.",
+      "url": "https://github.com/ChiriacCasian/AutoCompleteCaching",
       "highlights": [],
       "roles": []
     }
@@ -147,16 +106,13 @@
     {
       "name": "Programming languages & Frameworks",
       "keywords": [
-        "Dart (Flutter, Firebase)",
-        "Java (Spring Boot, JavaFX)",
-        "Python",
+        "Java (Spring Boot)",
+        "Python (Microsoft Agent Framework)",
         "Kotlin (Spring Boot)",
-        "Go (Fx)",
-        "TypeScript (React, Fusion.js, Next.js, Supabase)",
-        "Rust (Bevy, Rapier)",
-        "C++ (Arduino, OpenGL, Competitive Programming)",
+        "Kotlin DSL",
+        "TypeScript (React)",
+        "C++ (OpenGL, Competitive Programming)",
         "Scala",
-        "Assembly (x86_64)",
         "HTML, CSS, JavaScript",
         "SQL"
       ]
@@ -164,56 +120,39 @@
     {
       "name": "Other Tools & Platforms",
       "keywords": [
-        "Git, GitHub, GitLab, Phabricator",
-        "Playwright, Appium",
-        "Microsoft Azure",
+        "Git / GitHub / GitLab",
+        "TeamCity CI/CD & Buildserver",
+        "Playwright",
+        "Appium",
+        "Microsoft Azure cloud computing platform",
         "Docker"
       ]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Robotics"
-    },
-    {
-      "name": "Aeromodelling"
-    },
-    {
-      "name": "Bouldering"
-    },
-    {
-      "name": "Chess"
-    },
-    {
-      "name": "Skiing"
-    }
-  ],
-  "-publications": [
-    {
-      "name": "How Expert Consultation Affects Creativity: The Role of Expert Input in Early Stage Innovation",
-      "publisher": "CIJ (CERN IdeaSquare Journal of Experimental Innovation)",
-      "releaseDate": "2025-12-01",
-      "url": "https://e-publishing.cern.ch/index.php/CIJ/article/view/1787",
-      "summary": "I participated in the TU Delft CERN IdeaSquare Summer School as part of my Honours programme, and then I've wrote this paper with my team"
     }
   ],
   "-languages": [
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Native-Level"
     },
     {
       "language": "Romanian",
-      "fluency": "Native"
+      "fluency": "Native-Level"
     }
   ],
   "volunteer": [],
-  "awards": [],
+  "awards": [
+    {
+      "title": "NSS Space Settlement contest - Gold medal(1st place)"
+    },
+    {
+      "title": "American Computer Science League - Silver Medal"
+    }
+  ],
   "references": [],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
-    "version": "26",
-    "lastModified": "2026-03-28T20:13:55.044Z",
-    "theme": "jsonresume-theme-teon-parsable-1"
+    "version": "42",
+    "lastModified": "2026-07-06T18:22:36.941Z",
+    "theme": "jsonresume-theme-casians-specialty"
   }
 }

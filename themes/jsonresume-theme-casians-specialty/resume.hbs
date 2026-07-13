@@ -18,13 +18,13 @@
 	{{#resume.basics}}
   <div class='nameBlock'>
     <span class='name'>{{name}}</span>
-    {{#if label}}<div class='label'>{{label}}</div>{{/if}}
   </div>
   <div class='basicsBlock'>
     <div class='contactBlock'>
       {{#location}}{{#if address}}{{address}}{{/if}}{{#if city}}{{#if address}} • {{/if}}{{city}}{{/if}}{{#if region}}{{#if city}}, {{/if}}{{region}}{{/if}} {{#if postalCode}}{{postalCode}}{{/if}}{{/location}}
       {{#if phone}}<span class='divider'>•</span><span class='phone'>{{phone}}</span>{{/if}}
       {{#if email}}<span class='divider'>•</span><span class='email'>{{email}}</span>{{/if}}
+      {{#if label}}<span class='divider'>•</span><span class='label-inline'>{{label}}</span>{{/if}}
       {{#each profiles}}
         {{#if url}}<span class='divider'>•</span><span class='url'><a href='{{url}}'>{{network}}</a></span>{{/if}}
       {{/each}}
@@ -157,7 +157,7 @@
       <div class='projectBlock'>
         <div class='blockHeader'>
           <span class='title'>
-            {{#if url}}<a href='{{url}}'><span class='normal-weight'>{{name}} <em>({{url}})</em></span></a>{{else}}{{name}}{{/if}}
+            {{#if url}}<a href='{{url}}'>{{name}}</a> <em class='normal-weight'>({{url}})</em>{{else}}{{name}}{{/if}}
           </span>
           {{#if startDate}}
           <span class='date'>
@@ -253,28 +253,9 @@
     </div>
     <div class='sectionLine'></div>
     <div class='sectionContent'>
-      {{#each resume.awards}}
       <div class='awardBlock'>
-        <div class='blockHeader'>
-          <span class='title'>
-            {{#if title}}{{title}}{{#if awarder}}: {{awarder}}{{/if}}{{/if}}
-          </span>
-          {{#if date}}
-          <span class='date'>
-            <span class='date'>{{formatDate date}}</span>
-          </span>
-          {{/if}}
-        </div>
-        {{#if highlights.length}}
-        <ul class='highlights'>
-          {{#each highlights}}
-          <li>{{.}}</li>
-          {{/each}}
-        </ul>
-        {{/if}}
-        {{#unless @last}}<div class='separator'></div>{{/unless}}
+        {{#each resume.awards}}{{#if @index}}<span>, </span>{{/if}}<span class='award'>{{title}}{{#if awarder}} &mdash; {{awarder}}{{/if}}{{#if date}} <em>({{formatDate date}})</em>{{/if}}</span>{{/each}}
       </div>
-      {{/each}}
     </div>
 	</div>
 	{{/if}}
