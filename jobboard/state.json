@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:29:23+00:00",
+  "generatedAt": "2026-07-19T08:00:33+00:00",
   "companies": [
     {
       "id": "amazon-eu-student-internship",
@@ -7,7 +7,7 @@
       "url": "https://amazon.jobs/content/en/career-programs/university-ops/eu-students-internship",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:25:23+00:00",
+      "lastCheckedAt": "2026-07-19T07:56:35+00:00",
       "totalOpen": 75,
       "knownIds": [
         "h:885741e4d17db055",
@@ -397,7 +397,7 @@
       "url": "https://explore.jobs.netflix.net/careers?pid=790316851901&Teams=Engineering&Teams=Data%20%26%20Insights&Teams=Engineering%20Operations&Region=emea&domain=netflix.com&sort_by=relevance",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:25:28+00:00",
+      "lastCheckedAt": "2026-07-19T07:56:41+00:00",
       "totalOpen": 11,
       "knownIds": [
         "h:c0a36768627e69e5",
@@ -497,7 +497,7 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results?distance=50&target_level=INTERN_AND_APPRENTICE&degree=BACHELORS&degree=PURSUING_DEGREE&employment_type=FULL_TIME&employment_type=TEMPORARY&employment_type=PART_TIME&employment_type=INTERN&company=GFiber&company=Verily%20Life%20Sciences&company=Wing&company=Waymo&company=X&company=Fitbit&company=Google&company=YouTube&location=Germany&location=Netherlands&location=Switzerland&location=United%20Kingdom",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:25:35+00:00",
+      "lastCheckedAt": "2026-07-19T07:56:48+00:00",
       "totalOpen": 4,
       "knownIds": [
         "h:c5c859e47a7bff7a",
@@ -536,7 +536,7 @@
       "url": "https://jobs.uber.com/en/jobs/?radius=50&team=University",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:25:41+00:00",
+      "lastCheckedAt": "2026-07-19T07:56:54+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -549,7 +549,7 @@
       "url": "https://www.metacareers.com/jobsearch/?offices[0]=Europe%20%26%20Middle%20East&roles[0]=Internship&teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[2]=University%20Grad%20-%20PhD%20%26%20Postdoc",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:25:46+00:00",
+      "lastCheckedAt": "2026-07-19T07:56:59+00:00",
       "totalOpen": 2,
       "knownIds": [
         "h:e2248e2166ed0617",
@@ -576,7 +576,7 @@
       "url": "https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:25:52+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:07+00:00",
       "totalOpen": 2,
       "knownIds": [
         "h:460f496d62f3379f",
@@ -603,7 +603,7 @@
       "url": "https://jobs.apple.com/en-in/search?location=germany-DEU+london-metro-LOND&team=internships-STDNT-INTRN",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:25:59+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:14+00:00",
       "totalOpen": 10,
       "knownIds": [
         "h:bcf5c355aa95d980",
@@ -678,7 +678,7 @@
       "url": "https://apply.careers.microsoft.com/careers?start=0&location=Amsterdam%2C++NH%2C++Netherlands&sort_by=distance&filter_distance=160&filter_include_remote=1&filter_profession=software+engineering&filter_seniority=Intern%2CEntry",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:05+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:20+00:00",
       "totalOpen": 3,
       "knownIds": [
         "h:ea853d25a46e462b",
@@ -711,8 +711,8 @@
       "url": "https://openai.com/careers/search/?l=fca11f90-4dac-47b6-80e0-752cfeab792b%2C66f001f7-02bf-4419-ac0a-07aba9b32751%2C59a05e6d-6083-4712-a7a5-6388236e88c7%2C2accdeab-a029-418f-b635-f185078fe222%2C6afc3ffa-a7f3-4b49-8f12-74cc8460db3d",
       "source": "ashby:openai",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:12+00:00",
-      "totalOpen": 723,
+      "lastCheckedAt": "2026-07-19T07:57:27+00:00",
+      "totalOpen": 724,
       "knownIds": [
         "ashby:8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
         "ashby:240d459b-696d-43eb-8497-fab3e56ecd9b",
@@ -1177,6 +1177,7 @@
         "ashby:da8dd5fd-1dec-4610-9508-5a156af9ca92",
         "ashby:18215299-95f4-487e-82ca-556aa6c416de",
         "ashby:2fc08730-bed0-4273-91ec-78c17f43f500",
+        "ashby:713a9469-fb35-49db-809e-36f67c920880",
         "ashby:5c85c498-6459-4e4a-937c-6bc9150f743e",
         "ashby:a6363571-e090-43a7-b758-ee3386a096c1",
         "ashby:9117987a-7a59-449e-a702-89e8d0e8cb60",
@@ -1741,6 +1742,12 @@
         }
       ],
       "recentItems": [
+        {
+          "id": "ashby:713a9469-fb35-49db-809e-36f67c920880",
+          "title": "Technical Program Manager, Rack Delivery",
+          "url": "https://jobs.ashbyhq.com/openai/713a9469-fb35-49db-809e-36f67c920880",
+          "firstSeen": "2026-07-19"
+        },
         {
           "id": "ashby:78c2a68b-cc77-4c62-8891-96afb603650a",
           "title": "Systems Generalist, GPT Infrastructure",
@@ -2530,52 +2537,10 @@
       ],
       "newItems": [
         {
-          "id": "ashby:78c2a68b-cc77-4c62-8891-96afb603650a",
-          "title": "Systems Generalist, GPT Infrastructure",
-          "url": "https://jobs.ashbyhq.com/openai/78c2a68b-cc77-4c62-8891-96afb603650a",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "ashby:3fd0ca32-e787-437d-985a-b9f7e3299ef4",
-          "title": "Partner Strategy & Operations",
-          "url": "https://jobs.ashbyhq.com/openai/3fd0ca32-e787-437d-985a-b9f7e3299ef4",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "ashby:5aaf1e78-c506-480f-91a7-e32092557eb9",
-          "title": "Procurement Enablement Lead",
-          "url": "https://jobs.ashbyhq.com/openai/5aaf1e78-c506-480f-91a7-e32092557eb9",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "ashby:f4720507-3c44-4162-af21-206ac3a78007",
-          "title": "Compensation Business Partner, GTM",
-          "url": "https://jobs.ashbyhq.com/openai/f4720507-3c44-4162-af21-206ac3a78007",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "ashby:9bbea80a-7336-48f1-9dca-554f4354a5cf",
-          "title": "Strategic Compute Capacity Planning Lead",
-          "url": "https://jobs.ashbyhq.com/openai/9bbea80a-7336-48f1-9dca-554f4354a5cf",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "ashby:3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c",
-          "title": "AI Deployment Engineer, Messenger Integrations",
-          "url": "https://jobs.ashbyhq.com/openai/3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "ashby:88b93f91-7548-42a1-8d5b-7d37090e480f",
-          "title": "Brand Protection Manager",
-          "url": "https://jobs.ashbyhq.com/openai/88b93f91-7548-42a1-8d5b-7d37090e480f",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "ashby:000cf0f2-090d-40c6-b9f8-1699db9a4c68",
-          "title": "HR Generalist, Consumer Devices",
-          "url": "https://jobs.ashbyhq.com/openai/000cf0f2-090d-40c6-b9f8-1699db9a4c68",
-          "firstSeen": "2026-07-18"
+          "id": "ashby:713a9469-fb35-49db-809e-36f67c920880",
+          "title": "Technical Program Manager, Rack Delivery",
+          "url": "https://jobs.ashbyhq.com/openai/713a9469-fb35-49db-809e-36f67c920880",
+          "firstSeen": "2026-07-19"
         }
       ]
     },
@@ -2585,7 +2550,7 @@
       "url": "https://stripe.com/jobs/search?office_locations=Europe--Amsterdam&office_locations=Europe--Berlin&office_locations=Europe--Bucharest&office_locations=Europe--Dublin&office_locations=Europe--London&office_locations=Europe--Madrid&office_locations=Europe--Paris&office_locations=Europe--Stockholm&office_locations=Europe--Warsaw&tags=University",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:13+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:28+00:00",
       "totalOpen": 81,
       "knownIds": [
         "h:d2757be87abe701a",
@@ -2994,7 +2959,7 @@
       "url": "https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:19+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:35+00:00",
       "totalOpen": 2,
       "knownIds": [
         "h:d4cfd395b7ea62a2",
@@ -3028,7 +2993,7 @@
       "url": "https://www.palantir.com/careers/open-positions/?location=Europe+%26+Middle+East",
       "source": "lever:palantir",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:24+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:39+00:00",
       "totalOpen": 274,
       "knownIds": [
         "lever:ac978161-6f46-4f6b-ad9e-a258e642751c",
@@ -3688,14 +3653,7 @@
           "firstSeen": "2026-07-07"
         }
       ],
-      "newItems": [
-        {
-          "id": "lever:e65e0d73-1d91-4696-809f-7810ecd474d1",
-          "title": "Deployment Strategist",
-          "url": "https://jobs.lever.co/palantir/e65e0d73-1d91-4696-809f-7810ecd474d1",
-          "firstSeen": "2026-07-18"
-        }
-      ]
+      "newItems": []
     },
     {
       "id": "datadog",
@@ -3703,7 +3661,7 @@
       "url": "https://careers.datadoghq.com/all-jobs/?time_type%5B0%5D=Early%20Career",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:25+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:40+00:00",
       "totalOpen": 10,
       "knownIds": [
         "h:9cd95251439d49ec",
@@ -3851,7 +3809,7 @@
       "url": "https://www.lifeattinder.com/positions",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:30+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:45+00:00",
       "totalOpen": 19,
       "knownIds": [
         "h:146a3350728f70d6",
@@ -4021,183 +3979,495 @@
       "id": "nvidia",
       "name": "NVIDIA",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationHierarchy1=2fcb99c455831013ea52e6c3067832b4&locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba&locationHierarchy1=2fcb99c455831013ea52d8783aa0329c&locationHierarchy1=e5375aecc8d9103bebfb513cb69200d4&locationHierarchy1=2fcb99c455831013ea52d0e0e4583290&locationHierarchy1=7bcfe8379f6b01ad4d347d1ca87689a6&locationHierarchy1=2fcb99c455831013ea52a6cbc15f3248&locationHierarchy1=2fcb99c455831013ea52aa2df70e324e&locationHierarchy1=2fcb99c455831013ea52adc65f5d3254&locationHierarchy1=d21cf68980ad0121a67d319db107a200&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78",
-      "source": "generic:dom",
+      "source": "workday:nvidia",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:35+00:00",
-      "totalOpen": 28,
+      "lastCheckedAt": "2026-07-19T07:57:50+00:00",
+      "totalOpen": 40,
       "knownIds": [
-        "h:ebad4333b3748665",
-        "h:8c2a390dcfd06819",
-        "h:5c9e7025f1c125a2",
-        "h:7536ad1242524caf",
-        "h:53744391cae6887f",
-        "h:23c62dc0c324aeb1",
-        "h:8c9eea98410497a5",
-        "h:d9b05bc59969770a",
-        "h:04d8d8337dcb83fb",
-        "h:3f615b8a9a3cf61b",
-        "h:e58bdd665eeef76d",
-        "h:f9c0c7a00d4be7bd",
-        "h:6a8cb78a08d1ee39",
-        "h:a8c5a137ff1ae9c8",
-        "h:1c9a83f2193d8c7c",
-        "h:f47bda5f4e6b186c",
-        "h:d612fd5bd3ba3f34",
-        "h:7615d8412ffb3852",
-        "h:e34d76a2825d4672",
-        "h:7f54b83af3430d03",
-        "h:7bed5e8ad1c70649",
-        "h:e1325dfa0030b7b2",
-        "h:c243200bf98d9099",
-        "h:5f8e3d8c94c174a0",
-        "h:4834b2ea50d17c82",
-        "h:a97408c4c0f36255",
-        "h:21a281049d33fd9a",
-        "h:c2cb565d9be23dc3"
+        "workday:/job/Germany-Munich/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2020224",
+        "workday:/job/Switzerland-Zurich/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2021400",
+        "workday:/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384",
+        "workday:/job/Germany-Munich/Senior-Test-Engineer---Autonomous-Driving_JR2019510-1",
+        "workday:/job/Germany-Remote/Senior-HPC-DevOps-Engineer_JR2010371-1",
+        "workday:/job/Belgium-Ghent/Senior-Silicon-Photonics-Design-Engineer_JR2020858",
+        "workday:/job/Finland-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011028",
+        "workday:/job/Germany-Remote/Senior-Software-Engineer--RL-Post-Training-Frameworks_JR2020706",
+        "workday:/job/Germany-Remote/Principal-Developer-Technology-Engineer_JR2013547",
+        "workday:/job/Germany-Remote/Senior-Manager--Software-Engineering---JAX_JR2020495",
+        "workday:/job/Denmark-Roskilde/Senior-Validation-and-Qualification-Engineer_JR2019709",
+        "workday:/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236",
+        "workday:/job/Germany-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
+        "workday:/job/Germany-Munich/Senior-Software-Engineer--Applied-AI_JR2019145",
+        "workday:/job/UK-Cambridge/Senior-Compiler-Engineer_JR2019152",
+        "workday:/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2015271",
+        "workday:/job/Switzerland-Zurich/Senior-GPU-Networking-Architect_JR2015083",
+        "workday:/job/Poland-Warsaw/Senior-Software-Engineer--Cloud-Automation_JR2019580-1",
+        "workday:/job/Switzerland-Zurich/Senior-Software-Developer_JR2008695",
+        "workday:/job/UK-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2019153",
+        "workday:/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906",
+        "workday:/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723",
+        "workday:/job/Poland-Warsaw/Manager--Deep-Learning-Algorithms_JR1990716-1",
+        "workday:/job/Switzerland-Remote/Senior-CPU-Performance-Developer-Technology-Engineer_JR2003570",
+        "workday:/job/Poland-Warsaw/Senior-Software-Verification-Engineer_JR1998674",
+        "workday:/job/Denmark-Roskilde/Interconnect-Hardware-Engineer---Networking_JR2017507",
+        "workday:/job/Germany-Remote/Senior-HPC-Performance-Engineer_JR2001201",
+        "workday:/job/Germany-Remote/Senior-Software-Engineer--AI-Inference-Systems_JR2017366",
+        "workday:/job/Germany-Munich/Senior-Software-Test-Engineer---L3-and-L4---Autonomous-Driving_JR2016000",
+        "workday:/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341",
+        "workday:/job/UK-Cambridge/Senior-Compiler-Engineer_JR2010046",
+        "workday:/job/UK-Remote/Senior-Deep-Learning-Engineer_JR2013341",
+        "workday:/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949",
+        "workday:/job/Germany-Remote/Senior-Software-Engineer--CUDA-Core-Libraries_JR2014754",
+        "workday:/job/Poland-Remote/Senior-Software-Developer--AI-Networking_JR2013723",
+        "workday:/job/Poland-Warsaw/System-Software-Engineer--Python-and-C-C-----Deep-Learning_JR2013224",
+        "workday:/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771",
+        "workday:/job/Sweden-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011026",
+        "workday:/job/Germany-Berlin/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403",
+        "workday:/job/Poland-Remote/Senior-Libraries-Engineer---AI-and-HPC_JR2006812"
       ],
       "openItems": [
         {
-          "id": "h:ebad4333b3748665",
-          "title": "Inclusion",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/inclusion/"
+          "id": "workday:/job/Germany-Munich/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2020224",
+          "title": "Relational Foundation Model Engineer, Modern Data Stack",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2020224"
         },
         {
-          "id": "h:8c2a390dcfd06819",
-          "title": "Overview",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
+          "id": "workday:/job/Switzerland-Zurich/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2021400",
+          "title": "Robotics Software Engineer - Robot Simulation and Benchmarking",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2021400"
         },
         {
-          "id": "h:5c9e7025f1c125a2",
-          "title": "Find Your Next Job",
-          "url": "https://jobs.nvidia.com/careers"
+          "id": "workday:/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384",
+          "title": "Senior CPU Compiler Performance Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384"
         },
         {
-          "id": "h:7536ad1242524caf",
-          "title": "Explore Now",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/life-at-nvidia/"
+          "id": "workday:/job/Germany-Munich/Senior-Test-Engineer---Autonomous-Driving_JR2019510-1",
+          "title": "Senior Test Engineer - Autonomous Driving",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Test-Engineer---Autonomous-Driving_JR2019510-1"
         },
         {
-          "id": "h:53744391cae6887f",
-          "title": "Meet More Teams",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/teams-in-action/"
+          "id": "workday:/job/Germany-Remote/Senior-HPC-DevOps-Engineer_JR2010371-1",
+          "title": "Senior HPC DevOps Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-HPC-DevOps-Engineer_JR2010371-1"
         },
         {
-          "id": "h:23c62dc0c324aeb1",
-          "title": "Get Started Here",
-          "url": "https://jobs.nvidia.com/careers"
+          "id": "workday:/job/Belgium-Ghent/Senior-Silicon-Photonics-Design-Engineer_JR2020858",
+          "title": "Senior Silicon Photonics Design Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Belgium-Ghent/Senior-Silicon-Photonics-Design-Engineer_JR2020858"
         },
         {
-          "id": "h:8c9eea98410497a5",
-          "title": "Argentina",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/"
+          "id": "workday:/job/Finland-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011028",
+          "title": "Senior Software Engineer Aerial Platform",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Finland-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011028"
         },
         {
-          "id": "h:d9b05bc59969770a",
-          "title": "Brasil (Brazil)",
-          "url": "https://www.nvidia.com/pt-br/about-nvidia/careers/"
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer--RL-Post-Training-Frameworks_JR2020706",
+          "title": "Senior Software Engineer, RL Post-Training Frameworks",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer--RL-Post-Training-Frameworks_JR2020706"
         },
         {
-          "id": "h:04d8d8337dcb83fb",
-          "title": "Canada",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
+          "id": "workday:/job/Germany-Remote/Principal-Developer-Technology-Engineer_JR2013547",
+          "title": "Principal Developer Technology Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Principal-Developer-Technology-Engineer_JR2013547"
         },
         {
-          "id": "h:3f615b8a9a3cf61b",
-          "title": "Chile",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/"
+          "id": "workday:/job/Germany-Remote/Senior-Manager--Software-Engineering---JAX_JR2020495",
+          "title": "Senior Manager, Software Engineering - JAX",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Manager--Software-Engineering---JAX_JR2020495"
         },
         {
-          "id": "h:e58bdd665eeef76d",
-          "title": "Colombia",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/"
+          "id": "workday:/job/Denmark-Roskilde/Senior-Validation-and-Qualification-Engineer_JR2019709",
+          "title": "Senior Validation and Qualification Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Senior-Validation-and-Qualification-Engineer_JR2019709"
         },
         {
-          "id": "h:f9c0c7a00d4be7bd",
-          "title": "México (Mexico)",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/"
+          "id": "workday:/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236",
+          "title": "Systems Software Engineer, Kubernetes Scale - DGX Cloud",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236"
         },
         {
-          "id": "h:6a8cb78a08d1ee39",
-          "title": "Peru",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/"
+          "id": "workday:/job/Germany-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
+          "title": "Senior Systems Software Engineer, Kubernetes Scale - DGX Cloud",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1"
         },
         {
-          "id": "h:a8c5a137ff1ae9c8",
-          "title": "United States",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
+          "id": "workday:/job/Germany-Munich/Senior-Software-Engineer--Applied-AI_JR2019145",
+          "title": "Senior Software Engineer, Applied AI",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Software-Engineer--Applied-AI_JR2019145"
         },
         {
-          "id": "h:1c9a83f2193d8c7c",
-          "title": "Deutschland (Germany)",
-          "url": "https://www.nvidia.com/de-de/about-nvidia/careers/"
+          "id": "workday:/job/UK-Cambridge/Senior-Compiler-Engineer_JR2019152",
+          "title": "Senior Compiler Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-Compiler-Engineer_JR2019152"
         },
         {
-          "id": "h:f47bda5f4e6b186c",
-          "title": "España (Spain)",
-          "url": "https://www.nvidia.com/es-es/about-nvidia/careers/"
+          "id": "workday:/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2015271",
+          "title": "Senior HPC and AI Network Software Architect",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2015271"
         },
         {
-          "id": "h:d612fd5bd3ba3f34",
-          "title": "France",
-          "url": "https://www.nvidia.com/fr-fr/about-nvidia/careers/"
+          "id": "workday:/job/Switzerland-Zurich/Senior-GPU-Networking-Architect_JR2015083",
+          "title": "Senior GPU Networking Architect",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-GPU-Networking-Architect_JR2015083"
         },
         {
-          "id": "h:7615d8412ffb3852",
-          "title": "Italia (Italy)",
-          "url": "https://www.nvidia.com/it-it/about-nvidia/careers/"
+          "id": "workday:/job/Poland-Warsaw/Senior-Software-Engineer--Cloud-Automation_JR2019580-1",
+          "title": "Senior Software Engineer, Cloud Automation",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Senior-Software-Engineer--Cloud-Automation_JR2019580-1"
         },
         {
-          "id": "h:e34d76a2825d4672",
-          "title": "Polska (Poland)",
-          "url": "https://www.nvidia.com/pl-pl/about-nvidia/careers/"
+          "id": "workday:/job/Switzerland-Zurich/Senior-Software-Developer_JR2008695",
+          "title": "Senior Software Developer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-Software-Developer_JR2008695"
         },
         {
-          "id": "h:7f54b83af3430d03",
-          "title": "Türkiye (Turkey)",
-          "url": "https://www.nvidia.com/tr-tr/about-nvidia/careers/"
+          "id": "workday:/job/UK-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2019153",
+          "title": "Senior Quantum Systems Engineer - Quantum Computing",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2019153"
         },
         {
-          "id": "h:7bed5e8ad1c70649",
-          "title": "United Kingdom",
-          "url": "https://www.nvidia.com/en-gb/about-nvidia/careers/"
+          "id": "workday:/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906",
+          "title": "Senior Software Architect, GPU Networking Research",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906"
         },
         {
-          "id": "h:e1325dfa0030b7b2",
-          "title": "Rest of Europe",
-          "url": "https://www.nvidia.com/en-eu/about-nvidia/careers/"
+          "id": "workday:/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723",
+          "title": "Hardware Design Engineer – Interconnect Design",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723"
         },
         {
-          "id": "h:c243200bf98d9099",
-          "title": "Australia",
-          "url": "https://www.nvidia.com/en-au/about-nvidia/careers/"
+          "id": "workday:/job/Poland-Warsaw/Manager--Deep-Learning-Algorithms_JR1990716-1",
+          "title": "Manager, Deep Learning Algorithms",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Manager--Deep-Learning-Algorithms_JR1990716-1"
         },
         {
-          "id": "h:5f8e3d8c94c174a0",
-          "title": "中国大陆 (Mainland China)",
-          "url": "https://www.nvidia.cn/about-nvidia/careers/"
+          "id": "workday:/job/Switzerland-Remote/Senior-CPU-Performance-Developer-Technology-Engineer_JR2003570",
+          "title": "Senior CPU Performance Developer Technology Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-CPU-Performance-Developer-Technology-Engineer_JR2003570"
         },
         {
-          "id": "h:4834b2ea50d17c82",
-          "title": "India",
-          "url": "https://www.nvidia.com/en-in/about-nvidia/careers/"
+          "id": "workday:/job/Poland-Warsaw/Senior-Software-Verification-Engineer_JR1998674",
+          "title": "Senior Software Verification Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Senior-Software-Verification-Engineer_JR1998674"
         },
         {
-          "id": "h:a97408c4c0f36255",
-          "title": "日本 (Japan)",
-          "url": "https://www.nvidia.com/ja-jp/about-nvidia/careers/"
+          "id": "workday:/job/Denmark-Roskilde/Interconnect-Hardware-Engineer---Networking_JR2017507",
+          "title": "Interconnect Hardware Engineer - Networking",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Interconnect-Hardware-Engineer---Networking_JR2017507"
         },
         {
-          "id": "h:21a281049d33fd9a",
-          "title": "대한민국 (South Korea)",
-          "url": "https://www.nvidia.com/ko-kr/about-nvidia/careers/"
+          "id": "workday:/job/Germany-Remote/Senior-HPC-Performance-Engineer_JR2001201",
+          "title": "Senior HPC Performance Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-HPC-Performance-Engineer_JR2001201"
         },
         {
-          "id": "h:c2cb565d9be23dc3",
-          "title": "Singapore",
-          "url": "https://www.nvidia.com/en-sg/about-nvidia/careers/"
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer--AI-Inference-Systems_JR2017366",
+          "title": "Senior Software Engineer, AI Inference Systems",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer--AI-Inference-Systems_JR2017366"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Senior-Software-Test-Engineer---L3-and-L4---Autonomous-Driving_JR2016000",
+          "title": "Senior Software Test Engineer,  L3 and L4 - Autonomous Driving",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Software-Test-Engineer---L3-and-L4---Autonomous-Driving_JR2016000"
+        },
+        {
+          "id": "workday:/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341",
+          "title": "Senior Software Engineer, JAX",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341"
+        },
+        {
+          "id": "workday:/job/UK-Cambridge/Senior-Compiler-Engineer_JR2010046",
+          "title": "Senior Compiler Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-Compiler-Engineer_JR2010046"
+        },
+        {
+          "id": "workday:/job/UK-Remote/Senior-Deep-Learning-Engineer_JR2013341",
+          "title": "Senior Deep Learning Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Remote/Senior-Deep-Learning-Engineer_JR2013341"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949",
+          "title": "Principal AI Developer Technology Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer--CUDA-Core-Libraries_JR2014754",
+          "title": "Senior Software Engineer, CUDA Core Libraries",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer--CUDA-Core-Libraries_JR2014754"
+        },
+        {
+          "id": "workday:/job/Poland-Remote/Senior-Software-Developer--AI-Networking_JR2013723",
+          "title": "Senior Software Developer, AI Networking",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Remote/Senior-Software-Developer--AI-Networking_JR2013723"
+        },
+        {
+          "id": "workday:/job/Poland-Warsaw/System-Software-Engineer--Python-and-C-C-----Deep-Learning_JR2013224",
+          "title": "System Software Engineer, Python and C/C++ - Deep Learning",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/System-Software-Engineer--Python-and-C-C-----Deep-Learning_JR2013224"
+        },
+        {
+          "id": "workday:/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771",
+          "title": "Formal Verification Engineer - New College Graduate",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771"
+        },
+        {
+          "id": "workday:/job/Sweden-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011026",
+          "title": "Senior Software Engineer Aerial Platform",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Sweden-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011026"
+        },
+        {
+          "id": "workday:/job/Germany-Berlin/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403",
+          "title": "Senior Deep Learning Compiler Engineer - PyTorch",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Berlin/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403"
+        },
+        {
+          "id": "workday:/job/Poland-Remote/Senior-Libraries-Engineer---AI-and-HPC_JR2006812",
+          "title": "Senior Libraries Engineer – AI and HPC",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Remote/Senior-Libraries-Engineer---AI-and-HPC_JR2006812"
         }
       ],
       "recentItems": [
+        {
+          "id": "workday:/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384",
+          "title": "Senior CPU Compiler Performance Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2020224",
+          "title": "Relational Foundation Model Engineer, Modern Data Stack",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2020224",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Senior-Test-Engineer---Autonomous-Driving_JR2019510-1",
+          "title": "Senior Test Engineer - Autonomous Driving",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Test-Engineer---Autonomous-Driving_JR2019510-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-HPC-DevOps-Engineer_JR2010371-1",
+          "title": "Senior HPC DevOps Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-HPC-DevOps-Engineer_JR2010371-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Belgium-Ghent/Senior-Silicon-Photonics-Design-Engineer_JR2020858",
+          "title": "Senior Silicon Photonics Design Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Belgium-Ghent/Senior-Silicon-Photonics-Design-Engineer_JR2020858",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Finland-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011028",
+          "title": "Senior Software Engineer Aerial Platform",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Finland-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011028",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Berlin/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403",
+          "title": "Senior Deep Learning Compiler Engineer - PyTorch",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Berlin/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Remote/Senior-Libraries-Engineer---AI-and-HPC_JR2006812",
+          "title": "Senior Libraries Engineer – AI and HPC",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Remote/Senior-Libraries-Engineer---AI-and-HPC_JR2006812",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771",
+          "title": "Formal Verification Engineer - New College Graduate",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Sweden-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011026",
+          "title": "Senior Software Engineer Aerial Platform",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Sweden-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011026",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2021400",
+          "title": "Robotics Software Engineer - Robot Simulation and Benchmarking",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2021400",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer--RL-Post-Training-Frameworks_JR2020706",
+          "title": "Senior Software Engineer, RL Post-Training Frameworks",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer--RL-Post-Training-Frameworks_JR2020706",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Principal-Developer-Technology-Engineer_JR2013547",
+          "title": "Principal Developer Technology Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Principal-Developer-Technology-Engineer_JR2013547",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Manager--Software-Engineering---JAX_JR2020495",
+          "title": "Senior Manager, Software Engineering - JAX",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Manager--Software-Engineering---JAX_JR2020495",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Denmark-Roskilde/Senior-Validation-and-Qualification-Engineer_JR2019709",
+          "title": "Senior Validation and Qualification Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Senior-Validation-and-Qualification-Engineer_JR2019709",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236",
+          "title": "Systems Software Engineer, Kubernetes Scale - DGX Cloud",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
+          "title": "Senior Systems Software Engineer, Kubernetes Scale - DGX Cloud",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Senior-Software-Engineer--Applied-AI_JR2019145",
+          "title": "Senior Software Engineer, Applied AI",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Software-Engineer--Applied-AI_JR2019145",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/UK-Cambridge/Senior-Compiler-Engineer_JR2019152",
+          "title": "Senior Compiler Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-Compiler-Engineer_JR2019152",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2015271",
+          "title": "Senior HPC and AI Network Software Architect",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2015271",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Senior-GPU-Networking-Architect_JR2015083",
+          "title": "Senior GPU Networking Architect",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-GPU-Networking-Architect_JR2015083",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Warsaw/Senior-Software-Engineer--Cloud-Automation_JR2019580-1",
+          "title": "Senior Software Engineer, Cloud Automation",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Senior-Software-Engineer--Cloud-Automation_JR2019580-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Senior-Software-Developer_JR2008695",
+          "title": "Senior Software Developer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-Software-Developer_JR2008695",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/UK-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2019153",
+          "title": "Senior Quantum Systems Engineer - Quantum Computing",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2019153",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906",
+          "title": "Senior Software Architect, GPU Networking Research",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723",
+          "title": "Hardware Design Engineer – Interconnect Design",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Warsaw/Manager--Deep-Learning-Algorithms_JR1990716-1",
+          "title": "Manager, Deep Learning Algorithms",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Manager--Deep-Learning-Algorithms_JR1990716-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Remote/Senior-CPU-Performance-Developer-Technology-Engineer_JR2003570",
+          "title": "Senior CPU Performance Developer Technology Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-CPU-Performance-Developer-Technology-Engineer_JR2003570",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Warsaw/Senior-Software-Verification-Engineer_JR1998674",
+          "title": "Senior Software Verification Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Senior-Software-Verification-Engineer_JR1998674",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Denmark-Roskilde/Interconnect-Hardware-Engineer---Networking_JR2017507",
+          "title": "Interconnect Hardware Engineer - Networking",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Interconnect-Hardware-Engineer---Networking_JR2017507",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-HPC-Performance-Engineer_JR2001201",
+          "title": "Senior HPC Performance Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-HPC-Performance-Engineer_JR2001201",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer--AI-Inference-Systems_JR2017366",
+          "title": "Senior Software Engineer, AI Inference Systems",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer--AI-Inference-Systems_JR2017366",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Senior-Software-Test-Engineer---L3-and-L4---Autonomous-Driving_JR2016000",
+          "title": "Senior Software Test Engineer,  L3 and L4 - Autonomous Driving",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Software-Test-Engineer---L3-and-L4---Autonomous-Driving_JR2016000",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341",
+          "title": "Senior Software Engineer, JAX",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/UK-Cambridge/Senior-Compiler-Engineer_JR2010046",
+          "title": "Senior Compiler Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-Compiler-Engineer_JR2010046",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/UK-Remote/Senior-Deep-Learning-Engineer_JR2013341",
+          "title": "Senior Deep Learning Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Remote/Senior-Deep-Learning-Engineer_JR2013341",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949",
+          "title": "Principal AI Developer Technology Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer--CUDA-Core-Libraries_JR2014754",
+          "title": "Senior Software Engineer, CUDA Core Libraries",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer--CUDA-Core-Libraries_JR2014754",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Remote/Senior-Software-Developer--AI-Networking_JR2013723",
+          "title": "Senior Software Developer, AI Networking",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Remote/Senior-Software-Developer--AI-Networking_JR2013723",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Warsaw/System-Software-Engineer--Python-and-C-C-----Deep-Learning_JR2013224",
+          "title": "System Software Engineer, Python and C/C++ - Deep Learning",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/System-Software-Engineer--Python-and-C-C-----Deep-Learning_JR2013224",
+          "firstSeen": "2026-07-19"
+        },
         {
           "id": "h:ebad4333b3748665",
           "title": "Inclusion",
@@ -4367,24 +4637,6 @@
           "firstSeen": "2026-07-18"
         },
         {
-          "id": "workday:/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384",
-          "title": "Senior CPU Compiler Performance Engineer",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384",
-          "firstSeen": "2026-07-17"
-        },
-        {
-          "id": "workday:/job/Germany-Munich/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2020224",
-          "title": "Relational Foundation Model Engineer, Modern Data Stack",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2020224",
-          "firstSeen": "2026-07-16"
-        },
-        {
-          "id": "workday:/job/Germany-Munich/Senior-Test-Engineer---Autonomous-Driving_JR2019510-1",
-          "title": "Senior Test Engineer - Autonomous Driving",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Test-Engineer---Autonomous-Driving_JR2019510-1",
-          "firstSeen": "2026-07-16"
-        },
-        {
           "id": "workday:/job/Netherlands-Remote/Senior-Deep-Learning-Software-Engineer--Inference_JR1997930",
           "title": "Senior Deep Learning Software Engineer, Inference",
           "url": "https://nvidia.wd5.myworkdayjobs.com/job/Netherlands-Remote/Senior-Deep-Learning-Software-Engineer--Inference_JR1997930",
@@ -4395,36 +4647,6 @@
           "title": "Senior SWQA Test Development Engineer",
           "url": "https://nvidia.wd5.myworkdayjobs.com/job/Romania-Iasi/Senior-SWQA-Test-Development-Engineer_JR2007571-1",
           "firstSeen": "2026-07-15"
-        },
-        {
-          "id": "workday:/job/Germany-Remote/Senior-HPC-DevOps-Engineer_JR2010371-1",
-          "title": "Senior HPC DevOps Engineer",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-HPC-DevOps-Engineer_JR2010371-1",
-          "firstSeen": "2026-07-14"
-        },
-        {
-          "id": "workday:/job/Belgium-Ghent/Senior-Silicon-Photonics-Design-Engineer_JR2020858",
-          "title": "Senior Silicon Photonics Design Engineer",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Belgium-Ghent/Senior-Silicon-Photonics-Design-Engineer_JR2020858",
-          "firstSeen": "2026-07-10"
-        },
-        {
-          "id": "workday:/job/Finland-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011028",
-          "title": "Senior Software Engineer Aerial Platform",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Finland-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011028",
-          "firstSeen": "2026-07-08"
-        },
-        {
-          "id": "workday:/job/Germany-Berlin/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403",
-          "title": "Senior Deep Learning Compiler Engineer - PyTorch",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Berlin/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403",
-          "firstSeen": "2026-07-08"
-        },
-        {
-          "id": "workday:/job/Poland-Remote/Senior-Libraries-Engineer---AI-and-HPC_JR2006812",
-          "title": "Senior Libraries Engineer – AI and HPC",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Remote/Senior-Libraries-Engineer---AI-and-HPC_JR2006812",
-          "firstSeen": "2026-07-08"
         },
         {
           "id": "workday:/job/France-Remote/Senior-Math-Libraries-Engineer---Emulation-in-AI-and-HPC_JR2004481-1",
@@ -4443,188 +4665,248 @@
           "title": "",
           "url": "https://nvidia.wd5.myworkdayjobs.com",
           "firstSeen": "2026-07-07"
+        }
+      ],
+      "newItems": [
+        {
+          "id": "workday:/job/Germany-Munich/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2020224",
+          "title": "Relational Foundation Model Engineer, Modern Data Stack",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2020224",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2021400",
+          "title": "Robotics Software Engineer - Robot Simulation and Benchmarking",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2021400",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384",
+          "title": "Senior CPU Compiler Performance Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-CPU-Compiler-Performance-Engineer_JR2021384",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Senior-Test-Engineer---Autonomous-Driving_JR2019510-1",
+          "title": "Senior Test Engineer - Autonomous Driving",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Test-Engineer---Autonomous-Driving_JR2019510-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-HPC-DevOps-Engineer_JR2010371-1",
+          "title": "Senior HPC DevOps Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-HPC-DevOps-Engineer_JR2010371-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Belgium-Ghent/Senior-Silicon-Photonics-Design-Engineer_JR2020858",
+          "title": "Senior Silicon Photonics Design Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Belgium-Ghent/Senior-Silicon-Photonics-Design-Engineer_JR2020858",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Finland-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011028",
+          "title": "Senior Software Engineer Aerial Platform",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Finland-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011028",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer--RL-Post-Training-Frameworks_JR2020706",
+          "title": "Senior Software Engineer, RL Post-Training Frameworks",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer--RL-Post-Training-Frameworks_JR2020706",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Principal-Developer-Technology-Engineer_JR2013547",
+          "title": "Principal Developer Technology Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Principal-Developer-Technology-Engineer_JR2013547",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Manager--Software-Engineering---JAX_JR2020495",
+          "title": "Senior Manager, Software Engineering - JAX",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Manager--Software-Engineering---JAX_JR2020495",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Denmark-Roskilde/Senior-Validation-and-Qualification-Engineer_JR2019709",
+          "title": "Senior Validation and Qualification Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Senior-Validation-and-Qualification-Engineer_JR2019709",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236",
+          "title": "Systems Software Engineer, Kubernetes Scale - DGX Cloud",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
+          "title": "Senior Systems Software Engineer, Kubernetes Scale - DGX Cloud",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Senior-Software-Engineer--Applied-AI_JR2019145",
+          "title": "Senior Software Engineer, Applied AI",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Software-Engineer--Applied-AI_JR2019145",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/UK-Cambridge/Senior-Compiler-Engineer_JR2019152",
+          "title": "Senior Compiler Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-Compiler-Engineer_JR2019152",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2015271",
+          "title": "Senior HPC and AI Network Software Architect",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2015271",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Senior-GPU-Networking-Architect_JR2015083",
+          "title": "Senior GPU Networking Architect",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-GPU-Networking-Architect_JR2015083",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Warsaw/Senior-Software-Engineer--Cloud-Automation_JR2019580-1",
+          "title": "Senior Software Engineer, Cloud Automation",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Senior-Software-Engineer--Cloud-Automation_JR2019580-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Senior-Software-Developer_JR2008695",
+          "title": "Senior Software Developer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-Software-Developer_JR2008695",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/UK-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2019153",
+          "title": "Senior Quantum Systems Engineer - Quantum Computing",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2019153",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906",
+          "title": "Senior Software Architect, GPU Networking Research",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723",
+          "title": "Hardware Design Engineer – Interconnect Design",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Warsaw/Manager--Deep-Learning-Algorithms_JR1990716-1",
+          "title": "Manager, Deep Learning Algorithms",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Manager--Deep-Learning-Algorithms_JR1990716-1",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Remote/Senior-CPU-Performance-Developer-Technology-Engineer_JR2003570",
+          "title": "Senior CPU Performance Developer Technology Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-CPU-Performance-Developer-Technology-Engineer_JR2003570",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Warsaw/Senior-Software-Verification-Engineer_JR1998674",
+          "title": "Senior Software Verification Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/Senior-Software-Verification-Engineer_JR1998674",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Denmark-Roskilde/Interconnect-Hardware-Engineer---Networking_JR2017507",
+          "title": "Interconnect Hardware Engineer - Networking",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Interconnect-Hardware-Engineer---Networking_JR2017507",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-HPC-Performance-Engineer_JR2001201",
+          "title": "Senior HPC Performance Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-HPC-Performance-Engineer_JR2001201",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer--AI-Inference-Systems_JR2017366",
+          "title": "Senior Software Engineer, AI Inference Systems",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer--AI-Inference-Systems_JR2017366",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Senior-Software-Test-Engineer---L3-and-L4---Autonomous-Driving_JR2016000",
+          "title": "Senior Software Test Engineer,  L3 and L4 - Autonomous Driving",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Software-Test-Engineer---L3-and-L4---Autonomous-Driving_JR2016000",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341",
+          "title": "Senior Software Engineer, JAX",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/UK-Cambridge/Senior-Compiler-Engineer_JR2010046",
+          "title": "Senior Compiler Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Cambridge/Senior-Compiler-Engineer_JR2010046",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/UK-Remote/Senior-Deep-Learning-Engineer_JR2013341",
+          "title": "Senior Deep Learning Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/UK-Remote/Senior-Deep-Learning-Engineer_JR2013341",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949",
+          "title": "Principal AI Developer Technology Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer--CUDA-Core-Libraries_JR2014754",
+          "title": "Senior Software Engineer, CUDA Core Libraries",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer--CUDA-Core-Libraries_JR2014754",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Remote/Senior-Software-Developer--AI-Networking_JR2013723",
+          "title": "Senior Software Developer, AI Networking",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Remote/Senior-Software-Developer--AI-Networking_JR2013723",
+          "firstSeen": "2026-07-19"
+        },
+        {
+          "id": "workday:/job/Poland-Warsaw/System-Software-Engineer--Python-and-C-C-----Deep-Learning_JR2013224",
+          "title": "System Software Engineer, Python and C/C++ - Deep Learning",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Warsaw/System-Software-Engineer--Python-and-C-C-----Deep-Learning_JR2013224",
+          "firstSeen": "2026-07-19"
         },
         {
           "id": "workday:/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771",
           "title": "Formal Verification Engineer - New College Graduate",
           "url": "https://nvidia.wd5.myworkdayjobs.com/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771",
-          "firstSeen": "2026-07-07"
+          "firstSeen": "2026-07-19"
         },
         {
           "id": "workday:/job/Sweden-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011026",
           "title": "Senior Software Engineer Aerial Platform",
           "url": "https://nvidia.wd5.myworkdayjobs.com/job/Sweden-Remote/Senior-Software-Engineer-Aerial-Platform_JR2011026",
-          "firstSeen": "2026-07-07"
-        }
-      ],
-      "newItems": [
-        {
-          "id": "h:ebad4333b3748665",
-          "title": "Inclusion",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/inclusion/",
-          "firstSeen": "2026-07-18"
+          "firstSeen": "2026-07-19"
         },
         {
-          "id": "h:8c2a390dcfd06819",
-          "title": "Overview",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
+          "id": "workday:/job/Germany-Berlin/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403",
+          "title": "Senior Deep Learning Compiler Engineer - PyTorch",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Berlin/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403",
+          "firstSeen": "2026-07-19"
         },
         {
-          "id": "h:5c9e7025f1c125a2",
-          "title": "Find Your Next Job",
-          "url": "https://jobs.nvidia.com/careers",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:7536ad1242524caf",
-          "title": "Explore Now",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/life-at-nvidia/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:53744391cae6887f",
-          "title": "Meet More Teams",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/teams-in-action/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:23c62dc0c324aeb1",
-          "title": "Get Started Here",
-          "url": "https://jobs.nvidia.com/careers",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:8c9eea98410497a5",
-          "title": "Argentina",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:d9b05bc59969770a",
-          "title": "Brasil (Brazil)",
-          "url": "https://www.nvidia.com/pt-br/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:04d8d8337dcb83fb",
-          "title": "Canada",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:3f615b8a9a3cf61b",
-          "title": "Chile",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:e58bdd665eeef76d",
-          "title": "Colombia",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:f9c0c7a00d4be7bd",
-          "title": "México (Mexico)",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:6a8cb78a08d1ee39",
-          "title": "Peru",
-          "url": "https://www.nvidia.com/es-la/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:a8c5a137ff1ae9c8",
-          "title": "United States",
-          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:1c9a83f2193d8c7c",
-          "title": "Deutschland (Germany)",
-          "url": "https://www.nvidia.com/de-de/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:f47bda5f4e6b186c",
-          "title": "España (Spain)",
-          "url": "https://www.nvidia.com/es-es/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:d612fd5bd3ba3f34",
-          "title": "France",
-          "url": "https://www.nvidia.com/fr-fr/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:7615d8412ffb3852",
-          "title": "Italia (Italy)",
-          "url": "https://www.nvidia.com/it-it/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:e34d76a2825d4672",
-          "title": "Polska (Poland)",
-          "url": "https://www.nvidia.com/pl-pl/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:7f54b83af3430d03",
-          "title": "Türkiye (Turkey)",
-          "url": "https://www.nvidia.com/tr-tr/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:7bed5e8ad1c70649",
-          "title": "United Kingdom",
-          "url": "https://www.nvidia.com/en-gb/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:e1325dfa0030b7b2",
-          "title": "Rest of Europe",
-          "url": "https://www.nvidia.com/en-eu/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:c243200bf98d9099",
-          "title": "Australia",
-          "url": "https://www.nvidia.com/en-au/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:5f8e3d8c94c174a0",
-          "title": "中国大陆 (Mainland China)",
-          "url": "https://www.nvidia.cn/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:4834b2ea50d17c82",
-          "title": "India",
-          "url": "https://www.nvidia.com/en-in/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:a97408c4c0f36255",
-          "title": "日本 (Japan)",
-          "url": "https://www.nvidia.com/ja-jp/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:21a281049d33fd9a",
-          "title": "대한민국 (South Korea)",
-          "url": "https://www.nvidia.com/ko-kr/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:c2cb565d9be23dc3",
-          "title": "Singapore",
-          "url": "https://www.nvidia.com/en-sg/about-nvidia/careers/",
-          "firstSeen": "2026-07-18"
+          "id": "workday:/job/Poland-Remote/Senior-Libraries-Engineer---AI-and-HPC_JR2006812",
+          "title": "Senior Libraries Engineer – AI and HPC",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Poland-Remote/Senior-Libraries-Engineer---AI-and-HPC_JR2006812",
+          "firstSeen": "2026-07-19"
         }
       ]
     },
@@ -4634,7 +4916,7 @@
       "url": "https://www.xtxmarkets.com/careers/",
       "source": "greenhouse:xtxmarketstechnologies",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:54+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:52+00:00",
       "totalOpen": 6,
       "knownIds": [
         "greenhouse:6274458003",
@@ -4685,7 +4967,7 @@
       "url": "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=london",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:26:55+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:52+00:00",
       "totalOpen": 9,
       "knownIds": [
         "h:f83952ca4f8076ce",
@@ -4754,7 +5036,7 @@
       "url": "https://www.citadel.com/careers/open-opportunities?experience-filter=internships&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
       "source": "generic:dom",
       "status": "blocked",
-      "lastCheckedAt": "2026-07-18T07:27:00+00:00",
+      "lastCheckedAt": "2026-07-19T07:57:58+00:00",
       "totalOpen": 38,
       "knownIds": [
         "h:499bf7a00acc17bc",
@@ -4998,7 +5280,7 @@
       "url": "https://tower-research.com/open-positions/",
       "source": "generic:static",
       "status": "blocked",
-      "lastCheckedAt": "2026-07-18T07:27:04+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:03+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -5012,7 +5294,7 @@
       "url": "https://www.hudsonrivertrading.com/careers/?locations=london%2C&job-type=full-time-experienced%2Cparent_full-time-experienced%2Cfull-time-new-grad%2Cinternship%2C",
       "source": "greenhouse:hrttalentcommunity",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:09+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:07+00:00",
       "totalOpen": 3,
       "knownIds": [
         "greenhouse:3432773",
@@ -5045,7 +5327,7 @@
       "url": "https://www.optiver.com/join-us/jobs/?search=internship&location=amsterdam&location=london&level=early-careers&level=graduate&level=internship",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:11+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:10+00:00",
       "totalOpen": 1,
       "knownIds": [
         "h:1d812d541af72f12"
@@ -5065,14 +5347,7 @@
           "firstSeen": "2026-07-18"
         }
       ],
-      "newItems": [
-        {
-          "id": "h:1d812d541af72f12",
-          "title": "Recruitment Intern (Working Student)",
-          "url": "https://www.optiver.com/join-us/jobs/human-resources-and-recruiting/amsterdam/recruitment-intern-working-student/",
-          "firstSeen": "2026-07-18"
-        }
-      ]
+      "newItems": []
     },
     {
       "id": "imc-trading",
@@ -5080,7 +5355,7 @@
       "url": "https://www.imc.com/eu/careers/students-graduates",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:16+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:16+00:00",
       "totalOpen": 8,
       "knownIds": [
         "h:72c9acfec72d0c5d",
@@ -5162,8 +5437,8 @@
       "url": "https://www.jumptrading.com/hr/students-new-grads",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:21+00:00",
-      "totalOpen": 98,
+      "lastCheckedAt": "2026-07-19T07:58:22+00:00",
+      "totalOpen": 99,
       "knownIds": [
         "h:382033a71e907768",
         "h:b3e6cb5ae952158f",
@@ -5181,8 +5456,8 @@
         "h:51df77e0a95a9e34",
         "h:00e1f9b09d58bc0b",
         "h:b2427159db8c1e0d",
-        "h:5e6bde617cade863",
         "h:77351d30127c9308",
+        "h:5e6bde617cade863",
         "h:1a61dc5d0056b31c",
         "h:96e7e22679e888a9",
         "h:af6c259dbc9875e7",
@@ -5191,21 +5466,21 @@
         "h:fd668c00b6068142",
         "h:82b3916a4b43e9d1",
         "h:0a41ece1dc9e24a2",
-        "h:72e31aa633d73153",
         "h:fd5f4d42f76fbb6b",
+        "h:72e31aa633d73153",
         "h:0966d501a3c3e475",
         "h:0843afe7fb257af6",
         "h:bd3e73e8873927ac",
         "h:4530ea8a079d7e1b",
         "h:ae515fa8f9f4f23b",
         "h:6a810a51b1fa312f",
-        "h:18be8bc0e6b218ef",
         "h:9c78a1f7362a3651",
+        "h:18be8bc0e6b218ef",
         "h:5a9a4ab2ed7e6d72",
         "h:a37311e873192f7b",
         "h:160b9d70700954ef",
-        "h:307c3d087be61640",
         "h:6615ec0857db395f",
+        "h:307c3d087be61640",
         "h:50f2f33259ff0583",
         "h:11f2dea5029c94be",
         "h:1a5b93858e03bdfb",
@@ -5213,6 +5488,7 @@
         "h:ea9bacaf1bd20590",
         "h:59fa5ca665e0ba69",
         "h:fd05cf55442697ab",
+        "h:fe59e37775a0ba15",
         "h:17b054226349c3b3",
         "h:97d7ac009d447470",
         "h:ffa59da09c3ab9cc",
@@ -5220,8 +5496,8 @@
         "h:ef133f233d3f0727",
         "h:2edc580302b333e8",
         "h:93f3fdf9b0561b5b",
-        "h:fdeaee35e0e1d947",
         "h:f97e41d4c40a4940",
+        "h:fdeaee35e0e1d947",
         "h:201c75d0f07538f6",
         "h:0e8cd4223e1c3acd",
         "h:35287477ee4e327c",
@@ -5238,9 +5514,9 @@
         "h:fd8d235cb300a0cc",
         "h:0f03d233b1fc4580",
         "h:15f098fd73d9224f",
-        "h:4306aefb2b30dc89",
         "h:a1b77f13f0fa3f80",
         "h:ec9743a2de2845a7",
+        "h:4306aefb2b30dc89",
         "h:9cc486290355dc15",
         "h:3fcabc6c53d74713",
         "h:8a4f46d1eee14500",
@@ -5346,14 +5622,14 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008"
         },
         {
-          "id": "h:5e6bde617cade863",
-          "title": "Campus FPGA Engineer (Intern)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391"
-        },
-        {
           "id": "h:77351d30127c9308",
           "title": "Campus FPGA Engineer (Intern)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013"
+        },
+        {
+          "id": "h:5e6bde617cade863",
+          "title": "Campus FPGA Engineer (Intern)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391"
         },
         {
           "id": "h:1a61dc5d0056b31c",
@@ -5396,14 +5672,14 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648"
         },
         {
-          "id": "h:72e31aa633d73153",
-          "title": "Campus Quantitative Trader (Full-Time)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7982619"
-        },
-        {
           "id": "h:fd5f4d42f76fbb6b",
           "title": "Campus Quantitative Trader (Full-Time)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801"
+        },
+        {
+          "id": "h:72e31aa633d73153",
+          "title": "Campus Quantitative Trader (Full-Time)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=7982619"
         },
         {
           "id": "h:0966d501a3c3e475",
@@ -5436,14 +5712,14 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7215943"
         },
         {
-          "id": "h:18be8bc0e6b218ef",
-          "title": "Campus Systems Engineer (Full-Time)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112"
-        },
-        {
           "id": "h:9c78a1f7362a3651",
           "title": "Campus Systems Engineer (Full-Time)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8008306"
+        },
+        {
+          "id": "h:18be8bc0e6b218ef",
+          "title": "Campus Systems Engineer (Full-Time)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112"
         },
         {
           "id": "h:5a9a4ab2ed7e6d72",
@@ -5461,14 +5737,14 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7565728"
         },
         {
-          "id": "h:307c3d087be61640",
-          "title": "Campus UI Software Engineer (Intern)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
-        },
-        {
           "id": "h:6615ec0857db395f",
           "title": "Campus UI Software Engineer (Intern)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943"
+        },
+        {
+          "id": "h:307c3d087be61640",
+          "title": "Campus UI Software Engineer (Intern)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
         },
         {
           "id": "h:50f2f33259ff0583",
@@ -5506,6 +5782,11 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7974587"
         },
         {
+          "id": "h:fe59e37775a0ba15",
+          "title": "Facilities Manager",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8042596"
+        },
+        {
           "id": "h:17b054226349c3b3",
           "title": "Field Engineer/Microwave Tower Technician | TowerPros",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=6647764"
@@ -5541,14 +5822,14 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7781600"
         },
         {
-          "id": "h:fdeaee35e0e1d947",
-          "title": "HPC Operations Engineer",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7405132"
-        },
-        {
           "id": "h:f97e41d4c40a4940",
           "title": "HPC Operations Engineer",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=6786146"
+        },
+        {
+          "id": "h:fdeaee35e0e1d947",
+          "title": "HPC Operations Engineer",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=7405132"
         },
         {
           "id": "h:201c75d0f07538f6",
@@ -5559,14 +5840,15 @@
           "id": "h:0e8cd4223e1c3acd",
           "title": "HPC Production Engineer",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7405156"
-        },
-        {
-          "id": "h:35287477ee4e327c",
-          "title": "HPC Production Engineer",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=5752845"
         }
       ],
       "recentItems": [
+        {
+          "id": "h:fe59e37775a0ba15",
+          "title": "Facilities Manager",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8042596",
+          "firstSeen": "2026-07-19"
+        },
         {
           "id": "h:174003b7e5886f5d",
           "title": "Leadership & Professional Development Coordinator",
@@ -5850,7 +6132,14 @@
           "firstSeen": "2026-07-07"
         }
       ],
-      "newItems": []
+      "newItems": [
+        {
+          "id": "h:fe59e37775a0ba15",
+          "title": "Facilities Manager",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8042596",
+          "firstSeen": "2026-07-19"
+        }
+      ]
     },
     {
       "id": "susquehanna-sig",
@@ -5858,7 +6147,7 @@
       "url": "https://careers.sig.com/intern-co-op/jobs?tags1=Technology%20-%20Software%20Engineering&page=1",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:27+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:27+00:00",
       "totalOpen": 5,
       "knownIds": [
         "h:5d73990007f7cfb9",
@@ -5916,7 +6205,7 @@
       "url": "https://www.mavensecurities.com/jobs/",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:36+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:34+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -5929,7 +6218,7 @@
       "url": "https://akunacapital.com/careers/?experience=Early%20Careers",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:42+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:40+00:00",
       "totalOpen": 37,
       "knownIds": [
         "h:980af8cf2ce60ec6",
@@ -6263,7 +6552,7 @@
       "url": "https://www.gresearch.com/vacancies/?specialism%5B%5D=software-engineering&location%5B%5D=london",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:46+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:45+00:00",
       "totalOpen": 24,
       "knownIds": [
         "h:8eef264f9cc7c9c2",
@@ -6275,21 +6564,21 @@
         "h:bb0044155f33c805",
         "h:c6c0a7526ff758a5",
         "h:27687cdc4fd31e13",
-        "h:2f276c4af242bf8d",
         "h:dea8c82db72cc93e",
+        "h:2f276c4af242bf8d",
         "h:f7fe6a752ce58693",
         "h:64dd00a0c911896e",
-        "h:0f929faa5e5192bf",
-        "h:d961e7d48396b449",
         "h:2b9c931a474a8e9c",
+        "h:0f929faa5e5192bf",
+        "h:f589eb6b45f71430",
+        "h:d961e7d48396b449",
         "h:7941a81199689e5f",
         "h:e4631fe1aaf0d62a",
+        "h:3e206de4becc98a5",
         "h:428f0ee5f7315e16",
-        "h:f589eb6b45f71430",
         "h:3924d49e7ab4afc1",
         "h:40c4d1569993382c",
-        "h:c89240163937474c",
-        "h:3e206de4becc98a5"
+        "h:c89240163937474c"
       ],
       "openItems": [
         {
@@ -6338,14 +6627,14 @@
           "url": "https://www.gresearch.com/vacancies/engineering-manager-realtime-quant-frameworks/"
         },
         {
-          "id": "h:2f276c4af242bf8d",
-          "title": "Data Analyst London",
-          "url": "https://www.gresearch.com/vacancies/data-analyst/"
-        },
-        {
           "id": "h:dea8c82db72cc93e",
           "title": "Core AI Engineer London",
           "url": "https://www.gresearch.com/vacancies/software-engineer-ai/"
+        },
+        {
+          "id": "h:2f276c4af242bf8d",
+          "title": "Data Analyst London",
+          "url": "https://www.gresearch.com/vacancies/data-analyst/"
         },
         {
           "id": "h:f7fe6a752ce58693",
@@ -6358,19 +6647,24 @@
           "url": "https://www.gresearch.com/vacancies/research-engineer/"
         },
         {
+          "id": "h:2b9c931a474a8e9c",
+          "title": "Software Engineer – Realtime Quant Frameworks London",
+          "url": "https://www.gresearch.com/vacancies/software-engineer-realtime-quant-frameworks/"
+        },
+        {
           "id": "h:0f929faa5e5192bf",
           "title": "Engineering Manager London",
           "url": "https://www.gresearch.com/vacancies/engineering-manager/"
         },
         {
+          "id": "h:f589eb6b45f71430",
+          "title": "Kubernetes Software Engineer London",
+          "url": "https://www.gresearch.com/vacancies/kubernetes-software-engineer/"
+        },
+        {
           "id": "h:d961e7d48396b449",
           "title": "Machine Learning Engineer London",
           "url": "https://www.gresearch.com/vacancies/machine-learning-engineer-2/"
-        },
-        {
-          "id": "h:2b9c931a474a8e9c",
-          "title": "Software Engineer – Realtime Quant Frameworks London",
-          "url": "https://www.gresearch.com/vacancies/software-engineer-realtime-quant-frameworks/"
         },
         {
           "id": "h:7941a81199689e5f",
@@ -6383,14 +6677,14 @@
           "url": "https://www.gresearch.com/vacancies/performance-engineering-manager/"
         },
         {
+          "id": "h:3e206de4becc98a5",
+          "title": "Software Engineer – Trade Technology London",
+          "url": "https://www.gresearch.com/vacancies/production-software-engineer/"
+        },
+        {
           "id": "h:428f0ee5f7315e16",
           "title": "Machine Learning Engineer London",
           "url": "https://www.gresearch.com/vacancies/machine-learning-engineer/"
-        },
-        {
-          "id": "h:f589eb6b45f71430",
-          "title": "Kubernetes Software Engineer London",
-          "url": "https://www.gresearch.com/vacancies/kubernetes-software-engineer/"
         },
         {
           "id": "h:3924d49e7ab4afc1",
@@ -6406,11 +6700,6 @@
           "id": "h:c89240163937474c",
           "title": "Software Engineer – Engineering Tools London",
           "url": "https://www.gresearch.com/vacancies/software-engineer-engineering-tools/"
-        },
-        {
-          "id": "h:3e206de4becc98a5",
-          "title": "Software Engineer – Trade Technology London",
-          "url": "https://www.gresearch.com/vacancies/production-software-engineer/"
         }
       ],
       "recentItems": [
@@ -6429,7 +6718,7 @@
       "url": "https://www.headlandstech.com/careers/",
       "source": "greenhouse:headlandstechnologiesllc",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:53+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:54+00:00",
       "totalOpen": 7,
       "knownIds": [
         "greenhouse:4227758009",
@@ -6486,7 +6775,7 @@
       "url": "https://davincitrading.com/careers/?e-filter-82520f4-greenhouse_office=amsterdam&e-filter-82520f4-greenhouse_department=development",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:27:54+00:00",
+      "lastCheckedAt": "2026-07-19T07:58:54+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -6499,7 +6788,7 @@
       "url": "https://www.alloptions-international.com/careers/",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:00+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:02+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -6512,7 +6801,7 @@
       "url": "https://careers.point72.com/?experience=internships&location=london",
       "source": "greenhouse:point72",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:08+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:09+00:00",
       "totalOpen": 232,
       "knownIds": [
         "greenhouse:8423978002",
@@ -6532,8 +6821,8 @@
         "greenhouse:8409245002",
         "greenhouse:8487609002",
         "greenhouse:8344959002",
-        "greenhouse:8599785002",
         "greenhouse:8466850002",
+        "greenhouse:8599785002",
         "greenhouse:8582756002",
         "greenhouse:8603172002",
         "greenhouse:8545515002",
@@ -6545,23 +6834,23 @@
         "greenhouse:7707006002",
         "greenhouse:7605647002",
         "greenhouse:8530310002",
-        "greenhouse:7045938002",
         "greenhouse:7001158002",
+        "greenhouse:7045938002",
         "greenhouse:8603359002",
         "greenhouse:7046005002",
         "greenhouse:7045996002",
         "greenhouse:7045941002",
         "greenhouse:7666604002",
-        "greenhouse:7045980002",
-        "greenhouse:7318012002",
-        "greenhouse:7318005002",
         "greenhouse:7046019002",
         "greenhouse:7666631002",
         "greenhouse:7045936002",
+        "greenhouse:7318005002",
+        "greenhouse:7318012002",
         "greenhouse:7297555002",
         "greenhouse:7045987002",
-        "greenhouse:7297598002",
+        "greenhouse:7045980002",
         "greenhouse:7297611002",
+        "greenhouse:7297598002",
         "greenhouse:7045979002",
         "greenhouse:7045995002",
         "greenhouse:8488671002",
@@ -6629,15 +6918,15 @@
         "greenhouse:8468870002",
         "greenhouse:8556047002",
         "greenhouse:8599907002",
-        "greenhouse:8576951002",
         "greenhouse:8556046002",
+        "greenhouse:8576951002",
         "greenhouse:7661997002",
         "greenhouse:8018850002",
         "greenhouse:8599908002",
         "greenhouse:8548455002",
         "greenhouse:8467512002",
-        "greenhouse:8017312002",
         "greenhouse:8532298002",
+        "greenhouse:8017312002",
         "greenhouse:8618569002",
         "greenhouse:8623914002",
         "greenhouse:8547037002",
@@ -6653,8 +6942,8 @@
         "greenhouse:8541241002",
         "greenhouse:8003977002",
         "greenhouse:8187982002",
-        "greenhouse:7827359002",
         "greenhouse:7833222002",
+        "greenhouse:7827359002",
         "greenhouse:8408285002",
         "greenhouse:8530258002",
         "greenhouse:8530259002",
@@ -6669,9 +6958,9 @@
         "greenhouse:7046014002",
         "greenhouse:8169967002",
         "greenhouse:7725294002",
+        "greenhouse:7906984002",
         "greenhouse:7752293002",
         "greenhouse:7587888002",
-        "greenhouse:7906984002",
         "greenhouse:7586061002",
         "greenhouse:7297657002",
         "greenhouse:8023550002",
@@ -6681,10 +6970,10 @@
         "greenhouse:7297643002",
         "greenhouse:7297667002",
         "greenhouse:8018862002",
-        "greenhouse:8604288002",
-        "greenhouse:8032153002",
-        "greenhouse:8036928002",
         "greenhouse:7825863002",
+        "greenhouse:8604288002",
+        "greenhouse:8036928002",
+        "greenhouse:8032153002",
         "greenhouse:7297666002",
         "greenhouse:8004302002",
         "greenhouse:8239406002",
@@ -6705,8 +6994,8 @@
         "greenhouse:8464113002",
         "greenhouse:7769261002",
         "greenhouse:8488736002",
-        "greenhouse:8445684002",
         "greenhouse:8555518002",
+        "greenhouse:8445684002",
         "greenhouse:7825269002",
         "greenhouse:8464116002",
         "greenhouse:8372908002",
@@ -6728,8 +7017,8 @@
         "greenhouse:8568389002",
         "greenhouse:8363166002",
         "greenhouse:8581872002",
-        "greenhouse:8576950002",
         "greenhouse:8576953002",
+        "greenhouse:8576950002",
         "greenhouse:8041594002",
         "greenhouse:8576952002",
         "greenhouse:8624291002",
@@ -6739,14 +7028,14 @@
         "greenhouse:8128613002",
         "greenhouse:8561914002",
         "greenhouse:8389780002",
-        "greenhouse:7974787002",
         "greenhouse:8470606002",
+        "greenhouse:7974787002",
         "greenhouse:8375066002",
         "greenhouse:8372912002",
         "greenhouse:8516480002",
         "greenhouse:8504477002",
-        "greenhouse:8557640002",
-        "greenhouse:8560134002"
+        "greenhouse:8560134002",
+        "greenhouse:8557640002"
       ],
       "openItems": [
         {
@@ -6835,14 +7124,14 @@
           "url": "https://boards.greenhouse.io/point72/jobs/8344959002?gh_jid=8344959002"
         },
         {
-          "id": "greenhouse:8599785002",
-          "title": "Business Intelligence Analyst",
-          "url": "https://boards.greenhouse.io/point72/jobs/8599785002?gh_jid=8599785002"
-        },
-        {
           "id": "greenhouse:8466850002",
           "title": "Business Intelligence Analyst",
           "url": "https://boards.greenhouse.io/point72/jobs/8466850002?gh_jid=8466850002"
+        },
+        {
+          "id": "greenhouse:8599785002",
+          "title": "Business Intelligence Analyst",
+          "url": "https://boards.greenhouse.io/point72/jobs/8599785002?gh_jid=8599785002"
         },
         {
           "id": "greenhouse:8582756002",
@@ -6900,14 +7189,14 @@
           "url": "https://boards.greenhouse.io/point72/jobs/8530310002?gh_jid=8530310002"
         },
         {
-          "id": "greenhouse:7045938002",
-          "title": "Cubist Data Scientist",
-          "url": "https://boards.greenhouse.io/point72/jobs/7045938002?gh_jid=7045938002"
-        },
-        {
           "id": "greenhouse:7001158002",
           "title": "Cubist Data Scientist",
           "url": "https://boards.greenhouse.io/point72/jobs/7001158002?gh_jid=7001158002"
+        },
+        {
+          "id": "greenhouse:7045938002",
+          "title": "Cubist Data Scientist",
+          "url": "https://boards.greenhouse.io/point72/jobs/7045938002?gh_jid=7045938002"
         },
         {
           "id": "greenhouse:8603359002",
@@ -6935,21 +7224,6 @@
           "url": "https://boards.greenhouse.io/point72/jobs/7666604002?gh_jid=7666604002"
         },
         {
-          "id": "greenhouse:7045980002",
-          "title": "Cubist Quantitative Researcher",
-          "url": "https://boards.greenhouse.io/point72/jobs/7045980002?gh_jid=7045980002"
-        },
-        {
-          "id": "greenhouse:7318012002",
-          "title": "Cubist Quantitative Researcher",
-          "url": "https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002"
-        },
-        {
-          "id": "greenhouse:7318005002",
-          "title": "Cubist Quantitative Researcher",
-          "url": "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002"
-        },
-        {
           "id": "greenhouse:7046019002",
           "title": "Cubist Quantitative Researcher",
           "url": "https://boards.greenhouse.io/point72/jobs/7046019002?gh_jid=7046019002"
@@ -6965,6 +7239,16 @@
           "url": "https://boards.greenhouse.io/point72/jobs/7045936002?gh_jid=7045936002"
         },
         {
+          "id": "greenhouse:7318005002",
+          "title": "Cubist Quantitative Researcher",
+          "url": "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002"
+        },
+        {
+          "id": "greenhouse:7318012002",
+          "title": "Cubist Quantitative Researcher",
+          "url": "https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002"
+        },
+        {
           "id": "greenhouse:7297555002",
           "title": "Cubist Quantitative Researcher",
           "url": "https://boards.greenhouse.io/point72/jobs/7297555002?gh_jid=7297555002"
@@ -6975,14 +7259,19 @@
           "url": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002"
         },
         {
-          "id": "greenhouse:7297598002",
-          "title": "Cubist Quantitative Researcher Intern",
-          "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002"
+          "id": "greenhouse:7045980002",
+          "title": "Cubist Quantitative Researcher",
+          "url": "https://boards.greenhouse.io/point72/jobs/7045980002?gh_jid=7045980002"
         },
         {
           "id": "greenhouse:7297611002",
           "title": "Cubist Quantitative Researcher Intern",
           "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002"
+        },
+        {
+          "id": "greenhouse:7297598002",
+          "title": "Cubist Quantitative Researcher Intern",
+          "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002"
         },
         {
           "id": "greenhouse:7045979002",
@@ -7126,7 +7415,7 @@
       "url": "https://careers.aqr.com/jobs/category/university-jobs?size=n_20_n",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:08+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:10+00:00",
       "totalOpen": 8,
       "knownIds": [
         "h:fd00cfd7e321b2ff",
@@ -7134,9 +7423,9 @@
         "h:ddbfe887f22138fc",
         "h:749d0aa25da2dbdd",
         "h:29551d13def5fe4a",
+        "h:725a7d274b035d98",
         "h:63f75423a8a2513a",
-        "h:fa5e271b13f0a8a7",
-        "h:725a7d274b035d98"
+        "h:fa5e271b13f0a8a7"
       ],
       "openItems": [
         {
@@ -7165,6 +7454,11 @@
           "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7895562"
         },
         {
+          "id": "h:725a7d274b035d98",
+          "title": "2027 Portfolio Solutions Group Summer Analyst",
+          "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-portfolio-solutions-group-summer-analyst/8041362"
+        },
+        {
           "id": "h:63f75423a8a2513a",
           "title": "2027 Research Summer Analyst",
           "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-research-summer-analyst/7895583"
@@ -7173,11 +7467,6 @@
           "id": "h:fa5e271b13f0a8a7",
           "title": "2027 Risk Summer Analyst",
           "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-risk-summer-analyst/7926692"
-        },
-        {
-          "id": "h:725a7d274b035d98",
-          "title": "2027 Portfolio Solutions Group Summer Analyst",
-          "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-portfolio-solutions-group-summer-analyst/8041362"
         }
       ],
       "recentItems": [
@@ -7196,7 +7485,7 @@
       "url": "https://www.mwam.com/technology-internship-programme/",
       "source": "greenhouse:mwinternshipprogram",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:14+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:15+00:00",
       "totalOpen": 4,
       "knownIds": [
         "greenhouse:8608327002",
@@ -7260,7 +7549,7 @@
       "url": "https://www.winton.com/opportunities?tag=technology#job-tags",
       "source": "greenhouse:winton",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:15+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:16+00:00",
       "totalOpen": 9,
       "knownIds": [
         "greenhouse:4868964101",
@@ -7329,7 +7618,7 @@
       "url": "https://www.man.com/students-and-graduates",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:15+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:17+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -7342,7 +7631,7 @@
       "url": "https://careers.twosigma.com/careers/OpenRoles/?5079=%5B16718359%5D&5079_format=3144&5080=%5B16718775%2C16718776%5D&5080_format=3145&5081=%5B16718736%2C16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:23+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:25+00:00",
       "totalOpen": 8,
       "knownIds": [
         "h:6d8037999663037b",
@@ -7405,7 +7694,7 @@
       "url": "https://www.worldquant.com/career-listing/?location=&department=technology-division",
       "source": "generic:static",
       "status": "blocked",
-      "lastCheckedAt": "2026-07-18T07:28:30+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:33+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -7419,7 +7708,7 @@
       "url": "https://bambusdev.my.site.com/s/",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:35+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:38+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -7432,7 +7721,7 @@
       "url": "https://www.schonfeld.com/careers/students-and-early-career/",
       "source": "greenhouse:schonfeld",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:42+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:44+00:00",
       "totalOpen": 55,
       "knownIds": [
         "greenhouse:7950797",
@@ -7444,8 +7733,8 @@
         "greenhouse:8008149",
         "greenhouse:7866433",
         "greenhouse:8020794",
-        "greenhouse:7921812",
         "greenhouse:8038844",
+        "greenhouse:7921812",
         "greenhouse:7842492",
         "greenhouse:7862487",
         "greenhouse:8055950",
@@ -7458,8 +7747,8 @@
         "greenhouse:7843972",
         "greenhouse:7843959",
         "greenhouse:8010313",
-        "greenhouse:7846894",
         "greenhouse:7996905",
+        "greenhouse:7846894",
         "greenhouse:8020495",
         "greenhouse:8010092",
         "greenhouse:7857899",
@@ -7476,8 +7765,8 @@
         "greenhouse:7848174",
         "greenhouse:7958132",
         "greenhouse:7544203",
-        "greenhouse:7843962",
         "greenhouse:7538303",
+        "greenhouse:7843962",
         "greenhouse:7858449",
         "greenhouse:7381166",
         "greenhouse:7958235",
@@ -7486,8 +7775,8 @@
         "greenhouse:8020496",
         "greenhouse:8020498",
         "greenhouse:8020502",
-        "greenhouse:8020499",
         "greenhouse:8020503",
+        "greenhouse:8020499",
         "greenhouse:7541293",
         "greenhouse:7402926"
       ],
@@ -7538,14 +7827,14 @@
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8020794"
         },
         {
-          "id": "greenhouse:7921812",
-          "title": "Compliance Officer",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7921812"
-        },
-        {
           "id": "greenhouse:8038844",
           "title": "Compliance Officer",
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8038844"
+        },
+        {
+          "id": "greenhouse:7921812",
+          "title": "Compliance Officer",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7921812"
         },
         {
           "id": "greenhouse:7842492",
@@ -7608,14 +7897,14 @@
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8010313"
         },
         {
-          "id": "greenhouse:7846894",
-          "title": "Platform Support Engineer",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7846894"
-        },
-        {
           "id": "greenhouse:7996905",
           "title": "Platform Support Engineer",
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7996905"
+        },
+        {
+          "id": "greenhouse:7846894",
+          "title": "Platform Support Engineer",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7846894"
         },
         {
           "id": "greenhouse:8020495",
@@ -7698,14 +7987,14 @@
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7544203"
         },
         {
-          "id": "greenhouse:7843962",
-          "title": "Senior Software Engineer",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843962"
-        },
-        {
           "id": "greenhouse:7538303",
           "title": "Senior Software Engineer",
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7538303"
+        },
+        {
+          "id": "greenhouse:7843962",
+          "title": "Senior Software Engineer",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843962"
         },
         {
           "id": "greenhouse:7858449",
@@ -7748,14 +8037,14 @@
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8020502"
         },
         {
-          "id": "greenhouse:8020499",
-          "title": "Strategist, CIO Office (FICC)",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8020499"
-        },
-        {
           "id": "greenhouse:8020503",
           "title": "Strategist, CIO Office (FICC)",
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8020503"
+        },
+        {
+          "id": "greenhouse:8020499",
+          "title": "Strategist, CIO Office (FICC)",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8020499"
         },
         {
           "id": "greenhouse:7541293",
@@ -7806,14 +8095,7 @@
           "firstSeen": "2026-07-07"
         }
       ],
-      "newItems": [
-        {
-          "id": "greenhouse:7921812",
-          "title": "Compliance Officer",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7921812",
-          "firstSeen": "2026-07-18"
-        }
-      ]
+      "newItems": []
     },
     {
       "id": "millennium",
@@ -7821,7 +8103,7 @@
       "url": "https://campusjobs.mlp.com/careers?location=London%2C%20United%20Kingdom&pid=755956648019&domain=mlp.com&sort_by=relevance&microsite=campus-site&triggerGoButton=false",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:42+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:44+00:00",
       "totalOpen": 5,
       "knownIds": [
         "h:4106bc190534298b",
@@ -7866,7 +8148,7 @@
       "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:49+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:51+00:00",
       "totalOpen": 123,
       "knownIds": [
         "h:4004c3ad93956e3d",
@@ -8317,7 +8599,7 @@
       "url": "https://www.qube-rt.com/careers/",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:28:55+00:00",
+      "lastCheckedAt": "2026-07-19T07:59:58+00:00",
       "totalOpen": 213,
       "knownIds": [
         "h:476724dcd3f17b93",
@@ -8360,9 +8642,9 @@
         "h:23c4e6794abeda9b",
         "h:fe4aad68b98b1cea",
         "h:8875965f4fbfa7bd",
-        "h:ce1b0241716fd8e2",
         "h:542a3e53ad0b7640",
         "h:66a2a71b348bf0ce",
+        "h:ce1b0241716fd8e2",
         "h:4ffe8a1891286b0a",
         "h:1a1eb254f75e3d0f",
         "h:a04f978bcd598f1d",
@@ -8378,10 +8660,10 @@
         "h:9c047cb48fd1b7bb",
         "h:5000ba3ca483d66c",
         "h:7b06090c6e2b8d50",
-        "h:78758ad4d0dfb116",
-        "h:f2232715a46ca437",
         "h:502e7b0120555707",
         "h:fdfc9cddc03644eb",
+        "h:f2232715a46ca437",
+        "h:78758ad4d0dfb116",
         "h:78792cd0ed7b3a10",
         "h:09afffdc371d01b6",
         "h:562399542248bf1b",
@@ -8400,22 +8682,22 @@
         "h:86688b15cc0e9188",
         "h:b1956ef048c8823d",
         "h:5e3696da58dd132c",
-        "h:15f28fe33034341f",
         "h:e783922b8fcb5b2f",
+        "h:15f28fe33034341f",
         "h:af27673af20f2d51",
         "h:d1e0a178c58eca0d",
-        "h:3869bf36b66312a6",
-        "h:dac94b8613d8e98f",
-        "h:206be58c2547e23e",
         "h:31e57b6ceeea5c70",
-        "h:936fc3b854a9cdf4",
+        "h:3869bf36b66312a6",
         "h:9b38dc16c6bad698",
+        "h:206be58c2547e23e",
+        "h:dac94b8613d8e98f",
+        "h:936fc3b854a9cdf4",
         "h:26d39ff61dbabbcf",
         "h:32f11b5cf98f4396",
         "h:8bca7c0c3936d41e",
-        "h:fc8ab4a029c31962",
-        "h:dc06fa96b1b68637",
         "h:87053ac4c1624218",
+        "h:dc06fa96b1b68637",
+        "h:fc8ab4a029c31962",
         "h:f77dcf5baea2731d",
         "h:85c2c207de45a76b",
         "h:72799db922571c93",
@@ -8434,32 +8716,32 @@
         "h:cdef492889c77252",
         "h:1fa6241717539bf9",
         "h:f492c9d6ba73e77a",
-        "h:dabe37ca2dfabfb4",
         "h:52b52e6c21aa38df",
+        "h:dabe37ca2dfabfb4",
         "h:e0eb879184a613e1",
-        "h:f26207c8f20bcd35",
         "h:b144baac03cc38df",
+        "h:f26207c8f20bcd35",
         "h:12f269f60d4774b1",
-        "h:014bdb7ca4d86305",
+        "h:cc4352a42ec24546",
         "h:ec3c21d73a570928",
         "h:1101ca257574d0d9",
-        "h:cc4352a42ec24546",
+        "h:014bdb7ca4d86305",
         "h:9142bf98edd3fb60",
         "h:8b3e804e7dfe3d96",
         "h:8684261a14e3ccd6",
-        "h:a877daf05988d150",
-        "h:31ebd16206816537",
-        "h:579c158f1404b4fa",
         "h:9f1fba2c3aec47ee",
-        "h:706aeb33c18c5a99",
+        "h:31ebd16206816537",
+        "h:a877daf05988d150",
+        "h:579c158f1404b4fa",
         "h:353fb4e9e8b37845",
+        "h:706aeb33c18c5a99",
         "h:9fe2a3220020b81d",
         "h:9225e8e051051b2a",
         "h:cac2e7bea6655d62",
         "h:5f95cda76eb39707",
-        "h:95200dacf79da940",
-        "h:a4dac8c48d96683e",
         "h:943a74ddb8520cba",
+        "h:a4dac8c48d96683e",
+        "h:95200dacf79da940",
         "h:a26f897e052d7600",
         "h:116d737d874b5ea2",
         "h:299cab4736d87ca8",
@@ -8471,8 +8753,8 @@
         "h:1b46c48be345e049",
         "h:351dd5c318ba86f0",
         "h:9d24cd34f790e2a6",
-        "h:65897b2909ea4105",
         "h:245506d09c5f1dcd",
+        "h:65897b2909ea4105",
         "h:51ef447de345379f",
         "h:64705b75c7f77af9",
         "h:360848c43a59126f",
@@ -8483,18 +8765,18 @@
         "h:b3c076fa205b5d1e",
         "h:d8e4c36c10e48ada",
         "h:3dc5de2045b25d45",
-        "h:047f9e5f6187ad79",
         "h:d487cfbdd82530ff",
-        "h:b701f262571b032e",
+        "h:047f9e5f6187ad79",
         "h:3221d3e8f8c7e3b8",
+        "h:b701f262571b032e",
         "h:416279e0479ae94d",
         "h:ed37062ddb4e19bd",
         "h:44fb8fcc1aea2b0a",
         "h:acb5a60dacec244c",
         "h:9e045a194136acb2",
         "h:6c6707932aed0747",
-        "h:91cd95aaf8239a45",
         "h:a2398ccfe9f25b7f",
+        "h:91cd95aaf8239a45",
         "h:971535b89d53e11f",
         "h:e49ea1e7dadbb98c",
         "h:a4a00e7897c6bce4",
@@ -8736,11 +9018,6 @@
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8381542002"
         },
         {
-          "id": "h:ce1b0241716fd8e2",
-          "title": "Data Scientist London View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=6962479002"
-        },
-        {
           "id": "h:542a3e53ad0b7640",
           "title": "Data Scientist Hong Kong View opportunity",
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8339642002"
@@ -8749,6 +9026,11 @@
           "id": "h:66a2a71b348bf0ce",
           "title": "Data Scientist Paris View opportunity",
           "url": "https://www.qube-rt.com/careers/job?gh_jid=6557776002"
+        },
+        {
+          "id": "h:ce1b0241716fd8e2",
+          "title": "Data Scientist London View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=6962479002"
         },
         {
           "id": "h:4ffe8a1891286b0a",
@@ -8826,14 +9108,14 @@
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8515254002"
         },
         {
-          "id": "h:78758ad4d0dfb116",
-          "title": "FPGA Engineer Chicago View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=8368689002"
+          "id": "h:502e7b0120555707",
+          "title": "FPGA Engineer New York View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=8368567002"
         },
         {
-          "id": "h:f2232715a46ca437",
-          "title": "FPGA Engineer Hong Kong View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=8336113002"
+          "id": "h:fdfc9cddc03644eb",
+          "title": "FPGA Engineer Sydney View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=7688158002"
         }
       ],
       "recentItems": [
@@ -8894,7 +9176,7 @@
       "url": "https://jobs.cfm.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_shifttype=&optionsFacetsDD_city=&optionsFacetsDD_department=",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:29:01+00:00",
+      "lastCheckedAt": "2026-07-19T08:00:05+00:00",
       "totalOpen": 28,
       "knownIds": [
         "h:9f5e37dd01d70ba0",
@@ -8917,8 +9199,8 @@
         "h:9855c04d8f7074cd",
         "h:3e6a316309aae008",
         "h:24c798794e1cf1f4",
-        "h:5010190618945703",
         "h:95f7cb4e21d43caf",
+        "h:5010190618945703",
         "h:c38f05d612bc84e0",
         "h:bb14dac260273f3e",
         "h:fbc6a252d70b0b3e",
@@ -9028,14 +9310,14 @@
           "url": "https://jobs.cfm.com/job/New-York-Quantitative-researcher-New-York-NY-10001/1331029455/"
         },
         {
-          "id": "h:5010190618945703",
-          "title": "Equity research analyst - Financials sector",
-          "url": "https://jobs.cfm.com/job/New-York-Equity-research-analyst-Financials-sector-NY-10001/1351840855/"
-        },
-        {
           "id": "h:95f7cb4e21d43caf",
           "title": "Equity research analyst - Hardware & Semiconductors sector",
           "url": "https://jobs.cfm.com/job/New-York-Equity-research-analyst-Hardware-&-Semiconductors-sector-NY-10001/1351839855/"
+        },
+        {
+          "id": "h:5010190618945703",
+          "title": "Equity research analyst - Financials sector",
+          "url": "https://jobs.cfm.com/job/New-York-Equity-research-analyst-Financials-sector-NY-10001/1351840855/"
         },
         {
           "id": "h:c38f05d612bc84e0",
@@ -9208,32 +9490,7 @@
           "firstSeen": "2026-07-06"
         }
       ],
-      "newItems": [
-        {
-          "id": "h:f598754adb59334f",
-          "title": "Internship Front-end - IT Operations",
-          "url": "https://jobs.cfm.com/job/Paris-Internship-Front-end-IT-Operations-75/1353071555/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:4eae85067edea552",
-          "title": "Internship - Web Front-End Developer",
-          "url": "https://jobs.cfm.com/job/Paris-Internship-Web-Front-End-Developer-75/1346544455/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:6f8a883298a36e86",
-          "title": "ECM Fundamental Analyst",
-          "url": "https://jobs.cfm.com/job/Paris-ECM-Fundamental-Analyst-75/1349955355/",
-          "firstSeen": "2026-07-18"
-        },
-        {
-          "id": "h:f7f92f1a6555ff15",
-          "title": "Senior Merger Arbitrage Analyst",
-          "url": "https://jobs.cfm.com/job/Paris-Senior-Merger-Arbitrage-Analyst-75/1349940155/",
-          "firstSeen": "2026-07-18"
-        }
-      ]
+      "newItems": []
     },
     {
       "id": "old-mission-capital",
@@ -9241,7 +9498,7 @@
       "url": "https://www.oldmissioncapital.com/careers/",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:29:08+00:00",
+      "lastCheckedAt": "2026-07-19T08:00:14+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -9254,7 +9511,7 @@
       "url": "https://www.genevatrading.com/careers-open-positions/",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:29:13+00:00",
+      "lastCheckedAt": "2026-07-19T08:00:22+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -9267,7 +9524,7 @@
       "url": "https://apply.workable.com/tibra-capital-1",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-07-18T07:29:18+00:00",
+      "lastCheckedAt": "2026-07-19T08:00:28+00:00",
       "totalOpen": 2,
       "knownIds": [
         "h:217d7d89c38c1f91",
