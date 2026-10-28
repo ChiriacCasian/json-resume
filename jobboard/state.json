@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T11:16:38+00:00",
+  "generatedAt": "2026-10-28T11:50:01+00:00",
   "companies": [
     {
       "id": "amazon-eu-student-internship",
@@ -7,9 +7,42 @@
       "url": "https://amazon.jobs/content/en/career-programs/university-ops/eu-students-internship",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:12:44+00:00",
+      "lastCheckedAt": "2026-10-28T11:46:25+00:00",
       "totalOpen": 75,
       "knownIds": [
+        "h:885741e4d17db055",
+        "h:4edcc4b375c99d08",
+        "h:5ccd0fadac06914c",
+        "h:ea6361d0b02d2f8b",
+        "h:2f7e5d5011082505",
+        "h:b2d913250f939cc9",
+        "h:a827641928c0ac08",
+        "h:0759c25b2361feb6",
+        "h:ee0f2d5d94b59bbd",
+        "h:8026e7450c4343e0",
+        "h:6b02286ec442e0f9",
+        "h:8f789e80fc3c61aa",
+        "h:2f03a9373db7e6de",
+        "h:f3bb79ef7caba877",
+        "h:f0b4220e11571d1c",
+        "h:77c50119e27e442a",
+        "h:251474ce62a68d6e",
+        "h:936c8f43be051097",
+        "h:34be8f127415ae4f",
+        "h:cae4b298fb03379c",
+        "h:ad37c36f4a938659",
+        "h:e89bb7ade93c56c0",
+        "h:0f8ceb3795a5ff96",
+        "h:4e64644488a76725",
+        "h:9ebfee10edb1d8e6",
+        "h:a8f353cd92caa84b",
+        "h:7ad250ad45dcc51a",
+        "h:ba1672b8c39cabbe",
+        "h:3f2e77dacde22e58",
+        "h:e7357b480f9512df",
+        "h:47ab18762576ed28",
+        "h:ad089581f2d9fb98",
+        "h:ae23e6dc9a0a309a",
         "h:96bf3c8701f24247",
         "h:1dbaea057096af13",
         "h:7e64334bcd26230a",
@@ -51,42 +84,174 @@
         "h:087a51cebaae5d49",
         "h:9a0a39b067d7ebe4",
         "h:e74b017fe9b48dd9",
-        "h:fc88c1564bceccd4",
-        "h:885741e4d17db055",
-        "h:4edcc4b375c99d08",
-        "h:5ccd0fadac06914c",
-        "h:ea6361d0b02d2f8b",
-        "h:2f7e5d5011082505",
-        "h:b2d913250f939cc9",
-        "h:a827641928c0ac08",
-        "h:0759c25b2361feb6",
-        "h:ee0f2d5d94b59bbd",
-        "h:8026e7450c4343e0",
-        "h:6b02286ec442e0f9",
-        "h:8f789e80fc3c61aa",
-        "h:2f03a9373db7e6de",
-        "h:f3bb79ef7caba877",
-        "h:f0b4220e11571d1c",
-        "h:77c50119e27e442a",
-        "h:251474ce62a68d6e",
-        "h:936c8f43be051097",
-        "h:34be8f127415ae4f",
-        "h:cae4b298fb03379c",
-        "h:ad37c36f4a938659",
-        "h:e89bb7ade93c56c0",
-        "h:0f8ceb3795a5ff96",
-        "h:4e64644488a76725",
-        "h:9ebfee10edb1d8e6",
-        "h:a8f353cd92caa84b",
-        "h:7ad250ad45dcc51a",
-        "h:ba1672b8c39cabbe",
-        "h:3f2e77dacde22e58",
-        "h:e7357b480f9512df",
-        "h:47ab18762576ed28",
-        "h:ad089581f2d9fb98",
-        "h:ae23e6dc9a0a309a"
+        "h:fc88c1564bceccd4"
       ],
       "openItems": [
+        {
+          "id": "h:885741e4d17db055",
+          "title": "Marketing & PR",
+          "url": "https://amazon.jobs/content/job-categories/marketing"
+        },
+        {
+          "id": "h:4edcc4b375c99d08",
+          "title": "Legal",
+          "url": "https://amazon.jobs/content/job-categories/legal"
+        },
+        {
+          "id": "h:5ccd0fadac06914c",
+          "title": "Project/Program/Product Management--Non-Tech",
+          "url": "https://amazon.jobs/content/job-categories/project-program-product-management-non-tech"
+        },
+        {
+          "id": "h:ea6361d0b02d2f8b",
+          "title": "Editorial, Writing, & Content Management",
+          "url": "https://amazon.jobs/content/job-categories/editorial-writing-content-management"
+        },
+        {
+          "id": "h:2f7e5d5011082505",
+          "title": "Investigation & Loss Prevention",
+          "url": "https://amazon.jobs/content/job-categories/investigation-loss-prevention"
+        },
+        {
+          "id": "h:b2d913250f939cc9",
+          "title": "Buying, Planning, & Instock Management",
+          "url": "https://amazon.jobs/content/job-categories/buying-planning-instock-management"
+        },
+        {
+          "id": "h:a827641928c0ac08",
+          "title": "Data Science",
+          "url": "https://amazon.jobs/content/job-categories/data-science"
+        },
+        {
+          "id": "h:0759c25b2361feb6",
+          "title": "Sales, Advertising, & Account Management",
+          "url": "https://amazon.jobs/content/job-categories/sales-advertising-account-management"
+        },
+        {
+          "id": "h:ee0f2d5d94b59bbd",
+          "title": "Applied Science",
+          "url": "https://amazon.jobs/en-gb/job-categories/applied-science"
+        },
+        {
+          "id": "h:8026e7450c4343e0",
+          "title": "Facilities, Maintenance, & Real Estate",
+          "url": "https://amazon.jobs/content/job-categories/facilities-maintenance-real-estate"
+        },
+        {
+          "id": "h:6b02286ec442e0f9",
+          "title": "Database Administration",
+          "url": "https://amazon.jobs/content/job-categories/database-administration"
+        },
+        {
+          "id": "h:8f789e80fc3c61aa",
+          "title": "Systems, Quality, & Security Engineering",
+          "url": "https://amazon.jobs/content/job-categories/systems-quality-security-engineering"
+        },
+        {
+          "id": "h:2f03a9373db7e6de",
+          "title": "Administrative Support",
+          "url": "https://amazon.jobs/content/job-categories/administrative-support"
+        },
+        {
+          "id": "h:f3bb79ef7caba877",
+          "title": "Finance & Accounting",
+          "url": "https://amazon.jobs/content/job-categories/fgbs"
+        },
+        {
+          "id": "h:f0b4220e11571d1c",
+          "title": "Medical, Health, & Safety",
+          "url": "https://amazon.jobs/content/job-categories/medical-health-safety"
+        },
+        {
+          "id": "h:77c50119e27e442a",
+          "title": "Software Development",
+          "url": "https://amazon.jobs/content/job-categories/software-development"
+        },
+        {
+          "id": "h:251474ce62a68d6e",
+          "title": "Fulfillment / Warehouse Associate",
+          "url": "https://amazon.jobs/content/job-categories/fulfillment-center-warehouse-associate"
+        },
+        {
+          "id": "h:936c8f43be051097",
+          "title": "Hardware Development",
+          "url": "https://amazon.jobs/content/job-categories/hardware-development"
+        },
+        {
+          "id": "h:34be8f127415ae4f",
+          "title": "Business Intelligence",
+          "url": "https://amazon.jobs/content/job-categories/business-intelligence-data-engineering"
+        },
+        {
+          "id": "h:cae4b298fb03379c",
+          "title": "Supply Chain/Transportation Management",
+          "url": "https://amazon.jobs/content/job-categories/supply-chain-transportation-management"
+        },
+        {
+          "id": "h:ad37c36f4a938659",
+          "title": "Fulfillment & Operations Management",
+          "url": "https://amazon.jobs/content/job-categories/fulfillment-operations-management"
+        },
+        {
+          "id": "h:e89bb7ade93c56c0",
+          "title": "Audio / Video / Photography Production",
+          "url": "https://amazon.jobs/content/job-categories/audio-video-photography-production"
+        },
+        {
+          "id": "h:0f8ceb3795a5ff96",
+          "title": "Operations, IT, & Support Engineering",
+          "url": "https://amazon.jobs/content/job-categories/operations-it-support-engineering"
+        },
+        {
+          "id": "h:4e64644488a76725",
+          "title": "Human Resources",
+          "url": "https://amazon.jobs/content/job-categories/human-resources"
+        },
+        {
+          "id": "h:9ebfee10edb1d8e6",
+          "title": "Project/Program/Product Management--Technical",
+          "url": "https://amazon.jobs/content/job-categories/project-program-product-management-technical"
+        },
+        {
+          "id": "h:a8f353cd92caa84b",
+          "title": "Solutions Architect",
+          "url": "https://amazon.jobs/content/job-categories/solutions-architecture"
+        },
+        {
+          "id": "h:7ad250ad45dcc51a",
+          "title": "Public Policy",
+          "url": "https://amazon.jobs/content/job-categories/public-policy"
+        },
+        {
+          "id": "h:ba1672b8c39cabbe",
+          "title": "Research Science",
+          "url": "https://amazon.jobs/content/job-categories/research-science"
+        },
+        {
+          "id": "h:3f2e77dacde22e58",
+          "title": "Business & Merchant Development",
+          "url": "https://amazon.jobs/content/job-categories/business-merchant-development"
+        },
+        {
+          "id": "h:e7357b480f9512df",
+          "title": "Leadership Development & Training",
+          "url": "https://amazon.jobs/content/job-categories/leadership-development-training"
+        },
+        {
+          "id": "h:47ab18762576ed28",
+          "title": "Customer Service",
+          "url": "https://amazon.jobs/content/job-categories/customer-service"
+        },
+        {
+          "id": "h:ad089581f2d9fb98",
+          "title": "Economics",
+          "url": "https://amazon.jobs/content/job-categories/economics"
+        },
+        {
+          "id": "h:ae23e6dc9a0a309a",
+          "title": "Design",
+          "url": "https://amazon.jobs/content/job-categories/design"
+        },
         {
           "id": "h:96bf3c8701f24247",
           "title": "Amazon Selection and Catalog Systems",
@@ -221,171 +386,6 @@
           "id": "h:20712401f4c19df2",
           "title": "Artificial General Intelligence",
           "url": "https://amazon.jobs/content/teams/agi"
-        },
-        {
-          "id": "h:5b5b83184812a2a0",
-          "title": "Amazon Business",
-          "url": "https://amazon.jobs/content/teams/amazon-business"
-        },
-        {
-          "id": "h:5d763ce6df13401b",
-          "title": "Health Storefront and Tech",
-          "url": "https://amazon.jobs/business_categories/HSST"
-        },
-        {
-          "id": "h:f1d7b70f5572dd0a",
-          "title": "Worldwide Grocery Stores",
-          "url": "https://amazon.jobs/content/teams/worldwide-grocery-stores"
-        },
-        {
-          "id": "h:1c53c431ce3f3483",
-          "title": "Stores Economics and Science",
-          "url": "https://amazon.jobs/content/teams/seas"
-        },
-        {
-          "id": "h:f4617c110edb373a",
-          "title": "Amazon Health Services",
-          "url": "https://amazon.jobs/content/teams/health-services"
-        },
-        {
-          "id": "h:c99d8278045c9950",
-          "title": "International Stores",
-          "url": "https://amazon.jobs/content/teams/international-stores"
-        },
-        {
-          "id": "h:881e2779c313cb97",
-          "title": "US Prime and Marketing Technology (UPMT)",
-          "url": "https://amazon.jobs/content/teams/north-america-stores/upmt"
-        },
-        {
-          "id": "h:ffe3a62a33554fd5",
-          "title": "Amazon Security",
-          "url": "https://amazon.jobs/content/teams/amazon-security"
-        },
-        {
-          "id": "h:18ce38be6fc1b437",
-          "title": "Communications and Corporate Responsibility",
-          "url": "https://amazon.jobs/content/teams/ccr"
-        },
-        {
-          "id": "h:e1130885f1d886e9",
-          "title": "Amazon Web Services",
-          "url": "https://amazon.jobs/content/teams/amazon-web-services"
-        },
-        {
-          "id": "h:dcdee53e4ab206bb",
-          "title": "Amazon Legal",
-          "url": "https://amazon.jobs/content/teams/amazon-legal"
-        },
-        {
-          "id": "h:087a51cebaae5d49",
-          "title": "North America Stores",
-          "url": "https://amazon.jobs/content/teams/north-america-stores"
-        },
-        {
-          "id": "h:9a0a39b067d7ebe4",
-          "title": "Devices and Services",
-          "url": "https://amazon.jobs/content/teams/devices-services"
-        },
-        {
-          "id": "h:e74b017fe9b48dd9",
-          "title": "eCommerce Foundation",
-          "url": "https://amazon.jobs/content/teams/e-commerce-foundation"
-        },
-        {
-          "id": "h:fc88c1564bceccd4",
-          "title": "Amazonian Experience and Technology",
-          "url": "https://amazon.jobs/content/teams/amazonian-experience-and-technology"
-        },
-        {
-          "id": "h:885741e4d17db055",
-          "title": "Marketing & PR",
-          "url": "https://amazon.jobs/content/job-categories/marketing"
-        },
-        {
-          "id": "h:4edcc4b375c99d08",
-          "title": "Legal",
-          "url": "https://amazon.jobs/content/job-categories/legal"
-        },
-        {
-          "id": "h:5ccd0fadac06914c",
-          "title": "Project/Program/Product Management--Non-Tech",
-          "url": "https://amazon.jobs/content/job-categories/project-program-product-management-non-tech"
-        },
-        {
-          "id": "h:ea6361d0b02d2f8b",
-          "title": "Editorial, Writing, & Content Management",
-          "url": "https://amazon.jobs/content/job-categories/editorial-writing-content-management"
-        },
-        {
-          "id": "h:2f7e5d5011082505",
-          "title": "Investigation & Loss Prevention",
-          "url": "https://amazon.jobs/content/job-categories/investigation-loss-prevention"
-        },
-        {
-          "id": "h:b2d913250f939cc9",
-          "title": "Buying, Planning, & Instock Management",
-          "url": "https://amazon.jobs/content/job-categories/buying-planning-instock-management"
-        },
-        {
-          "id": "h:a827641928c0ac08",
-          "title": "Data Science",
-          "url": "https://amazon.jobs/content/job-categories/data-science"
-        },
-        {
-          "id": "h:0759c25b2361feb6",
-          "title": "Sales, Advertising, & Account Management",
-          "url": "https://amazon.jobs/content/job-categories/sales-advertising-account-management"
-        },
-        {
-          "id": "h:ee0f2d5d94b59bbd",
-          "title": "Applied Science",
-          "url": "https://amazon.jobs/en-gb/job-categories/applied-science"
-        },
-        {
-          "id": "h:8026e7450c4343e0",
-          "title": "Facilities, Maintenance, & Real Estate",
-          "url": "https://amazon.jobs/content/job-categories/facilities-maintenance-real-estate"
-        },
-        {
-          "id": "h:6b02286ec442e0f9",
-          "title": "Database Administration",
-          "url": "https://amazon.jobs/content/job-categories/database-administration"
-        },
-        {
-          "id": "h:8f789e80fc3c61aa",
-          "title": "Systems, Quality, & Security Engineering",
-          "url": "https://amazon.jobs/content/job-categories/systems-quality-security-engineering"
-        },
-        {
-          "id": "h:2f03a9373db7e6de",
-          "title": "Administrative Support",
-          "url": "https://amazon.jobs/content/job-categories/administrative-support"
-        },
-        {
-          "id": "h:f3bb79ef7caba877",
-          "title": "Finance & Accounting",
-          "url": "https://amazon.jobs/content/job-categories/fgbs"
-        },
-        {
-          "id": "h:f0b4220e11571d1c",
-          "title": "Medical, Health, & Safety",
-          "url": "https://amazon.jobs/content/job-categories/medical-health-safety"
-        },
-        {
-          "id": "h:77c50119e27e442a",
-          "title": "Software Development",
-          "url": "https://amazon.jobs/content/job-categories/software-development"
-        },
-        {
-          "id": "h:251474ce62a68d6e",
-          "title": "Fulfillment / Warehouse Associate",
-          "url": "https://amazon.jobs/content/job-categories/fulfillment-center-warehouse-associate"
-        },
-        {
-          "id": "h:936c8f43be051097",
-          "title": "Hardware Development",
-          "url": "https://amazon.jobs/content/job-categories/hardware-development"
         }
       ],
       "recentItems": [],
@@ -397,7 +397,7 @@
       "url": "https://explore.jobs.netflix.net/careers?pid=790316851901&Teams=Engineering&Teams=Data%20%26%20Insights&Teams=Engineering%20Operations&Region=emea&domain=netflix.com&sort_by=relevance",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:12:50+00:00",
+      "lastCheckedAt": "2026-10-28T11:46:30+00:00",
       "totalOpen": 1,
       "knownIds": [
         "h:0e13c273942b7fd2"
@@ -418,7 +418,7 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results?distance=50&target_level=INTERN_AND_APPRENTICE&degree=BACHELORS&degree=PURSUING_DEGREE&employment_type=FULL_TIME&employment_type=TEMPORARY&employment_type=PART_TIME&employment_type=INTERN&company=GFiber&company=Verily%20Life%20Sciences&company=Wing&company=Waymo&company=X&company=Fitbit&company=Google&company=YouTube&location=Germany&location=Netherlands&location=Switzerland&location=United%20Kingdom",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:12:57+00:00",
+      "lastCheckedAt": "2026-10-28T11:46:36+00:00",
       "totalOpen": 4,
       "knownIds": [
         "h:c5c859e47a7bff7a",
@@ -457,7 +457,7 @@
       "url": "https://jobs.uber.com/en/jobs/?radius=50&team=University",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:02+00:00",
+      "lastCheckedAt": "2026-10-28T11:46:41+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -470,13 +470,12 @@
       "url": "https://www.metacareers.com/jobsearch/?offices[0]=Europe%20%26%20Middle%20East&roles[0]=Internship&teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[2]=University%20Grad%20-%20PhD%20%26%20Postdoc",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:07+00:00",
-      "totalOpen": 5,
+      "lastCheckedAt": "2026-10-28T11:46:46+00:00",
+      "totalOpen": 4,
       "knownIds": [
         "h:e2248e2166ed0617",
         "h:0d2a55d9a73cad84",
         "h:40ddfaf691a7c371",
-        "h:05f1e4a8b0e99115",
         "h:ccb2f8cdc548efd7"
       ],
       "openItems": [
@@ -494,11 +493,6 @@
           "id": "h:40ddfaf691a7c371",
           "title": "Research Scientist Intern - Content Seal - FAIR Paris, France AI Research University Grad - PhD & Postdoc Research",
           "url": "https://www.metacareers.com/profile/job_details/1775227420261809"
-        },
-        {
-          "id": "h:05f1e4a8b0e99115",
-          "title": "Research Scientist Intern, Audio Quality with AI Cambridge, UK AI Research University Grad - PhD & Postdoc Research",
-          "url": "https://www.metacareers.com/profile/job_details/4556622427930384"
         },
         {
           "id": "h:ccb2f8cdc548efd7",
@@ -540,60 +534,40 @@
       "url": "https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:13+00:00",
+      "lastCheckedAt": "2026-10-28T11:46:52+00:00",
       "totalOpen": 20,
       "knownIds": [
-        "h:1e4b083479900709",
-        "h:e3636b4c48346a86",
-        "h:c803d79ec0b13559",
-        "h:2dbf3c4ad5d011a5",
-        "h:6d9704cfe2648286",
-        "h:a03c6c8dfd7f2a6b",
+        "h:c5026a468bc40c4f",
+        "h:142c780feb996f31",
         "h:766ce36209b0116f",
         "h:2f34c8f126e3c74b",
-        "h:07b73474cd15aa1d",
-        "h:e0fdfb71bef7b31d",
+        "h:c803d79ec0b13559",
+        "h:2dbf3c4ad5d011a5",
         "h:fed412173b01e77a",
         "h:c8bed6ea4c1936e1",
         "h:9478c5b02ab5632e",
         "h:94d0f611997e2117",
+        "h:e35e4ceba8db15e6",
+        "h:5a3f144226300da0",
+        "h:6d9704cfe2648286",
+        "h:a03c6c8dfd7f2a6b",
         "h:9eecb3843ba436b0",
         "h:2d3f41ef89865618",
-        "h:c5026a468bc40c4f",
-        "h:142c780feb996f31",
         "h:d9424a3802073b96",
-        "h:36b83c859ec56a0b"
+        "h:36b83c859ec56a0b",
+        "h:7df7fad2dc50252b",
+        "h:76541bd4819035a0"
       ],
       "openItems": [
         {
-          "id": "h:1e4b083479900709",
-          "title": "Werkstudent / Working student Sales",
-          "url": "https://careers.adobe.com/us/en/job/R172250/Werkstudent-Working-student-Sales"
+          "id": "h:c5026a468bc40c4f",
+          "title": "2027 Intern - Adobe Sales Academy BDR",
+          "url": "https://careers.adobe.com/us/en/job/R170977/2027-Intern-Adobe-Sales-Academy-BDR"
         },
         {
-          "id": "h:e3636b4c48346a86",
-          "title": "Apply Now Werkstudent / Working student Sales",
-          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR172250EXTERNALENUS"
-        },
-        {
-          "id": "h:c803d79ec0b13559",
-          "title": "2027 Intern - Digital Strategy Analyst, Strategic Advisory",
-          "url": "https://careers.adobe.com/us/en/job/R171828/2027-Intern-Digital-Strategy-Analyst-Strategic-Advisory"
-        },
-        {
-          "id": "h:2dbf3c4ad5d011a5",
-          "title": "Apply Now 2027 Intern - Digital Strategy Analyst, Strategic Advisory",
-          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171828EXTERNALENUS"
-        },
-        {
-          "id": "h:6d9704cfe2648286",
-          "title": "2027 MBA Intern – Product Manager",
-          "url": "https://careers.adobe.com/us/en/job/R172261/2027-MBA-Intern-Product-Manager"
-        },
-        {
-          "id": "h:a03c6c8dfd7f2a6b",
-          "title": "Apply Now 2027 MBA Intern – Product Manager",
-          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR172261EXTERNALENUS"
+          "id": "h:142c780feb996f31",
+          "title": "Apply Now 2027 Intern - Adobe Sales Academy BDR",
+          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR170977EXTERNALENUS"
         },
         {
           "id": "h:766ce36209b0116f",
@@ -606,14 +580,14 @@
           "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171519EXTERNALENUS"
         },
         {
-          "id": "h:07b73474cd15aa1d",
-          "title": "Working Student Adobe C&P Enterprise Sales",
-          "url": "https://careers.adobe.com/us/en/job/R172310/Working-Student-Adobe-C-P-Enterprise-Sales"
+          "id": "h:c803d79ec0b13559",
+          "title": "2027 Intern - Digital Strategy Analyst, Strategic Advisory",
+          "url": "https://careers.adobe.com/us/en/job/R171828/2027-Intern-Digital-Strategy-Analyst-Strategic-Advisory"
         },
         {
-          "id": "h:e0fdfb71bef7b31d",
-          "title": "Apply Now Working Student Adobe C&P Enterprise Sales",
-          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR172310EXTERNALENUS"
+          "id": "h:2dbf3c4ad5d011a5",
+          "title": "Apply Now 2027 Intern - Digital Strategy Analyst, Strategic Advisory",
+          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171828EXTERNALENUS"
         },
         {
           "id": "h:fed412173b01e77a",
@@ -636,6 +610,26 @@
           "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171869EXTERNALENUS"
         },
         {
+          "id": "h:e35e4ceba8db15e6",
+          "title": "2027 Intern - Software Engineer",
+          "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer"
+        },
+        {
+          "id": "h:5a3f144226300da0",
+          "title": "Apply Now 2027 Intern - Software Engineer",
+          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS"
+        },
+        {
+          "id": "h:6d9704cfe2648286",
+          "title": "2027 MBA Intern – Product Manager",
+          "url": "https://careers.adobe.com/us/en/job/R172261/2027-MBA-Intern-Product-Manager"
+        },
+        {
+          "id": "h:a03c6c8dfd7f2a6b",
+          "title": "Apply Now 2027 MBA Intern – Product Manager",
+          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR172261EXTERNALENUS"
+        },
+        {
           "id": "h:9eecb3843ba436b0",
           "title": "2027 MBA Intern - Corporate Strategy",
           "url": "https://careers.adobe.com/us/en/job/R172471/2027-MBA-Intern-Corporate-Strategy"
@@ -646,16 +640,6 @@
           "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR172471EXTERNALENUS"
         },
         {
-          "id": "h:c5026a468bc40c4f",
-          "title": "2027 Intern - Adobe Sales Academy BDR",
-          "url": "https://careers.adobe.com/us/en/job/R170977/2027-Intern-Adobe-Sales-Academy-BDR"
-        },
-        {
-          "id": "h:142c780feb996f31",
-          "title": "Apply Now 2027 Intern - Adobe Sales Academy BDR",
-          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR170977EXTERNALENUS"
-        },
-        {
           "id": "h:d9424a3802073b96",
           "title": "2027 MBA Intern – Product Marketing Manager",
           "url": "https://careers.adobe.com/us/en/job/R172262/2027-MBA-Intern-Product-Marketing-Manager"
@@ -664,9 +648,43 @@
           "id": "h:36b83c859ec56a0b",
           "title": "Apply Now 2027 MBA Intern – Product Marketing Manager",
           "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR172262EXTERNALENUS"
+        },
+        {
+          "id": "h:7df7fad2dc50252b",
+          "title": "2027 Intern - Security Engineer",
+          "url": "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer"
+        },
+        {
+          "id": "h:76541bd4819035a0",
+          "title": "Apply Now 2027 Intern - Security Engineer",
+          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS"
         }
       ],
       "recentItems": [
+        {
+          "id": "h:e35e4ceba8db15e6",
+          "title": "2027 Intern - Software Engineer",
+          "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:5a3f144226300da0",
+          "title": "Apply Now 2027 Intern - Software Engineer",
+          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:7df7fad2dc50252b",
+          "title": "2027 Intern - Security Engineer",
+          "url": "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:76541bd4819035a0",
+          "title": "Apply Now 2027 Intern - Security Engineer",
+          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
+          "firstSeen": "2026-10-28"
+        },
         {
           "id": "h:07b73474cd15aa1d",
           "title": "Working Student Adobe C&P Enterprise Sales",
@@ -678,18 +696,6 @@
           "title": "Apply Now Working Student Adobe C&P Enterprise Sales",
           "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR172310EXTERNALENUS",
           "firstSeen": "2026-10-27"
-        },
-        {
-          "id": "h:e35e4ceba8db15e6",
-          "title": "2027 Intern - Software Engineer",
-          "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
-          "firstSeen": "2026-10-23"
-        },
-        {
-          "id": "h:5a3f144226300da0",
-          "title": "Apply Now 2027 Intern - Software Engineer",
-          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
-          "firstSeen": "2026-10-23"
         },
         {
           "id": "h:1e4b083479900709",
@@ -844,16 +850,28 @@
       ],
       "newItems": [
         {
-          "id": "h:07b73474cd15aa1d",
-          "title": "Working Student Adobe C&P Enterprise Sales",
-          "url": "https://careers.adobe.com/us/en/job/R172310/Working-Student-Adobe-C-P-Enterprise-Sales",
-          "firstSeen": "2026-10-27"
+          "id": "h:e35e4ceba8db15e6",
+          "title": "2027 Intern - Software Engineer",
+          "url": "https://careers.adobe.com/us/en/job/R171666/2027-Intern-Software-Engineer",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "h:e0fdfb71bef7b31d",
-          "title": "Apply Now Working Student Adobe C&P Enterprise Sales",
-          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR172310EXTERNALENUS",
-          "firstSeen": "2026-10-27"
+          "id": "h:5a3f144226300da0",
+          "title": "Apply Now 2027 Intern - Software Engineer",
+          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR171666EXTERNALENUS",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:7df7fad2dc50252b",
+          "title": "2027 Intern - Security Engineer",
+          "url": "https://careers.adobe.com/us/en/job/R173000/2027-Intern-Security-Engineer",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:76541bd4819035a0",
+          "title": "Apply Now 2027 Intern - Security Engineer",
+          "url": "https://careers.adobe.com/us/en/apply?jobSeqNo=ADOBUSR173000EXTERNALENUS",
+          "firstSeen": "2026-10-28"
         }
       ]
     },
@@ -863,7 +881,7 @@
       "url": "https://jobs.apple.com/en-in/search?location=germany-DEU+london-metro-LOND&team=internships-STDNT-INTRN",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:21+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:00+00:00",
       "totalOpen": 10,
       "knownIds": [
         "h:bcf5c355aa95d980",
@@ -938,7 +956,7 @@
       "url": "https://apply.careers.microsoft.com/careers?start=0&location=Amsterdam%2C++NH%2C++Netherlands&sort_by=distance&filter_distance=160&filter_include_remote=1&filter_profession=software+engineering&filter_seniority=Intern%2CEntry",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:27+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:06+00:00",
       "totalOpen": 3,
       "knownIds": [
         "h:ea853d25a46e462b",
@@ -971,8 +989,8 @@
       "url": "https://openai.com/careers/search/?l=fca11f90-4dac-47b6-80e0-752cfeab792b%2C66f001f7-02bf-4419-ac0a-07aba9b32751%2C59a05e6d-6083-4712-a7a5-6388236e88c7%2C2accdeab-a029-418f-b635-f185078fe222%2C6afc3ffa-a7f3-4b49-8f12-74cc8460db3d",
       "source": "ashby:openai",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:34+00:00",
-      "totalOpen": 796,
+      "lastCheckedAt": "2026-10-28T11:47:12+00:00",
+      "totalOpen": 805,
       "knownIds": [
         "ashby:240d459b-696d-43eb-8497-fab3e56ecd9b",
         "ashby:7322d344-9325-4a92-8445-0a2c4e9272f8",
@@ -1030,7 +1048,6 @@
         "ashby:07153f7c-7e8b-4283-a879-cb07a224e083",
         "ashby:71e7252f-abb1-4b74-8e69-318413042357",
         "ashby:fb5862cc-244c-410b-b287-47df89ad1e43",
-        "ashby:f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
         "ashby:460b4295-3803-4dda-983d-3b0fea0b0fc4",
         "ashby:43174eb6-0ffe-4744-9323-c7969e7ea2e1",
         "ashby:60573bf4-13ad-4933-aba7-729f428e9f69",
@@ -1132,7 +1149,6 @@
         "ashby:063d1957-23f0-4976-b8bd-93a0d4a31cfb",
         "ashby:52263a22-1621-4dbb-9a11-ae4490f2acc8",
         "ashby:dc0b907b-f833-4559-8fd8-d3d4c80b58d8",
-        "ashby:c2aeb70d-3eca-4c4f-a414-6394b30fea80",
         "ashby:40de0618-fb19-443d-85fd-ba690d3721a8",
         "ashby:d5b65a7c-3294-453f-a674-4cb1c0e2aaa7",
         "ashby:99f823a1-66ec-44bd-ba30-d3645aa49d74",
@@ -1221,6 +1237,7 @@
         "ashby:19fc3e36-3bf3-4a7c-b65f-498d89220436",
         "ashby:e2afdede-a222-4825-b2fc-fec439a7c893",
         "ashby:9b1b62f5-1400-4672-910a-fda6f975f642",
+        "ashby:d4a191f9-58f6-4c89-95f0-0c23ea59a8e4",
         "ashby:e9627fa6-ac76-4899-9a93-9251419e61a0",
         "ashby:817c523c-59b2-4206-ae52-7dd6d36090b4",
         "ashby:7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a",
@@ -1348,7 +1365,6 @@
         "ashby:bef38cc8-b13c-4ca8-8e1c-7d97139efdea",
         "ashby:8c460221-77ba-4120-b74e-3b1ad7c82818",
         "ashby:56e699e0-421f-40d1-aad1-20cf6609794f",
-        "ashby:2e127590-8604-4901-ac38-8dfd8e9e255f",
         "ashby:dcbb011b-bc0f-41e6-b3c6-34068d177e54",
         "ashby:55f36629-8351-41d9-b2f5-3d63c5e26bf7",
         "ashby:6d7ece77-bf25-4f5e-9a84-c5ce26e18c37",
@@ -1436,7 +1452,6 @@
         "ashby:6b8eed3a-d549-4df8-9ac7-134d4d52c600",
         "ashby:4030aec5-ffd4-49a7-bc19-65e63c45e167",
         "ashby:ac43a452-1f50-42a2-816e-f920fdb51823",
-        "ashby:bc88df2f-6268-45bc-966d-032bd05c9ad6",
         "ashby:1e68e5f6-6bda-4d11-89fd-4be731077031",
         "ashby:ccd3c68b-5860-40b5-9aff-e99da9aa669c",
         "ashby:02ec1893-17df-420c-8d19-48eca8edd884",
@@ -1500,7 +1515,6 @@
         "ashby:95283afd-0a20-4e15-9034-d34e88b66e5d",
         "ashby:69398837-5ceb-44d8-b95a-e53c2acf5230",
         "ashby:0ca02747-5c97-432b-95c5-4b9099bce992",
-        "ashby:104eb2c4-bf85-4fec-a7e5-0616d235818a",
         "ashby:98bffd0e-05cf-4748-93f1-b115c84e37b4",
         "ashby:c8d3feee-2b6a-4ef7-b8c0-90bbd1381c1f",
         "ashby:7bee6731-7619-4fb4-a2f4-7f0003a0fd9e",
@@ -1511,7 +1525,6 @@
         "ashby:212ea50e-b315-4aef-ba03-5552e66b3129",
         "ashby:58c28108-5bc6-449d-8461-9274f5abd7e6",
         "ashby:ad958934-fd89-4033-8b13-1a4871d8073c",
-        "ashby:e7594296-a38b-43a1-b4f8-01253a3b7732",
         "ashby:e1cc86e5-b56c-49c0-a4a6-8cf766c27281",
         "ashby:0b9e565a-ae5f-40fc-8350-b59f71f76df1",
         "ashby:7d49af15-623e-476a-9d35-831c5c9c9bf5",
@@ -1536,7 +1549,6 @@
         "ashby:7f4c5eef-37f9-4454-a1fb-ef1e66b075d9",
         "ashby:989d85db-2f7e-4833-8934-9e64b652675f",
         "ashby:fa312d19-bb9e-4569-b5ed-aed8aa45cd3b",
-        "ashby:a5136d9d-c22a-4c12-a776-483f63ef1120",
         "ashby:609cb338-a168-42c1-8e77-5837826136b1",
         "ashby:c0c70d7e-c450-4ca4-842a-dbc5e643c048",
         "ashby:5df9e349-f8e1-4cfd-ba20-ec9e4115d564",
@@ -1629,11 +1641,9 @@
         "ashby:a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
         "ashby:295464f1-7d48-468f-afe2-87f9075b7a20",
         "ashby:0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1",
-        "ashby:4ca2e49f-83bb-4276-be17-d85a9a0c58e9",
         "ashby:bb1c9e6f-892e-434b-9f02-fcf6a238bc1c",
         "ashby:125db0ea-d5e1-4c49-bc1a-e6ffc8ea71ff",
         "ashby:0320cd25-ede1-4d25-8a61-65d801f1726e",
-        "ashby:2250282b-7f1a-43e6-bf55-e603cbf0fd89",
         "ashby:cd3c9c99-9527-4ba2-bea7-9f8f4892bc62",
         "ashby:a58b83f6-2955-4d89-8c13-14372c89263a",
         "ashby:a244270d-9308-4124-82d5-9c0b91eae1f2",
@@ -1688,6 +1698,7 @@
         "ashby:5d5a4116-b409-4676-b357-7094ad87d15d",
         "ashby:a23a49a6-0c20-4cb3-8ffd-4881f5914474",
         "ashby:4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+        "ashby:bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
         "ashby:7613aca3-9dd8-41cd-b114-06ef4de967a9",
         "ashby:7fac113c-618d-4464-91b0-01307bf79cb6",
         "ashby:539aa9e9-76e0-4408-b47b-3bd569a81f91",
@@ -1715,7 +1726,6 @@
         "ashby:30a1d941-f12c-4589-a7a0-dad116b9aa33",
         "ashby:dbe79b89-e593-44b3-8aec-c667f7134445",
         "ashby:8ad567c5-70ca-46bf-85ae-eb5bbc8a2a39",
-        "ashby:78981a68-a314-4bf7-a8fa-013a29e85906",
         "ashby:096be63b-69cf-4295-9d29-d2e740058ea4",
         "ashby:5c5eb021-636c-4bea-965a-66fd1f6ffe8c",
         "ashby:e808f3eb-f1bc-42ed-bf0c-12e339cabc92",
@@ -1749,6 +1759,7 @@
         "ashby:25c2d971-56b4-43c2-8d17-8e168d45add5",
         "ashby:1441816f-6429-426e-8f6d-8e5930a818f9",
         "ashby:5ef10e09-2b3f-41de-b77c-829787302101",
+        "ashby:a57bb806-0d67-48ba-96cc-695667eae41a",
         "ashby:4b7246e7-0eaf-4e35-865b-1ef693527ff4",
         "ashby:c955617d-f465-4f7a-b57c-98284fd14777",
         "ashby:744844e1-f426-463c-b615-91823f0cd867",
@@ -1756,20 +1767,36 @@
         "ashby:f93ed20a-4a1c-43b4-895f-0830cdac6737",
         "ashby:b73e46a6-881a-4413-835a-94b9d5f35d2f",
         "ashby:d02ce96c-2a8b-4871-860d-d59a19a2369f",
+        "ashby:dc79ee90-98f5-41f1-b408-5861cb433612",
         "ashby:395e9fe2-4d78-42dd-b3f7-603884915a59",
         "ashby:c8eda1e9-10f9-4fc8-b88a-042ea6751d5b",
         "ashby:c9832989-edc1-4f2f-8a79-8fa29f5623e2",
         "ashby:c2921990-3fff-469a-a117-f6a8f2a3d50c",
         "ashby:6fd09d8c-f1d9-4c60-bb47-f63d8a96c10b",
+        "ashby:72aea491-406c-4a6f-abb4-66115f45d37c",
+        "ashby:3942de32-739a-409a-841c-828af04bad83",
         "ashby:c3d39767-3824-4d41-83dd-7b132834b122",
         "ashby:5dce6671-9aa8-4c49-b263-b175a2a927f8",
         "ashby:9711a982-851c-4f55-a5ae-080ea4bad520",
+        "ashby:cf29a76e-71a4-4e29-8a45-8cefdd301aca",
         "ashby:2c646ef9-6f93-4124-9d51-964d2c5aa783",
         "ashby:7ad77c42-4fc5-4e03-86d3-aaa99d6f2fe9",
+        "ashby:533659ff-2272-4683-87c9-b07d00feea4c",
+        "ashby:7b70517d-8c96-4c4a-8e4a-37859cf68747",
         "ashby:ed9255f0-981f-49e9-8b01-9fd203141929",
         "ashby:c1241d53-0948-4f27-82fb-18192830dbf1",
         "ashby:aaf9aa75-e782-49a0-8820-79b96f343bb0",
-        "ashby:d1abed60-d3d1-4c8d-a58b-3a96139fbf4e"
+        "ashby:30e3b7b2-1fe4-49a4-a82f-9c34626f0441",
+        "ashby:92ecf75c-86ec-442d-bdfa-078789ce9579",
+        "ashby:d1abed60-d3d1-4c8d-a58b-3a96139fbf4e",
+        "ashby:86133dea-e4e2-4030-b8e6-8f944be27b0e",
+        "ashby:de0b0df5-7390-4781-9548-d8710d736909",
+        "ashby:30b0a80b-8421-4847-a670-5bd09920c4ce",
+        "ashby:d4fed8a0-cf2a-49b1-b216-80d710827e16",
+        "ashby:9878a31f-423b-43cc-b169-8bb7e55b8fc7",
+        "ashby:8ff67de2-7ee8-4d9d-bef4-dadabeeaf312",
+        "ashby:c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
+        "ashby:6c1d86d0-e89d-475b-a324-6c57fa30b345"
       ],
       "openItems": [
         {
@@ -2053,11 +2080,6 @@
           "url": "https://jobs.ashbyhq.com/openai/fb5862cc-244c-410b-b287-47df89ad1e43"
         },
         {
-          "id": "ashby:f956b77c-3cc5-4fdd-9463-2a6e5047e57c",
-          "title": "Security Engineer, Detection and Response",
-          "url": "https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c"
-        },
-        {
           "id": "ashby:460b4295-3803-4dda-983d-3b0fea0b0fc4",
           "title": "Software Engineer, Habitat (Online Data)",
           "url": "https://jobs.ashbyhq.com/openai/460b4295-3803-4dda-983d-3b0fea0b0fc4"
@@ -2071,9 +2093,128 @@
           "id": "ashby:60573bf4-13ad-4933-aba7-729f428e9f69",
           "title": "Control Systems Software Engineer, Robotics",
           "url": "https://jobs.ashbyhq.com/openai/60573bf4-13ad-4933-aba7-729f428e9f69"
+        },
+        {
+          "id": "ashby:f386b209-1259-4b79-bf5a-aa97fc7ce77b",
+          "title": "Software Engineer, Accelerators",
+          "url": "https://jobs.ashbyhq.com/openai/f386b209-1259-4b79-bf5a-aa97fc7ce77b"
         }
       ],
       "recentItems": [
+        {
+          "id": "ashby:bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
+          "title": "Deployment Lead, Forward Deployed Engineering (FDE) - Platform",
+          "url": "https://jobs.ashbyhq.com/openai/bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:d4a191f9-58f6-4c89-95f0-0c23ea59a8e4",
+          "title": "Intelligence Systems Analyst",
+          "url": "https://jobs.ashbyhq.com/openai/d4a191f9-58f6-4c89-95f0-0c23ea59a8e4",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:a57bb806-0d67-48ba-96cc-695667eae41a",
+          "title": "Marketing Technology & Operations Lead, APAC",
+          "url": "https://jobs.ashbyhq.com/openai/a57bb806-0d67-48ba-96cc-695667eae41a",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:dc79ee90-98f5-41f1-b408-5861cb433612",
+          "title": "Consumer Product Communications Lead",
+          "url": "https://jobs.ashbyhq.com/openai/dc79ee90-98f5-41f1-b408-5861cb433612",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:72aea491-406c-4a6f-abb4-66115f45d37c",
+          "title": "Field Service Engineer",
+          "url": "https://jobs.ashbyhq.com/openai/72aea491-406c-4a6f-abb4-66115f45d37c",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:3942de32-739a-409a-841c-828af04bad83",
+          "title": "Content Designer",
+          "url": "https://jobs.ashbyhq.com/openai/3942de32-739a-409a-841c-828af04bad83",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:cf29a76e-71a4-4e29-8a45-8cefdd301aca",
+          "title": "Core Operations Lead, Community & Culture",
+          "url": "https://jobs.ashbyhq.com/openai/cf29a76e-71a4-4e29-8a45-8cefdd301aca",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:533659ff-2272-4683-87c9-b07d00feea4c",
+          "title": "Technical Program Manager, Lab Infrastructure (Silicon & Systems)",
+          "url": "https://jobs.ashbyhq.com/openai/533659ff-2272-4683-87c9-b07d00feea4c",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:7b70517d-8c96-4c4a-8e4a-37859cf68747",
+          "title": "Strategy and Operations Lead, Creative Partnerships",
+          "url": "https://jobs.ashbyhq.com/openai/7b70517d-8c96-4c4a-8e4a-37859cf68747",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:30e3b7b2-1fe4-49a4-a82f-9c34626f0441",
+          "title": "Tax Director, Tax Counsel",
+          "url": "https://jobs.ashbyhq.com/openai/30e3b7b2-1fe4-49a4-a82f-9c34626f0441",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:92ecf75c-86ec-442d-bdfa-078789ce9579",
+          "title": "Senior Counsel, Competition",
+          "url": "https://jobs.ashbyhq.com/openai/92ecf75c-86ec-442d-bdfa-078789ce9579",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:86133dea-e4e2-4030-b8e6-8f944be27b0e",
+          "title": "Mechanical Lead",
+          "url": "https://jobs.ashbyhq.com/openai/86133dea-e4e2-4030-b8e6-8f944be27b0e",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:de0b0df5-7390-4781-9548-d8710d736909",
+          "title": "Strategic Finance, Workloads",
+          "url": "https://jobs.ashbyhq.com/openai/de0b0df5-7390-4781-9548-d8710d736909",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:30b0a80b-8421-4847-a670-5bd09920c4ce",
+          "title": "Motion Designer",
+          "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:d4fed8a0-cf2a-49b1-b216-80d710827e16",
+          "title": "Support Vendor Manager, APAC",
+          "url": "https://jobs.ashbyhq.com/openai/d4fed8a0-cf2a-49b1-b216-80d710827e16",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:9878a31f-423b-43cc-b169-8bb7e55b8fc7",
+          "title": "Land and Data Center Development",
+          "url": "https://jobs.ashbyhq.com/openai/9878a31f-423b-43cc-b169-8bb7e55b8fc7",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:8ff67de2-7ee8-4d9d-bef4-dadabeeaf312",
+          "title": "Fire Protection Engineer",
+          "url": "https://jobs.ashbyhq.com/openai/8ff67de2-7ee8-4d9d-bef4-dadabeeaf312",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
+          "title": "HSE and Portfolio Performance Lead",
+          "url": "https://jobs.ashbyhq.com/openai/c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:6c1d86d0-e89d-475b-a324-6c57fa30b345",
+          "title": "Network Infrastructure Lead",
+          "url": "https://jobs.ashbyhq.com/openai/6c1d86d0-e89d-475b-a324-6c57fa30b345",
+          "firstSeen": "2026-10-28"
+        },
         {
           "id": "ashby:916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
           "title": "Value Engineer - San Francisco",
@@ -2507,12 +2648,6 @@
           "firstSeen": "2026-10-20"
         },
         {
-          "id": "ashby:bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
-          "title": "Deployment Lead, Forward Deployed Engineering (FDE) - Platform",
-          "url": "https://jobs.ashbyhq.com/openai/bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
-          "firstSeen": "2026-10-20"
-        },
-        {
           "id": "ashby:30a1d941-f12c-4589-a7a0-dad116b9aa33",
           "title": "Product Reliability Engineer",
           "url": "https://jobs.ashbyhq.com/openai/30a1d941-f12c-4589-a7a0-dad116b9aa33",
@@ -2937,116 +3072,122 @@
           "title": "Researcher, Safety - Frontier Assurance",
           "url": "https://jobs.ashbyhq.com/openai/5c5eb021-636c-4bea-965a-66fd1f6ffe8c",
           "firstSeen": "2026-10-14"
-        },
-        {
-          "id": "ashby:be7abbba-bca2-4baa-b7d8-98d5ab514520",
-          "title": "Client Partner, Ads Solutions - Financial Services",
-          "url": "https://jobs.ashbyhq.com/openai/be7abbba-bca2-4baa-b7d8-98d5ab514520",
-          "firstSeen": "2026-10-13"
         }
       ],
       "newItems": [
         {
-          "id": "ashby:916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
-          "title": "Value Engineer - San Francisco",
-          "url": "https://jobs.ashbyhq.com/openai/916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:d4a191f9-58f6-4c89-95f0-0c23ea59a8e4",
+          "title": "Intelligence Systems Analyst",
+          "url": "https://jobs.ashbyhq.com/openai/d4a191f9-58f6-4c89-95f0-0c23ea59a8e4",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:d134caf2-907c-4c85-be2d-fad477d2b425",
-          "title": "Value Engineer - NYC",
-          "url": "https://jobs.ashbyhq.com/openai/d134caf2-907c-4c85-be2d-fad477d2b425",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
+          "title": "Deployment Lead, Forward Deployed Engineering (FDE) - Platform",
+          "url": "https://jobs.ashbyhq.com/openai/bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:e5c39e03-6121-47be-8bd3-f6128557b38f",
-          "title": "GTM Strategy & Operations, Policy",
-          "url": "https://jobs.ashbyhq.com/openai/e5c39e03-6121-47be-8bd3-f6128557b38f",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:a57bb806-0d67-48ba-96cc-695667eae41a",
+          "title": "Marketing Technology & Operations Lead, APAC",
+          "url": "https://jobs.ashbyhq.com/openai/a57bb806-0d67-48ba-96cc-695667eae41a",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:83ac3381-99c0-46a0-897c-abcd8699b466",
-          "title": "VC Partnerships Manager",
-          "url": "https://jobs.ashbyhq.com/openai/83ac3381-99c0-46a0-897c-abcd8699b466",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:dc79ee90-98f5-41f1-b408-5861cb433612",
+          "title": "Consumer Product Communications Lead",
+          "url": "https://jobs.ashbyhq.com/openai/dc79ee90-98f5-41f1-b408-5861cb433612",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:780b0dfa-1068-4e94-8dc9-84b7fd1c5264",
-          "title": "Senior Product Policy Lead, Regulation",
-          "url": "https://jobs.ashbyhq.com/openai/780b0dfa-1068-4e94-8dc9-84b7fd1c5264",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:72aea491-406c-4a6f-abb4-66115f45d37c",
+          "title": "Field Service Engineer",
+          "url": "https://jobs.ashbyhq.com/openai/72aea491-406c-4a6f-abb4-66115f45d37c",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:e0f50751-123c-4200-adf2-aada78c3a6bb",
-          "title": "UK Head of Strategic Engagement & Partnerships",
-          "url": "https://jobs.ashbyhq.com/openai/e0f50751-123c-4200-adf2-aada78c3a6bb",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:3942de32-739a-409a-841c-828af04bad83",
+          "title": "Content Designer",
+          "url": "https://jobs.ashbyhq.com/openai/3942de32-739a-409a-841c-828af04bad83",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:7472e486-0aa6-4f9d-86da-2105a42b2dce",
-          "title": "Forward Deployed Engineer (FDE) - AI Infra - SF",
-          "url": "https://jobs.ashbyhq.com/openai/7472e486-0aa6-4f9d-86da-2105a42b2dce",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:cf29a76e-71a4-4e29-8a45-8cefdd301aca",
+          "title": "Core Operations Lead, Community & Culture",
+          "url": "https://jobs.ashbyhq.com/openai/cf29a76e-71a4-4e29-8a45-8cefdd301aca",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:6fd09d8c-f1d9-4c60-bb47-f63d8a96c10b",
-          "title": "Content Marketing Manager, Events",
-          "url": "https://jobs.ashbyhq.com/openai/6fd09d8c-f1d9-4c60-bb47-f63d8a96c10b",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:533659ff-2272-4683-87c9-b07d00feea4c",
+          "title": "Technical Program Manager, Lab Infrastructure (Silicon & Systems)",
+          "url": "https://jobs.ashbyhq.com/openai/533659ff-2272-4683-87c9-b07d00feea4c",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:c3d39767-3824-4d41-83dd-7b132834b122",
-          "title": "Data Center Electrical R&D Engineer",
-          "url": "https://jobs.ashbyhq.com/openai/c3d39767-3824-4d41-83dd-7b132834b122",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:7b70517d-8c96-4c4a-8e4a-37859cf68747",
+          "title": "Strategy and Operations Lead, Creative Partnerships",
+          "url": "https://jobs.ashbyhq.com/openai/7b70517d-8c96-4c4a-8e4a-37859cf68747",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:5dce6671-9aa8-4c49-b263-b175a2a927f8",
-          "title": "Data Scientist, Personalization & Machine Learning",
-          "url": "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:30e3b7b2-1fe4-49a4-a82f-9c34626f0441",
+          "title": "Tax Director, Tax Counsel",
+          "url": "https://jobs.ashbyhq.com/openai/30e3b7b2-1fe4-49a4-a82f-9c34626f0441",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:9711a982-851c-4f55-a5ae-080ea4bad520",
-          "title": "Events Designer, Business Marketing",
-          "url": "https://jobs.ashbyhq.com/openai/9711a982-851c-4f55-a5ae-080ea4bad520",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:92ecf75c-86ec-442d-bdfa-078789ce9579",
+          "title": "Senior Counsel, Competition",
+          "url": "https://jobs.ashbyhq.com/openai/92ecf75c-86ec-442d-bdfa-078789ce9579",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:2c646ef9-6f93-4124-9d51-964d2c5aa783",
-          "title": "Software Engineer, Physical Engineering",
-          "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:86133dea-e4e2-4030-b8e6-8f944be27b0e",
+          "title": "Mechanical Lead",
+          "url": "https://jobs.ashbyhq.com/openai/86133dea-e4e2-4030-b8e6-8f944be27b0e",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:7ad77c42-4fc5-4e03-86d3-aaa99d6f2fe9",
-          "title": "Project Manager, Design and Construction - R&D/Lab Buildouts",
-          "url": "https://jobs.ashbyhq.com/openai/7ad77c42-4fc5-4e03-86d3-aaa99d6f2fe9",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:de0b0df5-7390-4781-9548-d8710d736909",
+          "title": "Strategic Finance, Workloads",
+          "url": "https://jobs.ashbyhq.com/openai/de0b0df5-7390-4781-9548-d8710d736909",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:ed9255f0-981f-49e9-8b01-9fd203141929",
-          "title": "Product Cost Management Lead - AI Infrastructure",
-          "url": "https://jobs.ashbyhq.com/openai/ed9255f0-981f-49e9-8b01-9fd203141929",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:30b0a80b-8421-4847-a670-5bd09920c4ce",
+          "title": "Motion Designer",
+          "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:c1241d53-0948-4f27-82fb-18192830dbf1",
-          "title": "Counsel, Employment",
-          "url": "https://jobs.ashbyhq.com/openai/c1241d53-0948-4f27-82fb-18192830dbf1",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:d4fed8a0-cf2a-49b1-b216-80d710827e16",
+          "title": "Support Vendor Manager, APAC",
+          "url": "https://jobs.ashbyhq.com/openai/d4fed8a0-cf2a-49b1-b216-80d710827e16",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:aaf9aa75-e782-49a0-8820-79b96f343bb0",
-          "title": "Program Manager, Critical Harm Operations",
-          "url": "https://jobs.ashbyhq.com/openai/aaf9aa75-e782-49a0-8820-79b96f343bb0",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:9878a31f-423b-43cc-b169-8bb7e55b8fc7",
+          "title": "Land and Data Center Development",
+          "url": "https://jobs.ashbyhq.com/openai/9878a31f-423b-43cc-b169-8bb7e55b8fc7",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "ashby:d1abed60-d3d1-4c8d-a58b-3a96139fbf4e",
-          "title": "Site Civil, Structural & Architectural Lead (CSLA)",
-          "url": "https://jobs.ashbyhq.com/openai/d1abed60-d3d1-4c8d-a58b-3a96139fbf4e",
-          "firstSeen": "2026-10-27"
+          "id": "ashby:8ff67de2-7ee8-4d9d-bef4-dadabeeaf312",
+          "title": "Fire Protection Engineer",
+          "url": "https://jobs.ashbyhq.com/openai/8ff67de2-7ee8-4d9d-bef4-dadabeeaf312",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
+          "title": "HSE and Portfolio Performance Lead",
+          "url": "https://jobs.ashbyhq.com/openai/c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "ashby:6c1d86d0-e89d-475b-a324-6c57fa30b345",
+          "title": "Network Infrastructure Lead",
+          "url": "https://jobs.ashbyhq.com/openai/6c1d86d0-e89d-475b-a324-6c57fa30b345",
+          "firstSeen": "2026-10-28"
         }
       ]
     },
@@ -3056,7 +3197,7 @@
       "url": "https://stripe.com/jobs/search?office_locations=Europe--Amsterdam&office_locations=Europe--Berlin&office_locations=Europe--Bucharest&office_locations=Europe--Dublin&office_locations=Europe--London&office_locations=Europe--Madrid&office_locations=Europe--Paris&office_locations=Europe--Stockholm&office_locations=Europe--Warsaw&tags=University",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:34+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:12+00:00",
       "totalOpen": 16,
       "knownIds": [
         "h:3b552a66d502de1f",
@@ -3186,8 +3327,8 @@
       "url": "https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:40+00:00",
-      "totalOpen": 17,
+      "lastCheckedAt": "2026-10-28T11:47:18+00:00",
+      "totalOpen": 18,
       "knownIds": [
         "h:862ec25cd867dfba",
         "h:5daccf5ea9910e71",
@@ -3201,6 +3342,7 @@
         "h:9bc59825b0c8de6f",
         "h:ed6809f33eab9124",
         "h:841b88c13ec086ca",
+        "h:dfa40d5dcb2e611f",
         "h:763bc9ae261a22e9",
         "h:9931cad3a25588b1",
         "h:7a96546d4900defd",
@@ -3269,6 +3411,11 @@
           "url": "https://www.databricks.com/company/careers/university-recruiting---product/product-manager-new-grad-2027---berlin-8145800002"
         },
         {
+          "id": "h:dfa40d5dcb2e611f",
+          "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start) Bellevue, Washington; Mountain View, California",
+          "url": "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-distributed-data-systems-2027-start-6865704002"
+        },
+        {
           "id": "h:763bc9ae261a22e9",
           "title": "Software Engineering Intern (2027 Start) - Aarhus Aarhus, Denmark",
           "url": "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineering-intern-2027-start---aarhus-8133710002"
@@ -3296,13 +3443,26 @@
       ],
       "recentItems": [
         {
+          "id": "h:dfa40d5dcb2e611f",
+          "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start) Bellevue, Washington; Mountain View, California",
+          "url": "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-distributed-data-systems-2027-start-6865704002",
+          "firstSeen": "2026-10-28"
+        },
+        {
           "id": "h:862ec25cd867dfba",
           "title": "Data Science Intern (2027 Start) Mountain View, California; San Francisco, California",
           "url": "https://www.databricks.com/company/careers/university-recruiting---engineering/data-science-intern-2027-start-6866538002",
           "firstSeen": "2026-10-23"
         }
       ],
-      "newItems": []
+      "newItems": [
+        {
+          "id": "h:dfa40d5dcb2e611f",
+          "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start) Bellevue, Washington; Mountain View, California",
+          "url": "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-distributed-data-systems-2027-start-6865704002",
+          "firstSeen": "2026-10-28"
+        }
+      ]
     },
     {
       "id": "palantir",
@@ -3310,8 +3470,8 @@
       "url": "https://www.palantir.com/careers/open-positions/?location=Europe+%26+Middle+East",
       "source": "lever:palantir",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:46+00:00",
-      "totalOpen": 307,
+      "lastCheckedAt": "2026-10-28T11:47:23+00:00",
+      "totalOpen": 306,
       "knownIds": [
         "lever:6ed76ce8-4156-4b60-b120-403538bd66cd",
         "lever:ac978161-6f46-4f6b-ad9e-a258e642751c",
@@ -3346,6 +3506,7 @@
         "lever:2e193bdf-e668-49c1-ba32-66cc1aa131a4",
         "lever:4e99e055-96c7-497e-8099-3318e1ce0626",
         "lever:79c3f906-622b-4261-8fc6-8af0028caa27",
+        "lever:9ace479e-a9e4-4610-a553-122d3831863a",
         "lever:b81be534-e1d6-4946-8121-1e1360d4d030",
         "lever:bc087dba-1e41-49e0-83bd-36832122363d",
         "lever:e0ab8226-b928-4e3a-bf87-08fe7b1ea595",
@@ -3495,8 +3656,6 @@
         "lever:25378ba0-db78-4c70-8174-a05ce514fc65",
         "lever:32295454-6629-4f47-b11e-bbd7f5d41acb",
         "lever:5f7a90e7-f927-47bf-90ed-52d17c58ae02",
-        "lever:250f623c-9afb-4c91-b0c0-25d4e83005ec",
-        "lever:57699414-b373-4a5e-9be8-6fb7de41ea72",
         "lever:c80690ca-704b-46c2-9d95-e4f6e98ce4e2",
         "lever:14dbdeb9-1537-4ccf-83ac-608287efa00f",
         "lever:678d05bc-ea79-45ad-bdce-7a06a7cd9a54",
@@ -3788,6 +3947,11 @@
           "url": "https://jobs.lever.co/palantir/79c3f906-622b-4261-8fc6-8af0028caa27"
         },
         {
+          "id": "lever:9ace479e-a9e4-4610-a553-122d3831863a",
+          "title": "Deployment Strategist",
+          "url": "https://jobs.lever.co/palantir/9ace479e-a9e4-4610-a553-122d3831863a"
+        },
+        {
           "id": "lever:b81be534-e1d6-4946-8121-1e1360d4d030",
           "title": "Deployment Strategist",
           "url": "https://jobs.lever.co/palantir/b81be534-e1d6-4946-8121-1e1360d4d030"
@@ -3916,14 +4080,15 @@
           "id": "lever:ec006383-f48c-452c-a124-88657b5e3277",
           "title": "Deployment Strategist, Build to Apply - US Government",
           "url": "https://jobs.lever.co/palantir/ec006383-f48c-452c-a124-88657b5e3277"
-        },
-        {
-          "id": "lever:774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0",
-          "title": "Deployment Strategist, Internship",
-          "url": "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0"
         }
       ],
       "recentItems": [
+        {
+          "id": "lever:9ace479e-a9e4-4610-a553-122d3831863a",
+          "title": "Deployment Strategist",
+          "url": "https://jobs.lever.co/palantir/9ace479e-a9e4-4610-a553-122d3831863a",
+          "firstSeen": "2026-10-28"
+        },
         {
           "id": "lever:6940fc9a-b79c-4935-a90f-1c6a02e54fb1",
           "title": "Deployment Strategist - Germany Forward Deployed",
@@ -4049,21 +4214,16 @@
           "title": "Forward Deployed Software Engineer - US Government",
           "url": "https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
           "firstSeen": "2026-10-14"
-        },
-        {
-          "id": "lever:44d3394e-003e-4609-b864-ff141e233635",
-          "title": "Deployment Strategist - US Government",
-          "url": "https://jobs.lever.co/palantir/44d3394e-003e-4609-b864-ff141e233635",
-          "firstSeen": "2026-10-13"
-        },
-        {
-          "id": "lever:5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-          "title": "Forward Deployed Software Engineer - US Government",
-          "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-          "firstSeen": "2026-10-13"
         }
       ],
-      "newItems": []
+      "newItems": [
+        {
+          "id": "lever:9ace479e-a9e4-4610-a553-122d3831863a",
+          "title": "Deployment Strategist",
+          "url": "https://jobs.lever.co/palantir/9ace479e-a9e4-4610-a553-122d3831863a",
+          "firstSeen": "2026-10-28"
+        }
+      ]
     },
     {
       "id": "datadog",
@@ -4071,7 +4231,7 @@
       "url": "https://careers.datadoghq.com/all-jobs/?time_type%5B0%5D=Early%20Career",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:49+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:24+00:00",
       "totalOpen": 10,
       "knownIds": [
         "h:aed5b8a84e9cdc2b",
@@ -4171,9 +4331,11 @@
       "url": "https://www.lifeattinder.com/positions",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:54+00:00",
-      "totalOpen": 19,
+      "lastCheckedAt": "2026-10-28T11:47:29+00:00",
+      "totalOpen": 21,
       "knownIds": [
+        "h:c9c97e30d48566fb",
+        "h:b69985315cb33dcc",
         "h:336830939299b8d0",
         "h:fe01225adf5aad27",
         "h:bb69c2af3b638d8b",
@@ -4195,6 +4357,16 @@
         "h:cf28cb451bde6ced"
       ],
       "openItems": [
+        {
+          "id": "h:c9c97e30d48566fb",
+          "title": "Staff Software Engineer, Backend",
+          "url": "https://jobs.lever.co/matchgroup/8d862122-6128-48cf-84e0-ff57e420f15d/apply"
+        },
+        {
+          "id": "h:b69985315cb33dcc",
+          "title": "Staff Software Engineer, Backend",
+          "url": "https://jobs.lever.co/matchgroup/8d862122-6128-48cf-84e0-ff57e420f15d/apply"
+        },
         {
           "id": "h:336830939299b8d0",
           "title": "Sr. Technical Program Manager,  Recs, Revenue, and Engagement",
@@ -4293,6 +4465,18 @@
       ],
       "recentItems": [
         {
+          "id": "h:c9c97e30d48566fb",
+          "title": "Staff Software Engineer, Backend",
+          "url": "https://jobs.lever.co/matchgroup/8d862122-6128-48cf-84e0-ff57e420f15d/apply",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:b69985315cb33dcc",
+          "title": "Staff Software Engineer, Backend",
+          "url": "https://jobs.lever.co/matchgroup/8d862122-6128-48cf-84e0-ff57e420f15d/apply",
+          "firstSeen": "2026-10-28"
+        },
+        {
           "id": "h:b1a3fbde9de129fd",
           "title": "Business Development Operations Specialist",
           "url": "https://jobs.lever.co/matchgroup/230733db-0bff-4381-bb96-ae7320b54411/apply",
@@ -4327,21 +4511,22 @@
           "title": "Staff Product Manager, Trust & Safety",
           "url": "https://jobs.lever.co/matchgroup/28241ecb-8e24-468e-b716-b15f357b21b3/apply",
           "firstSeen": "2026-10-16"
-        },
-        {
-          "id": "h:400fed443dbe28a5",
-          "title": "Influencer Coordinator",
-          "url": "https://jobs.lever.co/matchgroup/e0144b51-0819-4632-96d9-3be413a0a9ec/apply",
-          "firstSeen": "2026-10-13"
-        },
-        {
-          "id": "h:c25e93b87ffca0fe",
-          "title": "Associate Social Media Manager",
-          "url": "https://jobs.lever.co/matchgroup/c52f084d-82ff-4ae9-9905-d744e4bb8ffa/apply",
-          "firstSeen": "2026-10-13"
         }
       ],
-      "newItems": []
+      "newItems": [
+        {
+          "id": "h:c9c97e30d48566fb",
+          "title": "Staff Software Engineer, Backend",
+          "url": "https://jobs.lever.co/matchgroup/8d862122-6128-48cf-84e0-ff57e420f15d/apply",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:b69985315cb33dcc",
+          "title": "Staff Software Engineer, Backend",
+          "url": "https://jobs.lever.co/matchgroup/8d862122-6128-48cf-84e0-ff57e420f15d/apply",
+          "firstSeen": "2026-10-28"
+        }
+      ]
     },
     {
       "id": "nvidia",
@@ -4349,15 +4534,20 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationHierarchy1=2fcb99c455831013ea52e6c3067832b4&locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba&locationHierarchy1=2fcb99c455831013ea52d8783aa0329c&locationHierarchy1=e5375aecc8d9103bebfb513cb69200d4&locationHierarchy1=2fcb99c455831013ea52d0e0e4583290&locationHierarchy1=7bcfe8379f6b01ad4d347d1ca87689a6&locationHierarchy1=2fcb99c455831013ea52a6cbc15f3248&locationHierarchy1=2fcb99c455831013ea52aa2df70e324e&locationHierarchy1=2fcb99c455831013ea52adc65f5d3254&locationHierarchy1=d21cf68980ad0121a67d319db107a200&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78",
       "source": "workday:nvidia",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:13:59+00:00",
-      "totalOpen": 38,
+      "lastCheckedAt": "2026-10-28T11:47:34+00:00",
+      "totalOpen": 40,
       "knownIds": [
+        "workday:/job/Switzerland-Remote/Senior-Production-Engineer----DGX-Cloud_JR2027105",
+        "workday:/job/Germany-Remote/Senior-Software-Engineer---Parking-for-Autonomous-Vehicles_JR2028385-1",
+        "workday:/job/Switzerland-Zurich/Principal-Engineer---Data-Retrieval_JR2028890",
+        "workday:/job/Germany-Munich/Technical-Lead---ADAS-Test-Bench_JR2028407",
+        "workday:/job/Sweden-Gothenburg/Senior-System-Software-Engineer_JR2028128",
+        "workday:/job/Germany-Remote/Senior-Software-Engineer---Active-Safety-for-Autonomous-Vehicles_JR2028382",
         "workday:/job/Germany-Munich/Structured-Data-Foundation-Model-Engineer--Modern-Data-Stack_JR2028306-1",
         "workday:/job/Denmark-Roskilde/Interconnect-Engineer_JR2020852",
         "workday:/job/Germany-Munich/Senior-Software-Engineer--Real-Time-Data-Platform_JR2027710",
         "workday:/job/Finland-Helsinki/Senior-Manager--Graphics-Systems-Software-and-Compute-Graphics-Chips_JR2028247",
         "workday:/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949",
-        "workday:/job/Spain-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
         "workday:/job/Netherlands-Remote/Senior-Deep-Learning-Software-Engineer--Inference_JR2023106-1",
         "workday:/job/Switzerland-Zurich/Senior-GPU-Networking-Architect_JR2015083",
         "workday:/job/Switzerland-Zurich/Senior-Libraries-Engineer---AI-and-HPC_JR2006812",
@@ -4386,12 +4576,39 @@
         "workday:/job/Poland-Warsaw/Senior-QA-Software-Engineer--Networking_JR2024418",
         "workday:/job/Switzerland-Remote/AI-Developer-Technology-Engineer_JR2011946-1",
         "workday:/job/Switzerland-Zurich/Senior-Software-Developer_JR2008695",
-        "workday:/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2022878",
-        "workday:/job/Switzerland-Remote/Senior-Performance-Engineer_JR2022529",
-        "workday:/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906",
-        "workday:/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723"
+        "workday:/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2022878"
       ],
       "openItems": [
+        {
+          "id": "workday:/job/Switzerland-Remote/Senior-Production-Engineer----DGX-Cloud_JR2027105",
+          "title": "Senior Production Engineer  - DGX Cloud",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-Production-Engineer----DGX-Cloud_JR2027105"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer---Parking-for-Autonomous-Vehicles_JR2028385-1",
+          "title": "Senior Software Engineer — Parking for Autonomous Vehicles",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer---Parking-for-Autonomous-Vehicles_JR2028385-1"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Principal-Engineer---Data-Retrieval_JR2028890",
+          "title": "Principal Engineer - Data Retrieval",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Principal-Engineer---Data-Retrieval_JR2028890"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Technical-Lead---ADAS-Test-Bench_JR2028407",
+          "title": "Technical Lead - ADAS Test Bench",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Technical-Lead---ADAS-Test-Bench_JR2028407"
+        },
+        {
+          "id": "workday:/job/Sweden-Gothenburg/Senior-System-Software-Engineer_JR2028128",
+          "title": "Senior System Software Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Sweden-Gothenburg/Senior-System-Software-Engineer_JR2028128"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer---Active-Safety-for-Autonomous-Vehicles_JR2028382",
+          "title": "Senior Software Engineer — Active Safety for Autonomous Vehicles",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer---Active-Safety-for-Autonomous-Vehicles_JR2028382"
+        },
         {
           "id": "workday:/job/Germany-Munich/Structured-Data-Foundation-Model-Engineer--Modern-Data-Stack_JR2028306-1",
           "title": "Structured Data Foundation Model Engineer, Modern Data Stack",
@@ -4416,11 +4633,6 @@
           "id": "workday:/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949",
           "title": "Principal AI Developer Technology Engineer",
           "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Principal-AI-Developer-Technology-Engineer_JR2011949"
-        },
-        {
-          "id": "workday:/job/Spain-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1",
-          "title": "Senior Systems Software Engineer, Kubernetes Scale - DGX Cloud",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Spain-Remote/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020234-1"
         },
         {
           "id": "workday:/job/Netherlands-Remote/Senior-Deep-Learning-Software-Engineer--Inference_JR2023106-1",
@@ -4566,24 +4778,45 @@
           "id": "workday:/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2022878",
           "title": "Senior HPC and AI Network Software Architect",
           "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-HPC-and-AI-Network-Software-Architect_JR2022878"
-        },
-        {
-          "id": "workday:/job/Switzerland-Remote/Senior-Performance-Engineer_JR2022529",
-          "title": "Senior Performance Engineer",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-Performance-Engineer_JR2022529"
-        },
-        {
-          "id": "workday:/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906",
-          "title": "Senior Software Architect, GPU Networking Research",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906"
-        },
-        {
-          "id": "workday:/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723",
-          "title": "Hardware Design Engineer – Interconnect Design",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Denmark-Roskilde/Hardware-Design-Engineer---Interconnect-Design_JR2018723"
         }
       ],
       "recentItems": [
+        {
+          "id": "workday:/job/Switzerland-Remote/Senior-Production-Engineer----DGX-Cloud_JR2027105",
+          "title": "Senior Production Engineer  - DGX Cloud",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-Production-Engineer----DGX-Cloud_JR2027105",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer---Parking-for-Autonomous-Vehicles_JR2028385-1",
+          "title": "Senior Software Engineer — Parking for Autonomous Vehicles",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer---Parking-for-Autonomous-Vehicles_JR2028385-1",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Principal-Engineer---Data-Retrieval_JR2028890",
+          "title": "Principal Engineer - Data Retrieval",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Principal-Engineer---Data-Retrieval_JR2028890",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Technical-Lead---ADAS-Test-Bench_JR2028407",
+          "title": "Technical Lead - ADAS Test Bench",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Technical-Lead---ADAS-Test-Bench_JR2028407",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Sweden-Gothenburg/Senior-System-Software-Engineer_JR2028128",
+          "title": "Senior System Software Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Sweden-Gothenburg/Senior-System-Software-Engineer_JR2028128",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer---Active-Safety-for-Autonomous-Vehicles_JR2028382",
+          "title": "Senior Software Engineer — Active Safety for Autonomous Vehicles",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer---Active-Safety-for-Autonomous-Vehicles_JR2028382",
+          "firstSeen": "2026-10-28"
+        },
         {
           "id": "workday:/job/Germany-Munich/Structured-Data-Foundation-Model-Engineer--Modern-Data-Stack_JR2028306-1",
           "title": "Structured Data Foundation Model Engineer, Modern Data Stack",
@@ -4685,21 +4918,46 @@
           "title": "Senior Software Engineer, Applied AI",
           "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Senior-Software-Engineer--Applied-AI_JR2019145",
           "firstSeen": "2026-10-14"
-        },
-        {
-          "id": "workday:/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341",
-          "title": "Senior Software Engineer, JAX",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-Software-Engineer--JAX_JR2016341",
-          "firstSeen": "2026-10-13"
-        },
-        {
-          "id": "workday:/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771",
-          "title": "Formal Verification Engineer - New College Graduate",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Hungary-Budapest/Formal-Verification-Engineer---New-College-Graduate_JR2008771",
-          "firstSeen": "2026-10-13"
         }
       ],
-      "newItems": []
+      "newItems": [
+        {
+          "id": "workday:/job/Switzerland-Remote/Senior-Production-Engineer----DGX-Cloud_JR2027105",
+          "title": "Senior Production Engineer  - DGX Cloud",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Remote/Senior-Production-Engineer----DGX-Cloud_JR2027105",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer---Parking-for-Autonomous-Vehicles_JR2028385-1",
+          "title": "Senior Software Engineer — Parking for Autonomous Vehicles",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer---Parking-for-Autonomous-Vehicles_JR2028385-1",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Switzerland-Zurich/Principal-Engineer---Data-Retrieval_JR2028890",
+          "title": "Principal Engineer - Data Retrieval",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Switzerland-Zurich/Principal-Engineer---Data-Retrieval_JR2028890",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Germany-Munich/Technical-Lead---ADAS-Test-Bench_JR2028407",
+          "title": "Technical Lead - ADAS Test Bench",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Munich/Technical-Lead---ADAS-Test-Bench_JR2028407",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Sweden-Gothenburg/Senior-System-Software-Engineer_JR2028128",
+          "title": "Senior System Software Engineer",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Sweden-Gothenburg/Senior-System-Software-Engineer_JR2028128",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "workday:/job/Germany-Remote/Senior-Software-Engineer---Active-Safety-for-Autonomous-Vehicles_JR2028382",
+          "title": "Senior Software Engineer — Active Safety for Autonomous Vehicles",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/job/Germany-Remote/Senior-Software-Engineer---Active-Safety-for-Autonomous-Vehicles_JR2028382",
+          "firstSeen": "2026-10-28"
+        }
+      ]
     },
     {
       "id": "xtx-markets",
@@ -4707,7 +4965,7 @@
       "url": "https://www.xtxmarkets.com/careers/",
       "source": "greenhouse:xtxmarketstechnologies",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:01+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:36+00:00",
       "totalOpen": 7,
       "knownIds": [
         "greenhouse:7831489003",
@@ -4764,7 +5022,7 @@
       "url": "https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=london",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:02+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:36+00:00",
       "totalOpen": 21,
       "knownIds": [
         "h:136f4ad1cdc06dc6",
@@ -4905,7 +5163,7 @@
       "url": "https://www.citadel.com/careers/open-opportunities?experience-filter=internships&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
       "source": "generic:dom",
       "status": "blocked",
-      "lastCheckedAt": "2026-10-27T11:14:07+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:41+00:00",
       "totalOpen": 38,
       "knownIds": [
         "h:499bf7a00acc17bc",
@@ -5149,7 +5407,7 @@
       "url": "https://tower-research.com/open-positions/",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:12+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:46+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -5162,7 +5420,7 @@
       "url": "https://www.hudsonrivertrading.com/careers/?locations=london%2C&job-type=full-time-experienced%2Cparent_full-time-experienced%2Cfull-time-new-grad%2Cinternship%2C",
       "source": "greenhouse:hrttalentcommunity",
       "status": "blocked",
-      "lastCheckedAt": "2026-10-27T11:14:17+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:50+00:00",
       "totalOpen": 3,
       "knownIds": [
         "greenhouse:3432773",
@@ -5196,7 +5454,7 @@
       "url": "https://www.optiver.com/join-us/jobs/?search=internship&location=amsterdam&location=london&level=early-careers&level=graduate&level=internship",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:22+00:00",
+      "lastCheckedAt": "2026-10-28T11:47:55+00:00",
       "totalOpen": 12,
       "knownIds": [
         "h:3ed1fbf159fe5a5a",
@@ -5290,7 +5548,7 @@
       "url": "https://www.imc.com/eu/careers/students-graduates",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:27+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:00+00:00",
       "totalOpen": 15,
       "knownIds": [
         "h:37fc0fc330d98901",
@@ -5404,24 +5662,6 @@
           "title": "Deep Learning Research Intern - Summer 2027 - New York Intern Trading Amsterdam, New York, Sydney",
           "url": "https://www.imc.com/eu/careers/jobs/4907430101",
           "firstSeen": "2026-10-14"
-        },
-        {
-          "id": "h:99c5f0394116070d",
-          "title": "Deep Learning Research Intern - Summer 2027 - Chicago, New York Intern Trading Amsterdam, New York, Sydney",
-          "url": "https://www.imc.com/eu/careers/jobs/4907430101",
-          "firstSeen": "2026-10-13"
-        },
-        {
-          "id": "h:fee27d48851c58ab",
-          "title": "Deep Learning Research Intern - Summer 2027 - Amsterdam Intern Trading Amsterdam, New York, Sydney",
-          "url": "https://www.imc.com/eu/careers/jobs/4912874101",
-          "firstSeen": "2026-10-13"
-        },
-        {
-          "id": "h:1a05bd9636ecb367",
-          "title": "Machine Learning Research Intern - Summer 2027 - Sydney Intern Trading Amsterdam, New York, Sydney",
-          "url": "https://www.imc.com/eu/careers/jobs/4956547101",
-          "firstSeen": "2026-10-13"
         }
       ],
       "newItems": []
@@ -5432,8 +5672,8 @@
       "url": "https://www.jumptrading.com/hr/students-new-grads",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:34+00:00",
-      "totalOpen": 95,
+      "lastCheckedAt": "2026-10-28T11:48:06+00:00",
+      "totalOpen": 97,
       "knownIds": [
         "h:7a9b6ef708e47e4c",
         "h:e1ae0e67da437c77",
@@ -5451,31 +5691,31 @@
         "h:00e1f9b09d58bc0b",
         "h:1a61dc5d0056b31c",
         "h:96e7e22679e888a9",
-        "h:44845bd2fa4d2839",
         "h:aef095a74bdf931d",
+        "h:44845bd2fa4d2839",
         "h:af6c259dbc9875e7",
-        "h:13962cdd7ffd38a5",
         "h:c86116a95b191b74",
         "h:d114c97e760b0b3e",
+        "h:13962cdd7ffd38a5",
         "h:7c770b580d652e5a",
         "h:2e3c895cb2134549",
         "h:fd668c00b6068142",
         "h:e1470686b45f2f8c",
         "h:0a41ece1dc9e24a2",
         "h:fd5f4d42f76fbb6b",
-        "h:e0b7351bfb7dd53b",
-        "h:3ebe9a523f3717ce",
         "h:0843afe7fb257af6",
         "h:0966d501a3c3e475",
+        "h:3ebe9a523f3717ce",
+        "h:e0b7351bfb7dd53b",
         "h:4530ea8a079d7e1b",
         "h:6a810a51b1fa312f",
-        "h:9c78a1f7362a3651",
         "h:18be8bc0e6b218ef",
+        "h:9c78a1f7362a3651",
         "h:a37311e873192f7b",
         "h:5a9a4ab2ed7e6d72",
         "h:d9fc569a7f5a225e",
-        "h:307c3d087be61640",
         "h:6615ec0857db395f",
+        "h:307c3d087be61640",
         "h:e7fce23456e38f1d",
         "h:9e5f6607602c7065",
         "h:c9b55631fc89eb7c",
@@ -5485,12 +5725,13 @@
         "h:35215d7a1307cbc5",
         "h:506fa29a96b5ebf5",
         "h:ea9bacaf1bd20590",
+        "h:1e5fd0ecd13d8a85",
         "h:4ed4e30224c7a8ec",
         "h:fdeaee35e0e1d947",
         "h:f97e41d4c40a4940",
+        "h:b0f8645960d2b054",
         "h:36e0c4fb1684fde0",
         "h:9972a0ba6532a10b",
-        "h:b0f8645960d2b054",
         "h:3696132128fef0c6",
         "h:f0e60198a2479657",
         "h:a2381446fb41872b",
@@ -5505,8 +5746,8 @@
         "h:107be96446446a12",
         "h:35e56352ded1f183",
         "h:fd8d235cb300a0cc",
-        "h:15f098fd73d9224f",
         "h:c272eae627076d97",
+        "h:15f098fd73d9224f",
         "h:4306aefb2b30dc89",
         "h:9cc486290355dc15",
         "h:ec9743a2de2845a7",
@@ -5516,6 +5757,7 @@
         "h:c8f311b23d5a4180",
         "h:63363885fd040b0d",
         "h:9858855dedf3bb8b",
+        "h:f9a718bb27eea841",
         "h:4f687b4201a9a556",
         "h:cec5e33cd32a71bb",
         "h:e4e7848e4748a661",
@@ -5613,24 +5855,19 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7977145"
         },
         {
-          "id": "h:44845bd2fa4d2839",
-          "title": "Campus Python Software Engineer (Intern)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8027923"
-        },
-        {
           "id": "h:aef095a74bdf931d",
           "title": "Campus Python Software Engineer (Intern)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8027955"
         },
         {
+          "id": "h:44845bd2fa4d2839",
+          "title": "Campus Python Software Engineer (Intern)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8027923"
+        },
+        {
           "id": "h:af6c259dbc9875e7",
           "title": "Campus Quantitative Researcher (Full-Time)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8050796"
-        },
-        {
-          "id": "h:13962cdd7ffd38a5",
-          "title": "Campus Quantitative Researcher (Intern)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939"
         },
         {
           "id": "h:c86116a95b191b74",
@@ -5641,6 +5878,11 @@
           "id": "h:d114c97e760b0b3e",
           "title": "Campus Quantitative Researcher (Intern)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900"
+        },
+        {
+          "id": "h:13962cdd7ffd38a5",
+          "title": "Campus Quantitative Researcher (Intern)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939"
         },
         {
           "id": "h:7c770b580d652e5a",
@@ -5673,16 +5915,6 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801"
         },
         {
-          "id": "h:e0b7351bfb7dd53b",
-          "title": "Campus Quantitative Trader (Intern)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8027922"
-        },
-        {
-          "id": "h:3ebe9a523f3717ce",
-          "title": "Campus Quantitative Trader (Intern)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8027941"
-        },
-        {
           "id": "h:0843afe7fb257af6",
           "title": "Campus Quantitative Trader (Intern)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371"
@@ -5691,6 +5923,16 @@
           "id": "h:0966d501a3c3e475",
           "title": "Campus Quantitative Trader (Intern)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772"
+        },
+        {
+          "id": "h:3ebe9a523f3717ce",
+          "title": "Campus Quantitative Trader (Intern)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8027941"
+        },
+        {
+          "id": "h:e0b7351bfb7dd53b",
+          "title": "Campus Quantitative Trader (Intern)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8027922"
         },
         {
           "id": "h:4530ea8a079d7e1b",
@@ -5703,14 +5945,14 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7215943"
         },
         {
-          "id": "h:9c78a1f7362a3651",
-          "title": "Campus Systems Engineer (Full-Time)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8008306"
-        },
-        {
           "id": "h:18be8bc0e6b218ef",
           "title": "Campus Systems Engineer (Full-Time)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112"
+        },
+        {
+          "id": "h:9c78a1f7362a3651",
+          "title": "Campus Systems Engineer (Full-Time)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8008306"
         },
         {
           "id": "h:a37311e873192f7b",
@@ -5728,14 +5970,14 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952"
         },
         {
-          "id": "h:307c3d087be61640",
-          "title": "Campus UI Software Engineer (Intern)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
-        },
-        {
           "id": "h:6615ec0857db395f",
           "title": "Campus UI Software Engineer (Intern)",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943"
+        },
+        {
+          "id": "h:307c3d087be61640",
+          "title": "Campus UI Software Engineer (Intern)",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
         },
         {
           "id": "h:e7fce23456e38f1d",
@@ -5783,6 +6025,11 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=6004172"
         },
         {
+          "id": "h:1e5fd0ecd13d8a85",
+          "title": "Finance | Senior Accounting Analyst, Digital Assets",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8306516"
+        },
+        {
           "id": "h:4ed4e30224c7a8ec",
           "title": "Fixed Income Quantitative Researcher | Trading Team",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7457888"
@@ -5798,6 +6045,11 @@
           "url": "https://www.jumptrading.com/hr/job?gh_jid=6786146"
         },
         {
+          "id": "h:b0f8645960d2b054",
+          "title": "HPC Systems Engineer",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=6780244"
+        },
+        {
           "id": "h:36e0c4fb1684fde0",
           "title": "HPC Systems Engineer",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=5752845"
@@ -5806,11 +6058,6 @@
           "id": "h:9972a0ba6532a10b",
           "title": "HPC Systems Engineer",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=7405156"
-        },
-        {
-          "id": "h:b0f8645960d2b054",
-          "title": "HPC Systems Engineer",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=6780244"
         },
         {
           "id": "h:3696132128fef0c6",
@@ -5826,14 +6073,21 @@
           "id": "h:a2381446fb41872b",
           "title": "HR Operations Specialist",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8045867"
-        },
-        {
-          "id": "h:2ebb444867a7a7a4",
-          "title": "Infrastructure Engineer",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7606254"
         }
       ],
       "recentItems": [
+        {
+          "id": "h:1e5fd0ecd13d8a85",
+          "title": "Finance | Senior Accounting Analyst, Digital Assets",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8306516",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:f9a718bb27eea841",
+          "title": "Senior Human Resources Business Partner",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8329789",
+          "firstSeen": "2026-10-28"
+        },
         {
           "id": "h:e1470686b45f2f8c",
           "title": "Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)",
@@ -5857,20 +6111,20 @@
           "title": "HR Coordinator",
           "url": "https://www.jumptrading.com/hr/job?gh_jid=8250053",
           "firstSeen": "2026-10-14"
-        },
-        {
-          "id": "h:069a923d31fbe076",
-          "title": "Procurement & Logistics Analyst",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8258274",
-          "firstSeen": "2026-10-13"
         }
       ],
       "newItems": [
         {
-          "id": "h:e1470686b45f2f8c",
-          "title": "Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8209424",
-          "firstSeen": "2026-10-27"
+          "id": "h:1e5fd0ecd13d8a85",
+          "title": "Finance | Senior Accounting Analyst, Digital Assets",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8306516",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:f9a718bb27eea841",
+          "title": "Senior Human Resources Business Partner",
+          "url": "https://www.jumptrading.com/hr/job?gh_jid=8329789",
+          "firstSeen": "2026-10-28"
         }
       ]
     },
@@ -5880,7 +6134,7 @@
       "url": "https://careers.sig.com/intern-co-op/jobs?tags1=Technology%20-%20Software%20Engineering&page=1",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:39+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:12+00:00",
       "totalOpen": 10,
       "knownIds": [
         "h:baebdd1d135f80a5",
@@ -5891,7 +6145,7 @@
         "h:7c15c1495b42f2c3",
         "h:7f25be9b2be62d0d",
         "h:5d73990007f7cfb9",
-        "h:c50124806ae834f0",
+        "h:a94cf087b9dc5c65",
         "h:e9502b19a110f261"
       ],
       "openItems": [
@@ -5936,8 +6190,8 @@
           "url": "https://careers-sig.icims.com/jobs/11170/login"
         },
         {
-          "id": "h:c50124806ae834f0",
-          "title": "Trading System Engineering Internship: Summer 2027",
+          "id": "h:a94cf087b9dc5c65",
+          "title": "Trading System Engineering Internship (C++): Summer 2027",
           "url": "https://careers-sig.icims.com/jobs/11169/login"
         },
         {
@@ -5948,19 +6202,26 @@
       ],
       "recentItems": [
         {
+          "id": "h:a94cf087b9dc5c65",
+          "title": "Trading System Engineering Internship (C++): Summer 2027",
+          "url": "https://careers-sig.icims.com/jobs/11169/login",
+          "firstSeen": "2026-10-28"
+        },
+        {
           "id": "h:baebdd1d135f80a5",
           "title": "Technology Co-op with Drexel University",
           "url": "https://careers-sig.icims.com/jobs/11654/login",
           "firstSeen": "2026-10-15"
-        },
-        {
-          "id": "h:7dfdb687d815971e",
-          "title": "Trading System Engineering Internship: Summer 2027",
-          "url": "https://careers-sig.icims.com/jobs/10837/login",
-          "firstSeen": "2026-10-13"
         }
       ],
-      "newItems": []
+      "newItems": [
+        {
+          "id": "h:a94cf087b9dc5c65",
+          "title": "Trading System Engineering Internship (C++): Summer 2027",
+          "url": "https://careers-sig.icims.com/jobs/11169/login",
+          "firstSeen": "2026-10-28"
+        }
+      ]
     },
     {
       "id": "maven-securities",
@@ -5968,7 +6229,7 @@
       "url": "https://www.mavensecurities.com/jobs/",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:45+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:17+00:00",
       "totalOpen": 1,
       "knownIds": [
         "h:7a42fa69b02775c3"
@@ -5996,8 +6257,8 @@
       "url": "https://akunacapital.com/careers/?experience=Early%20Careers",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:52+00:00",
-      "totalOpen": 37,
+      "lastCheckedAt": "2026-10-28T11:48:23+00:00",
+      "totalOpen": 34,
       "knownIds": [
         "h:13ce7522fbc8867b",
         "h:02d74e4f4e95c6e5",
@@ -6012,7 +6273,6 @@
         "h:80c219327c579551",
         "h:931363b3ffe170a5",
         "h:c1a91b73679d75af",
-        "h:e3e698b267e6d545",
         "h:a6f72fad2cc7555b",
         "h:33a77fb073def5f0",
         "h:a56bc67965b1d570",
@@ -6028,14 +6288,12 @@
         "h:fb12b5a75b5c0f74",
         "h:7d0204e671d21012",
         "h:e2f0112f8d70efe1",
-        "h:ab175060750c8aa3",
-        "h:61673ffb112a75bd",
         "h:f9d0a599ccbd8c5c",
         "h:8f7863b969efc09e",
         "h:1d11b69ccfc28a37",
         "h:aac484601e0ed95c",
-        "h:a2c7d1d1b680b212",
-        "h:bc0b110d9ed1d73f"
+        "h:bc0b110d9ed1d73f",
+        "h:a2c7d1d1b680b212"
       ],
       "openItems": [
         {
@@ -6102,11 +6360,6 @@
           "id": "h:c1a91b73679d75af",
           "title": "Junior Trader",
           "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141"
-        },
-        {
-          "id": "h:e3e698b267e6d545",
-          "title": "Junior Trader",
-          "url": "https://www.akunacapital.com/careers/job/8275358/?gh_jid=8275358"
         },
         {
           "id": "h:a6f72fad2cc7555b",
@@ -6184,16 +6437,6 @@
           "url": "https://www.akunacapital.com/careers/job/7496411/?gh_jid=7496411"
         },
         {
-          "id": "h:ab175060750c8aa3",
-          "title": "Software Engineer (Entry-Level) - C++",
-          "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"
-        },
-        {
-          "id": "h:61673ffb112a75bd",
-          "title": "Software Engineer (Entry-Level) - Python",
-          "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230"
-        },
-        {
           "id": "h:f9d0a599ccbd8c5c",
           "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
           "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
@@ -6214,14 +6457,14 @@
           "url": "https://www.akunacapital.com/careers/job/8096516/?gh_jid=8096516"
         },
         {
-          "id": "h:a2c7d1d1b680b212",
-          "title": "Systems Engineer",
-          "url": "https://www.akunacapital.com/careers/job/6632731/?gh_jid=6632731"
-        },
-        {
           "id": "h:bc0b110d9ed1d73f",
           "title": "Systems Engineer",
           "url": "https://www.akunacapital.com/careers/job/7955991/?gh_jid=7955991"
+        },
+        {
+          "id": "h:a2c7d1d1b680b212",
+          "title": "Systems Engineer",
+          "url": "https://www.akunacapital.com/careers/job/6632731/?gh_jid=6632731"
         }
       ],
       "recentItems": [
@@ -6230,18 +6473,6 @@
           "title": "Assistant Controller",
           "url": "https://www.akunacapital.com/careers/job/8274789/?gh_jid=8274789",
           "firstSeen": "2026-10-20"
-        },
-        {
-          "id": "h:c1a91b73679d75af",
-          "title": "Junior Trader",
-          "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
-          "firstSeen": "2026-10-13"
-        },
-        {
-          "id": "h:e3e698b267e6d545",
-          "title": "Junior Trader",
-          "url": "https://www.akunacapital.com/careers/job/8275358/?gh_jid=8275358",
-          "firstSeen": "2026-10-13"
         }
       ],
       "newItems": []
@@ -6252,13 +6483,14 @@
       "url": "https://www.gresearch.com/vacancies/?specialism%5B%5D=software-engineering&location%5B%5D=london",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:14:56+00:00",
-      "totalOpen": 31,
+      "lastCheckedAt": "2026-10-28T11:48:28+00:00",
+      "totalOpen": 32,
       "knownIds": [
         "h:8eef264f9cc7c9c2",
         "h:76b81c8c475cc2b1",
         "h:5f55dd45ee67d7d1",
         "h:fe0582cd2fa13c4b",
+        "h:e4c8168e23355f7b",
         "h:68c5cfcc8b303f77",
         "h:7a2becfe979297fe",
         "h:fe4d59f2ee5995bd",
@@ -6266,20 +6498,20 @@
         "h:2154e2f65f8f7447",
         "h:fc8a7af623b4499b",
         "h:8338514f51d48457",
+        "h:24e38d3e22122581",
         "h:962b6dc151c5a1c3",
         "h:c2c3f35e0a6ff18c",
         "h:2513732198769071",
-        "h:24e38d3e22122581",
-        "h:c6c0a7526ff758a5",
         "h:dea8c82db72cc93e",
+        "h:c6c0a7526ff758a5",
         "h:f7fe6a752ce58693",
         "h:64dd00a0c911896e",
+        "h:f589eb6b45f71430",
         "h:0f929faa5e5192bf",
+        "h:4d282a5b11d458f0",
         "h:d961e7d48396b449",
         "h:aba63a547a1c68ac",
         "h:7941a81199689e5f",
-        "h:f589eb6b45f71430",
-        "h:4d282a5b11d458f0",
         "h:e4631fe1aaf0d62a",
         "h:3e206de4becc98a5",
         "h:428f0ee5f7315e16",
@@ -6307,6 +6539,11 @@
           "id": "h:fe0582cd2fa13c4b",
           "title": "Clear",
           "url": "https://www.gresearch.com/vacancies/"
+        },
+        {
+          "id": "h:e4c8168e23355f7b",
+          "title": "Software Engineer – Compute Orchestration London",
+          "url": "https://www.gresearch.com/vacancies/software-engineer-compute-orchestration/"
         },
         {
           "id": "h:68c5cfcc8b303f77",
@@ -6344,6 +6581,11 @@
           "url": "https://www.gresearch.com/vacancies/data-software-engineer/"
         },
         {
+          "id": "h:24e38d3e22122581",
+          "title": "Software Engineer — Observability Instrumentation London",
+          "url": "https://www.gresearch.com/vacancies/software-engineer-observability-instrumentation/"
+        },
+        {
           "id": "h:962b6dc151c5a1c3",
           "title": "NLP Performance Engineer London",
           "url": "https://www.gresearch.com/vacancies/nlp-performance-engineer/"
@@ -6359,19 +6601,14 @@
           "url": "https://www.gresearch.com/vacancies/core-ip-security-software-engineer/"
         },
         {
-          "id": "h:24e38d3e22122581",
-          "title": "Software Engineer — Observability Instrumentation London",
-          "url": "https://www.gresearch.com/vacancies/software-engineer-observability-instrumentation/"
+          "id": "h:dea8c82db72cc93e",
+          "title": "Core AI Engineer London",
+          "url": "https://www.gresearch.com/vacancies/software-engineer-ai/"
         },
         {
           "id": "h:c6c0a7526ff758a5",
           "title": "Engineering Manager – Custom I/O London",
           "url": "https://www.gresearch.com/vacancies/engineering-manager-custom-i-o/"
-        },
-        {
-          "id": "h:dea8c82db72cc93e",
-          "title": "Core AI Engineer London",
-          "url": "https://www.gresearch.com/vacancies/software-engineer-ai/"
         },
         {
           "id": "h:f7fe6a752ce58693",
@@ -6384,9 +6621,19 @@
           "url": "https://www.gresearch.com/vacancies/research-engineer/"
         },
         {
+          "id": "h:f589eb6b45f71430",
+          "title": "Kubernetes Software Engineer London",
+          "url": "https://www.gresearch.com/vacancies/kubernetes-software-engineer/"
+        },
+        {
           "id": "h:0f929faa5e5192bf",
           "title": "Engineering Manager London",
           "url": "https://www.gresearch.com/vacancies/engineering-manager/"
+        },
+        {
+          "id": "h:4d282a5b11d458f0",
+          "title": "Observability Engineer London",
+          "url": "https://www.gresearch.com/vacancies/observability-engineer/"
         },
         {
           "id": "h:d961e7d48396b449",
@@ -6402,16 +6649,6 @@
           "id": "h:7941a81199689e5f",
           "title": "Machine Learning Workflow Engineer London",
           "url": "https://www.gresearch.com/vacancies/machine-learning-workflow-engineer/"
-        },
-        {
-          "id": "h:f589eb6b45f71430",
-          "title": "Kubernetes Software Engineer London",
-          "url": "https://www.gresearch.com/vacancies/kubernetes-software-engineer/"
-        },
-        {
-          "id": "h:4d282a5b11d458f0",
-          "title": "Observability Engineer London",
-          "url": "https://www.gresearch.com/vacancies/observability-engineer/"
         },
         {
           "id": "h:e4631fe1aaf0d62a",
@@ -6446,6 +6683,12 @@
       ],
       "recentItems": [
         {
+          "id": "h:e4c8168e23355f7b",
+          "title": "Software Engineer – Compute Orchestration London",
+          "url": "https://www.gresearch.com/vacancies/software-engineer-compute-orchestration/",
+          "firstSeen": "2026-10-28"
+        },
+        {
           "id": "h:68c5cfcc8b303f77",
           "title": "Quantitative Data Engineer London",
           "url": "https://www.gresearch.com/vacancies/quantitative-data-engineer/",
@@ -6456,15 +6699,16 @@
           "title": "Software Engineer – Compute Orchestration London",
           "url": "https://www.gresearch.com/vacancies/software-engineer-realtime-quant-frameworks/",
           "firstSeen": "2026-10-22"
-        },
-        {
-          "id": "h:c2c3f35e0a6ff18c",
-          "title": "Software Engineer – Security London",
-          "url": "https://www.gresearch.com/vacancies/security-automation-engineer/",
-          "firstSeen": "2026-10-13"
         }
       ],
-      "newItems": []
+      "newItems": [
+        {
+          "id": "h:e4c8168e23355f7b",
+          "title": "Software Engineer – Compute Orchestration London",
+          "url": "https://www.gresearch.com/vacancies/software-engineer-compute-orchestration/",
+          "firstSeen": "2026-10-28"
+        }
+      ]
     },
     {
       "id": "headlands-technologies",
@@ -6472,7 +6716,7 @@
       "url": "https://www.headlandstech.com/careers/",
       "source": "greenhouse:headlandstechnologiesllc",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:09+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:35+00:00",
       "totalOpen": 8,
       "knownIds": [
         "greenhouse:4227758009",
@@ -6584,7 +6828,7 @@
       "url": "https://davincitrading.com/careers/?e-filter-82520f4-greenhouse_office=amsterdam&e-filter-82520f4-greenhouse_department=development",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:09+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:35+00:00",
       "totalOpen": 14,
       "knownIds": [
         "h:116b7ba9ad35ea65",
@@ -6768,7 +7012,7 @@
       "url": "https://www.alloptions-international.com/careers/",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:16+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:41+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -6781,8 +7025,8 @@
       "url": "https://careers.point72.com/?experience=internships&location=london",
       "source": "greenhouse:point72",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:23+00:00",
-      "totalOpen": 209,
+      "lastCheckedAt": "2026-10-28T11:48:48+00:00",
+      "totalOpen": 206,
       "knownIds": [
         "greenhouse:8491055002",
         "greenhouse:8491138002",
@@ -6804,7 +7048,6 @@
         "greenhouse:8729688002",
         "greenhouse:8630027002",
         "greenhouse:8649431002",
-        "greenhouse:8222788002",
         "greenhouse:8905015002",
         "greenhouse:8375256002",
         "greenhouse:8660807002",
@@ -6819,17 +7062,17 @@
         "greenhouse:8859050002",
         "greenhouse:7605647002",
         "greenhouse:8530310002",
-        "greenhouse:7001158002",
         "greenhouse:7045938002",
+        "greenhouse:7001158002",
+        "greenhouse:7046005002",
         "greenhouse:7045996002",
         "greenhouse:7045941002",
-        "greenhouse:7046005002",
-        "greenhouse:7666631002",
+        "greenhouse:7318005002",
+        "greenhouse:7318012002",
         "greenhouse:7045936002",
+        "greenhouse:7666631002",
         "greenhouse:7045980002",
         "greenhouse:7045987002",
-        "greenhouse:7318012002",
-        "greenhouse:7318005002",
         "greenhouse:7045995002",
         "greenhouse:7045979002",
         "greenhouse:8488671002",
@@ -6838,7 +7081,6 @@
         "greenhouse:8701705002",
         "greenhouse:8163904002",
         "greenhouse:7667745002",
-        "greenhouse:8236337002",
         "greenhouse:8883820002",
         "greenhouse:7695570002",
         "greenhouse:8888064002",
@@ -6868,8 +7110,8 @@
         "greenhouse:8236937002",
         "greenhouse:8244769002",
         "greenhouse:8899767002",
-        "greenhouse:8574616002",
         "greenhouse:8773512002",
+        "greenhouse:8574616002",
         "greenhouse:8773518002",
         "greenhouse:8885528002",
         "greenhouse:8747076002",
@@ -6881,9 +7123,9 @@
         "greenhouse:7302611002",
         "greenhouse:8782933002",
         "greenhouse:8785996002",
-        "greenhouse:8845107002",
-        "greenhouse:8831450002",
         "greenhouse:8845109002",
+        "greenhouse:8831450002",
+        "greenhouse:8845107002",
         "greenhouse:8614187002",
         "greenhouse:7302643002",
         "greenhouse:7864033002",
@@ -6907,7 +7149,6 @@
         "greenhouse:8499113002",
         "greenhouse:8538913002",
         "greenhouse:8500397002",
-        "greenhouse:8730093002",
         "greenhouse:8875470002",
         "greenhouse:8003977002",
         "greenhouse:8187982002",
@@ -6919,10 +7160,10 @@
         "greenhouse:7297622002",
         "greenhouse:8745810002",
         "greenhouse:8870196002",
-        "greenhouse:8875666002",
-        "greenhouse:8870206002",
         "greenhouse:8191564002",
         "greenhouse:7297511002",
+        "greenhouse:8870206002",
+        "greenhouse:8875666002",
         "greenhouse:7297653002",
         "greenhouse:7609197002",
         "greenhouse:7046014002",
@@ -6936,9 +7177,9 @@
         "greenhouse:7297643002",
         "greenhouse:7297667002",
         "greenhouse:8018862002",
+        "greenhouse:7825863002",
         "greenhouse:8604288002",
         "greenhouse:8032153002",
-        "greenhouse:7825863002",
         "greenhouse:7297666002",
         "greenhouse:8782787002",
         "greenhouse:8408288002",
@@ -7096,11 +7337,6 @@
           "url": "https://boards.greenhouse.io/point72/jobs/8649431002?gh_jid=8649431002"
         },
         {
-          "id": "greenhouse:8222788002",
-          "title": "Analyst Coach, Investment Professional Development",
-          "url": "https://boards.greenhouse.io/point72/jobs/8222788002?gh_jid=8222788002"
-        },
-        {
           "id": "greenhouse:8905015002",
           "title": "Associate, Investment Professional Development",
           "url": "https://boards.greenhouse.io/point72/jobs/8905015002?gh_jid=8905015002"
@@ -7171,14 +7407,19 @@
           "url": "https://boards.greenhouse.io/point72/jobs/8530310002?gh_jid=8530310002"
         },
         {
+          "id": "greenhouse:7045938002",
+          "title": "Cubist Data Scientist",
+          "url": "https://boards.greenhouse.io/point72/jobs/7045938002?gh_jid=7045938002"
+        },
+        {
           "id": "greenhouse:7001158002",
           "title": "Cubist Data Scientist",
           "url": "https://boards.greenhouse.io/point72/jobs/7001158002?gh_jid=7001158002"
         },
         {
-          "id": "greenhouse:7045938002",
-          "title": "Cubist Data Scientist",
-          "url": "https://boards.greenhouse.io/point72/jobs/7045938002?gh_jid=7045938002"
+          "id": "greenhouse:7046005002",
+          "title": "Cubist Portfolio Manager",
+          "url": "https://boards.greenhouse.io/point72/jobs/7046005002?gh_jid=7046005002"
         },
         {
           "id": "greenhouse:7045996002",
@@ -7191,19 +7432,24 @@
           "url": "https://boards.greenhouse.io/point72/jobs/7045941002?gh_jid=7045941002"
         },
         {
-          "id": "greenhouse:7046005002",
-          "title": "Cubist Portfolio Manager",
-          "url": "https://boards.greenhouse.io/point72/jobs/7046005002?gh_jid=7046005002"
+          "id": "greenhouse:7318005002",
+          "title": "Cubist Quantitative Researcher",
+          "url": "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002"
         },
         {
-          "id": "greenhouse:7666631002",
+          "id": "greenhouse:7318012002",
           "title": "Cubist Quantitative Researcher",
-          "url": "https://boards.greenhouse.io/point72/jobs/7666631002?gh_jid=7666631002"
+          "url": "https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002"
         },
         {
           "id": "greenhouse:7045936002",
           "title": "Cubist Quantitative Researcher",
           "url": "https://boards.greenhouse.io/point72/jobs/7045936002?gh_jid=7045936002"
+        },
+        {
+          "id": "greenhouse:7666631002",
+          "title": "Cubist Quantitative Researcher",
+          "url": "https://boards.greenhouse.io/point72/jobs/7666631002?gh_jid=7666631002"
         },
         {
           "id": "greenhouse:7045980002",
@@ -7214,16 +7460,6 @@
           "id": "greenhouse:7045987002",
           "title": "Cubist Quantitative Researcher",
           "url": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002"
-        },
-        {
-          "id": "greenhouse:7318012002",
-          "title": "Cubist Quantitative Researcher",
-          "url": "https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002"
-        },
-        {
-          "id": "greenhouse:7318005002",
-          "title": "Cubist Quantitative Researcher",
-          "url": "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002"
         },
         {
           "id": "greenhouse:7045995002",
@@ -7266,11 +7502,6 @@
           "url": "https://boards.greenhouse.io/point72/jobs/7667745002?gh_jid=7667745002"
         },
         {
-          "id": "greenhouse:8236337002",
-          "title": "Data Reliability Engineer",
-          "url": "https://boards.greenhouse.io/point72/jobs/8236337002?gh_jid=8236337002"
-        },
-        {
           "id": "greenhouse:8883820002",
           "title": "Data Research Fellowship",
           "url": "https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002"
@@ -7294,6 +7525,16 @@
           "id": "greenhouse:8488485002",
           "title": "Digital Communications Associate",
           "url": "https://boards.greenhouse.io/point72/jobs/8488485002?gh_jid=8488485002"
+        },
+        {
+          "id": "greenhouse:8748038002",
+          "title": "Enterprise Applications Engineering Lead",
+          "url": "https://boards.greenhouse.io/point72/jobs/8748038002?gh_jid=8748038002"
+        },
+        {
+          "id": "greenhouse:8599905002",
+          "title": "Enterprise Messaging Platform Lead",
+          "url": "https://boards.greenhouse.io/point72/jobs/8599905002?gh_jid=8599905002"
         }
       ],
       "recentItems": [
@@ -7410,22 +7651,9 @@
           "title": "Lead Data Strategist",
           "url": "https://boards.greenhouse.io/point72/jobs/8885528002?gh_jid=8885528002",
           "firstSeen": "2026-10-14"
-        },
-        {
-          "id": "greenhouse:8883820002",
-          "title": "Data Research Fellowship",
-          "url": "https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002",
-          "firstSeen": "2026-10-13"
         }
       ],
-      "newItems": [
-        {
-          "id": "greenhouse:8899767002",
-          "title": "IT Operations Engineer, Data Center Technology",
-          "url": "https://boards.greenhouse.io/point72/jobs/8899767002?gh_jid=8899767002",
-          "firstSeen": "2026-10-27"
-        }
-      ]
+      "newItems": []
     },
     {
       "id": "aqr-capital",
@@ -7433,18 +7661,18 @@
       "url": "https://careers.aqr.com/jobs/category/university-jobs?size=n_20_n",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:24+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:49+00:00",
       "totalOpen": 9,
       "knownIds": [
         "h:03c858a863400132",
         "h:29ae96085e7bf307",
-        "h:7c236a4047992080",
         "h:ddbfe887f22138fc",
         "h:e829d23e950b40e7",
-        "h:6621846b816da652",
+        "h:7c236a4047992080",
         "h:749d0aa25da2dbdd",
         "h:d9ab435f604dc9bc",
-        "h:63f75423a8a2513a"
+        "h:63f75423a8a2513a",
+        "h:6621846b816da652"
       ],
       "openItems": [
         {
@@ -7458,11 +7686,6 @@
           "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-business-development-analyst-us-wealth/8144359"
         },
         {
-          "id": "h:7c236a4047992080",
-          "title": "AQR MBA Discovery - Early Engagement Program",
-          "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/aqr-mba-discovery-early-engagement-program/8274263"
-        },
-        {
           "id": "h:ddbfe887f22138fc",
           "title": "2027 Business Development Summer Analyst",
           "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-business-development-summer-analyst-/7926659"
@@ -7473,9 +7696,9 @@
           "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-phd-summer-associate-machine-learning-research/8224708"
         },
         {
-          "id": "h:6621846b816da652",
-          "title": "AQR Arbitrage - 2027 Research Summer Analyst",
-          "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/aqr-arbitrage-2027-research-summer-analyst-/8156993"
+          "id": "h:7c236a4047992080",
+          "title": "AQR MBA Discovery - Early Engagement Program",
+          "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/aqr-mba-discovery-early-engagement-program/8274263"
         },
         {
           "id": "h:749d0aa25da2dbdd",
@@ -7491,16 +7714,14 @@
           "id": "h:63f75423a8a2513a",
           "title": "2027 Research Summer Analyst",
           "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-research-summer-analyst/7895583"
-        }
-      ],
-      "recentItems": [
+        },
         {
-          "id": "h:7c236a4047992080",
-          "title": "AQR MBA Discovery - Early Engagement Program",
-          "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/aqr-mba-discovery-early-engagement-program/8274263",
-          "firstSeen": "2026-10-13"
+          "id": "h:6621846b816da652",
+          "title": "AQR Arbitrage - 2027 Research Summer Analyst",
+          "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/aqr-arbitrage-2027-research-summer-analyst-/8156993"
         }
       ],
+      "recentItems": [],
       "newItems": []
     },
     {
@@ -7509,7 +7730,7 @@
       "url": "https://www.mwam.com/technology-internship-programme/",
       "source": "greenhouse:mwinternshipprogram",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:29+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:55+00:00",
       "totalOpen": 8,
       "knownIds": [
         "greenhouse:8620541002",
@@ -7572,7 +7793,7 @@
       "url": "https://www.winton.com/opportunities?tag=technology#job-tags",
       "source": "greenhouse:winton",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:30+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:55+00:00",
       "totalOpen": 7,
       "knownIds": [
         "greenhouse:4875778101",
@@ -7636,7 +7857,7 @@
       "url": "https://www.man.com/students-and-graduates",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:31+00:00",
+      "lastCheckedAt": "2026-10-28T11:48:56+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -7649,7 +7870,7 @@
       "url": "https://careers.twosigma.com/careers/OpenRoles/?5079=%5B16718359%5D&5079_format=3144&5080=%5B16718775%2C16718776%5D&5080_format=3145&5081=%5B16718736%2C16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:39+00:00",
+      "lastCheckedAt": "2026-10-28T11:49:03+00:00",
       "totalOpen": 9,
       "knownIds": [
         "h:63fe17042ed40b54",
@@ -7718,7 +7939,7 @@
       "url": "https://www.worldquant.com/career-listing/?location=&department=technology-division",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:46+00:00",
+      "lastCheckedAt": "2026-10-28T11:49:11+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -7731,7 +7952,7 @@
       "url": "https://bambusdev.my.site.com/s/",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:52+00:00",
+      "lastCheckedAt": "2026-10-28T11:49:17+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -7744,9 +7965,10 @@
       "url": "https://www.schonfeld.com/careers/students-and-early-career/",
       "source": "greenhouse:schonfeld",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:58+00:00",
+      "lastCheckedAt": "2026-10-28T11:49:24+00:00",
       "totalOpen": 66,
       "knownIds": [
+        "greenhouse:8311595",
         "greenhouse:8171703",
         "greenhouse:8172070",
         "greenhouse:8171692",
@@ -7760,6 +7982,7 @@
         "greenhouse:7589451",
         "greenhouse:7843962",
         "greenhouse:8303536",
+        "greenhouse:8288790",
         "greenhouse:8031499",
         "greenhouse:8186867",
         "greenhouse:8226368",
@@ -7777,7 +8000,6 @@
         "greenhouse:8303538",
         "greenhouse:8209327",
         "greenhouse:7843972",
-        "greenhouse:8288790",
         "greenhouse:8164468",
         "greenhouse:8185693",
         "greenhouse:8092862",
@@ -7787,23 +8009,22 @@
         "greenhouse:8091369",
         "greenhouse:7517021",
         "greenhouse:8020671",
-        "greenhouse:8020673",
         "greenhouse:8242761",
+        "greenhouse:8020673",
         "greenhouse:8083510",
         "greenhouse:8226258",
         "greenhouse:7858886",
         "greenhouse:8243907",
         "greenhouse:8264648",
         "greenhouse:7544203",
-        "greenhouse:8288792",
         "greenhouse:8091383",
-        "greenhouse:7653520",
+        "greenhouse:8288792",
         "greenhouse:8209331",
         "greenhouse:8285213",
         "greenhouse:7958235",
         "greenhouse:7957507",
-        "greenhouse:8119484",
         "greenhouse:8020496",
+        "greenhouse:8119484",
         "greenhouse:8020502",
         "greenhouse:8020503",
         "greenhouse:7541293",
@@ -7815,6 +8036,11 @@
         "greenhouse:8244313"
       ],
       "openItems": [
+        {
+          "id": "greenhouse:8311595",
+          "title": "2027 AI Forward Deployed Engineer Intern",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8311595"
+        },
         {
           "id": "greenhouse:8171703",
           "title": "2027 Business Analytics Intern",
@@ -7879,6 +8105,11 @@
           "id": "greenhouse:8303536",
           "title": "AI Platform Engineer",
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8303536"
+        },
+        {
+          "id": "greenhouse:8288790",
+          "title": "AI Platform Lead",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8288790"
         },
         {
           "id": "greenhouse:8031499",
@@ -7966,11 +8197,6 @@
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843972"
         },
         {
-          "id": "greenhouse:8288790",
-          "title": "Head of AI Platform",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8288790"
-        },
-        {
           "id": "greenhouse:8164468",
           "title": "Principal Software Engineer",
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8164468"
@@ -8016,14 +8242,14 @@
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8020671"
         },
         {
-          "id": "greenhouse:8020673",
-          "title": "Quant Strategist / Researcher - FX Volatility",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8020673"
-        },
-        {
           "id": "greenhouse:8242761",
           "title": "Quant Strategist / Researcher - FX Volatility",
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8242761"
+        },
+        {
+          "id": "greenhouse:8020673",
+          "title": "Quant Strategist / Researcher - FX Volatility",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8020673"
         },
         {
           "id": "greenhouse:8083510",
@@ -8056,19 +8282,14 @@
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7544203"
         },
         {
-          "id": "greenhouse:8288792",
-          "title": "Senior Software Engineer",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8288792"
-        },
-        {
           "id": "greenhouse:8091383",
           "title": "Senior Software Engineer",
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8091383"
         },
         {
-          "id": "greenhouse:7653520",
-          "title": "Senior Software Engineer, UI/UX",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7653520"
+          "id": "greenhouse:8288792",
+          "title": "Senior Software Engineer",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8288792"
         },
         {
           "id": "greenhouse:8209331",
@@ -8091,14 +8312,14 @@
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7957507"
         },
         {
-          "id": "greenhouse:8119484",
-          "title": "Strategist",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8119484"
-        },
-        {
           "id": "greenhouse:8020496",
           "title": "Strategist",
           "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8020496"
+        },
+        {
+          "id": "greenhouse:8119484",
+          "title": "Strategist",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8119484"
         },
         {
           "id": "greenhouse:8020502",
@@ -8117,6 +8338,12 @@
         }
       ],
       "recentItems": [
+        {
+          "id": "greenhouse:8311595",
+          "title": "2027 AI Forward Deployed Engineer Intern",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8311595",
+          "firstSeen": "2026-10-28"
+        },
         {
           "id": "greenhouse:8171692",
           "title": "2027 Data Science Intern",
@@ -8198,10 +8425,10 @@
       ],
       "newItems": [
         {
-          "id": "greenhouse:8171692",
-          "title": "2027 Data Science Intern",
-          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
-          "firstSeen": "2026-10-27"
+          "id": "greenhouse:8311595",
+          "title": "2027 AI Forward Deployed Engineer Intern",
+          "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8311595",
+          "firstSeen": "2026-10-28"
         }
       ]
     },
@@ -8211,7 +8438,7 @@
       "url": "https://campusjobs.mlp.com/careers?location=London%2C%20United%20Kingdom&pid=755956648019&domain=mlp.com&sort_by=relevance&microsite=campus-site&triggerGoButton=false",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:15:59+00:00",
+      "lastCheckedAt": "2026-10-28T11:49:24+00:00",
       "totalOpen": 2,
       "knownIds": [
         "h:ea853d25a46e462b",
@@ -8238,160 +8465,156 @@
       "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637",
       "source": "generic:api",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:16:05+00:00",
-      "totalOpen": 135,
+      "lastCheckedAt": "2026-10-28T11:49:30+00:00",
+      "totalOpen": 136,
       "knownIds": [
-        "h:4004c3ad93956e3d",
-        "h:e26df8069263fb6d",
-        "h:3b877310fca0c78d",
+        "h:f67b755bf3dd1966",
+        "h:e0bd2f557c986b60",
         "h:0f8e3082c6ced559",
         "h:e69df5d977caadc3",
+        "h:47d4ccc9b0b2d569",
+        "h:c44cf243940d31b1",
+        "h:b35ecd7c452f089e",
+        "h:9b4c232454a57a32",
+        "h:43d25e3f1fb673f2",
+        "h:e05602abcaae694b",
+        "h:600ceb4abf209dd7",
+        "h:ec6469ae9d6c18c4",
+        "h:353c23d7918987f0",
+        "h:9fd04e840432b554",
+        "h:fe840c4e06ad01e5",
+        "h:0d6d8af14cd753b7",
+        "h:c80a3606f1a4c1b5",
+        "h:6fc256172c60d5f9",
+        "h:6a01b9535de25654",
+        "h:3b877310fca0c78d",
+        "h:e26df8069263fb6d",
+        "h:20d89061720e311a",
+        "h:307d6f12bd1d8368",
+        "h:e685c485bc488a73",
+        "h:01812a4ebe7e4ead",
+        "h:5c1ea4ce5a5b587f",
+        "h:42b852585c93e9f1",
+        "h:1f44ad1a42a82934",
+        "h:cd7d83f5f7da47b4",
+        "h:20ae34586299db80",
+        "h:ecd33104540794d0",
+        "h:c1c0f1d1c77bb6fc",
+        "h:a829c22816683049",
+        "h:cb60df0553272f96",
+        "h:bb5736eb5858189b",
+        "h:49b389ec24f6a4f5",
+        "h:f156f0cbba78e39a",
+        "h:3ec968bd812ca684",
+        "h:0d4245e06347d568",
+        "h:412cea40f16fdd25",
+        "h:859fb06593bf1f44",
+        "h:3d8b505f4146896b",
+        "h:823ed53a44a7ecd7",
+        "h:4ea1fe4fcaafe219",
+        "h:0beead933da8cb69",
+        "h:412e959c47fc2d91",
+        "h:a148dab8625a1464",
+        "h:0f0fa3d6c3aae508",
+        "h:382d58b2da997862",
+        "h:473c91eb34f49ee9",
+        "h:7b9ed189ab5f6df4",
+        "h:d200fb948767dbb4",
+        "h:9d4663a4da0338c7",
+        "h:7eee926e41adf47f",
+        "h:75693887f46f6f0a",
+        "h:5871cf86f5e68085",
+        "h:a6c9f44d9e71ceab",
+        "h:10841b1810bb7e2a",
+        "h:ffbe233d62943554",
+        "h:4814ac10e5692929",
+        "h:d7b49df5c6e6c309",
+        "h:6078ed65879597da",
+        "h:216c25452451ac05",
+        "h:50a704bcff8cc285",
+        "h:0ad8062bdef886fe",
+        "h:e76e45f28c72dfd9",
+        "h:5e246e0f797652a8",
+        "h:c7df5d985e9601ed",
+        "h:6924e4f6bb04dfef",
+        "h:84904409bb544362",
+        "h:9785320f4941f7a7",
+        "h:920ddf965401994d",
+        "h:44c3447ceb934a5b",
+        "h:53d7df6c1a7d7f6c",
+        "h:6c0d929eababc2d9",
+        "h:7050ed6a03c86366",
+        "h:a0a36a002a2c5e29",
+        "h:3bf8ad5c88b7224b",
+        "h:8eb03bee2192053f",
+        "h:a143f1339af07a09",
+        "h:ba7e3876234100f1",
+        "h:e58768041d6898e6",
+        "h:af0a792a4b561e62",
+        "h:6b6b26ab4c6b7c64",
+        "h:5fd573d6e75348ed",
+        "h:12f6edb09e49eafb",
+        "h:e9c3bbef16da2fc2",
+        "h:dc5e646b2e6d21ff",
+        "h:b74b5eec7bc516d1",
+        "h:bf04378c1edd922f",
+        "h:5d5bfb835c7b83b0",
+        "h:96cfccb802742325",
+        "h:447c4a9e4df2e7ba",
+        "h:56445f9e23ac40e1",
+        "h:b607ed3d5f262205",
+        "h:b7185eb7c118d744",
+        "h:ca6117e93a4d947f",
+        "h:528b51d07e71363b",
+        "h:d6b054c1ce0e4aef",
+        "h:d1e24d1585a09748",
+        "h:9e4a8b47d02f8aac",
+        "h:1ffd54e0af4e07a3",
+        "h:ed3e592834a2d301",
+        "h:764ac2538052f451",
+        "h:fd9718f61e9680bb",
+        "h:9ef5a827dc150b52",
+        "h:54a039b90947f77d",
+        "h:2cb71ecaf12b5090",
+        "h:00ec599548a89d33",
+        "h:a1b3241663e309f5",
+        "h:a0d27189c4771db8",
+        "h:a5eaa6b944a29021",
+        "h:98a1c5eb9bb07750",
+        "h:078dabef54a45303",
+        "h:029169b133689b61",
+        "h:544db4f8ce3c96ad",
+        "h:e6ce4f4583336038",
+        "h:4004c3ad93956e3d",
         "h:a52bb75cfc4826f6",
         "h:92324182285c1d38",
         "h:e200241eb287cbff",
         "h:a8049a9e19fb4eac",
         "h:e39cd4cdaf81bfb9",
-        "h:43d25e3f1fb673f2",
-        "h:6b6b26ab4c6b7c64",
-        "h:01812a4ebe7e4ead",
-        "h:42b852585c93e9f1",
-        "h:5c1ea4ce5a5b587f",
-        "h:9fd04e840432b554",
-        "h:9b4c232454a57a32",
-        "h:fe840c4e06ad01e5",
-        "h:9785320f4941f7a7",
-        "h:cb60df0553272f96",
-        "h:3ec968bd812ca684",
-        "h:a829c22816683049",
-        "h:49b389ec24f6a4f5",
-        "h:47d4ccc9b0b2d569",
-        "h:d200fb948767dbb4",
-        "h:859fb06593bf1f44",
-        "h:12f6edb09e49eafb",
-        "h:dc5e646b2e6d21ff",
-        "h:bf04378c1edd922f",
-        "h:5d5bfb835c7b83b0",
-        "h:b74b5eec7bc516d1",
-        "h:20d89061720e311a",
-        "h:0f0fa3d6c3aae508",
-        "h:e58768041d6898e6",
-        "h:ba7e3876234100f1",
-        "h:af0a792a4b561e62",
-        "h:412e959c47fc2d91",
-        "h:75693887f46f6f0a",
-        "h:447c4a9e4df2e7ba",
-        "h:5871cf86f5e68085",
-        "h:bb5736eb5858189b",
-        "h:f67b755bf3dd1966",
-        "h:382d58b2da997862",
-        "h:3bf8ad5c88b7224b",
-        "h:a143f1339af07a09",
-        "h:8eb03bee2192053f",
-        "h:e76e45f28c72dfd9",
         "h:ffaf80275d8730c2",
         "h:72415f658cab5c89",
-        "h:0ad8062bdef886fe",
-        "h:50a704bcff8cc285",
         "h:79f68bd7445955fd",
         "h:65a7b816efdaca51",
         "h:8e01333d6fda2591",
         "h:291ff9983f2703b4",
-        "h:6fc256172c60d5f9",
-        "h:c80a3606f1a4c1b5",
         "h:06e959f79d19b6ff",
         "h:63402883350107c6",
         "h:6c73f7b2eb7e0137",
-        "h:cd7d83f5f7da47b4",
-        "h:fd9718f61e9680bb",
-        "h:764ac2538052f451",
-        "h:ca6117e93a4d947f",
-        "h:a0a36a002a2c5e29",
-        "h:b607ed3d5f262205",
-        "h:2cb71ecaf12b5090",
-        "h:a0d27189c4771db8",
-        "h:7050ed6a03c86366",
-        "h:d6b054c1ce0e4aef",
-        "h:9e4a8b47d02f8aac",
-        "h:b7185eb7c118d744",
-        "h:9ef5a827dc150b52",
-        "h:1ffd54e0af4e07a3",
-        "h:4814ac10e5692929",
-        "h:10841b1810bb7e2a",
-        "h:7b9ed189ab5f6df4",
-        "h:a6c9f44d9e71ceab",
-        "h:ffbe233d62943554",
-        "h:20ae34586299db80",
-        "h:078dabef54a45303",
-        "h:473c91eb34f49ee9",
-        "h:ecd33104540794d0",
-        "h:44c3447ceb934a5b",
-        "h:4ea1fe4fcaafe219",
-        "h:920ddf965401994d",
-        "h:54a039b90947f77d",
-        "h:d7b49df5c6e6c309",
-        "h:a5eaa6b944a29021",
-        "h:53d7df6c1a7d7f6c",
-        "h:56445f9e23ac40e1",
-        "h:ed3e592834a2d301",
-        "h:a1b3241663e309f5",
-        "h:5e246e0f797652a8",
-        "h:84904409bb544362",
-        "h:6924e4f6bb04dfef",
-        "h:c7df5d985e9601ed",
-        "h:3d8b505f4146896b",
-        "h:00ec599548a89d33",
-        "h:6078ed65879597da",
-        "h:5fd573d6e75348ed",
-        "h:0d4245e06347d568",
-        "h:98a1c5eb9bb07750",
-        "h:029169b133689b61",
-        "h:823ed53a44a7ecd7",
-        "h:6c0d929eababc2d9",
-        "h:1f44ad1a42a82934",
-        "h:0beead933da8cb69",
-        "h:a148dab8625a1464",
-        "h:412cea40f16fdd25",
-        "h:d1e24d1585a09748",
-        "h:528b51d07e71363b",
-        "h:96cfccb802742325",
-        "h:216c25452451ac05",
         "h:803d09b260e05bed",
         "h:c09cf67577691251",
         "h:7554c5b375a24c50",
-        "h:e6ce4f4583336038",
-        "h:544db4f8ce3c96ad",
-        "h:a1e7b91222b0ab26",
-        "h:c44cf243940d31b1",
-        "h:b35ecd7c452f089e",
-        "h:e05602abcaae694b",
-        "h:600ceb4abf209dd7",
-        "h:ec6469ae9d6c18c4",
-        "h:353c23d7918987f0",
-        "h:0d6d8af14cd753b7",
-        "h:6a01b9535de25654",
-        "h:307d6f12bd1d8368",
-        "h:e685c485bc488a73",
-        "h:c1c0f1d1c77bb6fc",
-        "h:f156f0cbba78e39a",
-        "h:9d4663a4da0338c7",
-        "h:7eee926e41adf47f",
-        "h:e9c3bbef16da2fc2"
+        "h:a1e7b91222b0ab26"
       ],
       "openItems": [
         {
-          "id": "h:4004c3ad93956e3d",
-          "title": "Arini",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+          "id": "h:f67b755bf3dd1966",
+          "title": "APAC Delta One Trader",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8002291&gh_jid=8002291"
         },
         {
-          "id": "h:e26df8069263fb6d",
-          "title": "Business Management",
+          "id": "h:e0bd2f557c986b60",
+          "title": "Recruitment team responsibility",
           "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:3b877310fca0c78d",
-          "title": "Corporate Access Associate",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8275206&gh_jid=8275206"
         },
         {
           "id": "h:0f8e3082c6ced559",
@@ -8404,59 +8627,19 @@
           "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
         },
         {
-          "id": "h:a52bb75cfc4826f6",
-          "title": "Compliance",
+          "id": "h:47d4ccc9b0b2d569",
+          "title": "Investment",
           "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
         },
         {
-          "id": "h:92324182285c1d38",
-          "title": "Corporate",
+          "id": "h:c44cf243940d31b1",
+          "title": "Hong Kong",
           "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
         },
         {
-          "id": "h:e200241eb287cbff",
-          "title": "Corporate Management",
+          "id": "h:b35ecd7c452f089e",
+          "title": "Singapore",
           "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:a8049a9e19fb4eac",
-          "title": "Data Acquisition",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:e39cd4cdaf81bfb9",
-          "title": "Executive Assistance",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:43d25e3f1fb673f2",
-          "title": "Finance",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:6b6b26ab4c6b7c64",
-          "title": "Senior Fund Accountant",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=3604160&gh_jid=3604160"
-        },
-        {
-          "id": "h:01812a4ebe7e4ead",
-          "title": "Finance Analyst – General Ledger",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7434150&gh_jid=7434150"
-        },
-        {
-          "id": "h:42b852585c93e9f1",
-          "title": "FP&A Manager",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7912621&gh_jid=7912621"
-        },
-        {
-          "id": "h:5c1ea4ce5a5b587f",
-          "title": "Finance Data Analyst",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8114371&gh_jid=8114371"
-        },
-        {
-          "id": "h:9fd04e840432b554",
-          "title": "Assistant Controller — CLO Products",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8119061&gh_jid=8119061"
         },
         {
           "id": "h:9b4c232454a57a32",
@@ -8464,198 +8647,43 @@
           "url": "https://www.squarepoint-capital.com/open-opportunities?id=8119232&gh_jid=8119232"
         },
         {
+          "id": "h:43d25e3f1fb673f2",
+          "title": "Finance",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:e05602abcaae694b",
+          "title": "London",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:600ceb4abf209dd7",
+          "title": "Montreal",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:ec6469ae9d6c18c4",
+          "title": "New York",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:353c23d7918987f0",
+          "title": "Warsaw",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:9fd04e840432b554",
+          "title": "Assistant Controller — CLO Products",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8119061&gh_jid=8119061"
+        },
+        {
           "id": "h:fe840c4e06ad01e5",
           "title": "Assistant Controller - Management Company",
           "url": "https://www.squarepoint-capital.com/open-opportunities?id=8127909&gh_jid=8127909"
         },
         {
-          "id": "h:9785320f4941f7a7",
-          "title": "Payroll Accountant",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8175993&gh_jid=8175993"
-        },
-        {
-          "id": "h:cb60df0553272f96",
-          "title": "Human Resources",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:3ec968bd812ca684",
-          "title": "Human Resources Manager",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8038330&gh_jid=8038330"
-        },
-        {
-          "id": "h:a829c22816683049",
-          "title": "Head of HR AMER",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8091941&gh_jid=8091941"
-        },
-        {
-          "id": "h:49b389ec24f6a4f5",
-          "title": "HR Specialist",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8166500&gh_jid=8166500"
-        },
-        {
-          "id": "h:47d4ccc9b0b2d569",
-          "title": "Investment",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:d200fb948767dbb4",
-          "title": "Junior Quant Researcher",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376"
-        },
-        {
-          "id": "h:859fb06593bf1f44",
-          "title": "Intern Quant Researcher",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853"
-        },
-        {
-          "id": "h:12f6edb09e49eafb",
-          "title": "Senior Quant Researcher - CTA/Short-Term",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=253410&gh_jid=253410"
-        },
-        {
-          "id": "h:dc5e646b2e6d21ff",
-          "title": "Senior Quant Researcher - Equity Mid/Low Frequency",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=253411&gh_jid=253411"
-        },
-        {
-          "id": "h:bf04378c1edd922f",
-          "title": "Senior Quant Researcher - Intraday Statistical Arbitrage",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=253413&gh_jid=253413"
-        },
-        {
-          "id": "h:5d5bfb835c7b83b0",
-          "title": "Senior Quant Researcher - Volatility",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=253414&gh_jid=253414"
-        },
-        {
-          "id": "h:b74b5eec7bc516d1",
-          "title": "Senior Quant Researcher - Fixed Income",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=1163559&gh_jid=1163559"
-        },
-        {
-          "id": "h:20d89061720e311a",
-          "title": "Desk Quant Analyst",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=2546549&gh_jid=2546549"
-        },
-        {
-          "id": "h:0f0fa3d6c3aae508",
-          "title": "Junior Discretionary Trader",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879"
-        },
-        {
-          "id": "h:e58768041d6898e6",
-          "title": "Senior Discretionary Trader - Equities",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=4904130&gh_jid=4904130"
-        },
-        {
-          "id": "h:ba7e3876234100f1",
-          "title": "Senior Discretionary Trader - Credit",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=4904137&gh_jid=4904137"
-        },
-        {
-          "id": "h:af0a792a4b561e62",
-          "title": "Senior Discretionary Trader - Macro",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=4904158&gh_jid=4904158"
-        },
-        {
-          "id": "h:412e959c47fc2d91",
-          "title": "Junior Commodities Fundamental Analyst",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=5929246&gh_jid=5929246"
-        },
-        {
-          "id": "h:75693887f46f6f0a",
-          "title": "Junior Quant Researcher - ML Alpha Research",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464"
-        },
-        {
-          "id": "h:447c4a9e4df2e7ba",
-          "title": "Shift Trader",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6977749&gh_jid=6977749"
-        },
-        {
-          "id": "h:5871cf86f5e68085",
-          "title": "Junior Risk Manager",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7013910&gh_jid=7013910"
-        },
-        {
-          "id": "h:bb5736eb5858189b",
-          "title": "High-Touch Execution Strategist",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7340149&gh_jid=7340149"
-        },
-        {
-          "id": "h:f67b755bf3dd1966",
-          "title": "APAC Delta One Trader",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8002291&gh_jid=8002291"
-        },
-        {
-          "id": "h:382d58b2da997862",
-          "title": "Junior Execution Trader - Equity",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8143287&gh_jid=8143287"
-        },
-        {
-          "id": "h:3bf8ad5c88b7224b",
-          "title": "Quantitative Researcher - Discretionary Oil",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8209423&gh_jid=8209423"
-        },
-        {
-          "id": "h:a143f1339af07a09",
-          "title": "Quantitative Researcher, Volatility - Medium-Frequency",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8257346&gh_jid=8257346"
-        },
-        {
-          "id": "h:8eb03bee2192053f",
-          "title": "Quantitative Researcher, Equity Mid-Frequency",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8257365&gh_jid=8257365"
-        },
-        {
-          "id": "h:e76e45f28c72dfd9",
-          "title": "Manager of CTA Intraday Monetization",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8265573&gh_jid=8265573"
-        },
-        {
-          "id": "h:ffaf80275d8730c2",
-          "title": "Investment Management",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:72415f658cab5c89",
-          "title": "Investment Suspense",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:0ad8062bdef886fe",
-          "title": "Legal",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:50a704bcff8cc285",
-          "title": "Legal Assistant",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8195856&gh_jid=8195856"
-        },
-        {
-          "id": "h:79f68bd7445955fd",
-          "title": "Management",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:65a7b816efdaca51",
-          "title": "Office Acquisition and Development",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:8e01333d6fda2591",
-          "title": "Office Management",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:291ff9983f2703b4",
-          "title": "Operations",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
-        },
-        {
-          "id": "h:6fc256172c60d5f9",
-          "title": "Recruiting & Talent Development",
+          "id": "h:0d6d8af14cd753b7",
+          "title": "Jersey",
           "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
         },
         {
@@ -8664,22 +8692,228 @@
           "url": "https://www.squarepoint-capital.com/open-opportunities?id=8203583&gh_jid=8203583"
         },
         {
-          "id": "h:06e959f79d19b6ff",
-          "title": "STG",
+          "id": "h:6fc256172c60d5f9",
+          "title": "Recruiting & Talent Development",
           "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
         },
         {
-          "id": "h:63402883350107c6",
-          "title": "STG Investment",
+          "id": "h:6a01b9535de25654",
+          "title": "Paris",
           "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
         },
         {
-          "id": "h:6c73f7b2eb7e0137",
-          "title": "Tax",
+          "id": "h:3b877310fca0c78d",
+          "title": "Corporate Access Associate",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8275206&gh_jid=8275206"
+        },
+        {
+          "id": "h:e26df8069263fb6d",
+          "title": "Business Management",
           "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:20d89061720e311a",
+          "title": "Desk Quant Analyst",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=2546549&gh_jid=2546549"
+        },
+        {
+          "id": "h:307d6f12bd1d8368",
+          "title": "Bangalore",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:e685c485bc488a73",
+          "title": "Madrid",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:01812a4ebe7e4ead",
+          "title": "Finance Analyst – General Ledger",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7434150&gh_jid=7434150"
+        },
+        {
+          "id": "h:5c1ea4ce5a5b587f",
+          "title": "Finance Data Analyst",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8114371&gh_jid=8114371"
+        },
+        {
+          "id": "h:42b852585c93e9f1",
+          "title": "FP&A Manager",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7912621&gh_jid=7912621"
+        },
+        {
+          "id": "h:1f44ad1a42a82934",
+          "title": "Graduate Quant Developer",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610"
+        },
+        {
+          "id": "h:cd7d83f5f7da47b4",
+          "title": "Technology",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:20ae34586299db80",
+          "title": "Graduate Software Developer",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910"
+        },
+        {
+          "id": "h:ecd33104540794d0",
+          "title": "Graduate Trading Applications Specialist",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081"
+        },
+        {
+          "id": "h:c1c0f1d1c77bb6fc",
+          "title": "Houston",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:a829c22816683049",
+          "title": "Head of HR AMER",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8091941&gh_jid=8091941"
+        },
+        {
+          "id": "h:cb60df0553272f96",
+          "title": "Human Resources",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:bb5736eb5858189b",
+          "title": "High-Touch Execution Strategist",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7340149&gh_jid=7340149"
+        },
+        {
+          "id": "h:49b389ec24f6a4f5",
+          "title": "HR Specialist",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8166500&gh_jid=8166500"
+        },
+        {
+          "id": "h:f156f0cbba78e39a",
+          "title": "Geneva",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:3ec968bd812ca684",
+          "title": "Human Resources Manager",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8038330&gh_jid=8038330"
+        },
+        {
+          "id": "h:0d4245e06347d568",
+          "title": "Identity and Access Management (IAM) Engineer",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7677230&gh_jid=7677230"
+        },
+        {
+          "id": "h:412cea40f16fdd25",
+          "title": "Infrastructure Developer",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8076647&gh_jid=8076647"
+        },
+        {
+          "id": "h:859fb06593bf1f44",
+          "title": "Intern Quant Researcher",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853"
+        },
+        {
+          "id": "h:3d8b505f4146896b",
+          "title": "Intern Software Developer - London - 2027",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006"
+        },
+        {
+          "id": "h:823ed53a44a7ecd7",
+          "title": "Intern Software Developer - Montreal - 2027",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463"
+        },
+        {
+          "id": "h:4ea1fe4fcaafe219",
+          "title": "Intern Software Developer - Singapore - 2027",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998"
+        },
+        {
+          "id": "h:0beead933da8cb69",
+          "title": "Intern Software Developer - Warsaw 2027",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124"
+        },
+        {
+          "id": "h:412e959c47fc2d91",
+          "title": "Junior Commodities Fundamental Analyst",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=5929246&gh_jid=5929246"
+        },
+        {
+          "id": "h:a148dab8625a1464",
+          "title": "Junior Desktop Support Analyst",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8067324&gh_jid=8067324"
+        },
+        {
+          "id": "h:0f0fa3d6c3aae508",
+          "title": "Junior Discretionary Trader",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879"
+        },
+        {
+          "id": "h:382d58b2da997862",
+          "title": "Junior Execution Trader - Equity",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8143287&gh_jid=8143287"
+        },
+        {
+          "id": "h:473c91eb34f49ee9",
+          "title": "Junior Platform Specialist",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6099903&gh_jid=6099903"
+        },
+        {
+          "id": "h:7b9ed189ab5f6df4",
+          "title": "Junior Quant Developer",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6034466&gh_jid=6034466"
+        },
+        {
+          "id": "h:d200fb948767dbb4",
+          "title": "Junior Quant Researcher",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376"
+        },
+        {
+          "id": "h:9d4663a4da0338c7",
+          "title": "Boston",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:7eee926e41adf47f",
+          "title": "Zug",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637"
+        },
+        {
+          "id": "h:75693887f46f6f0a",
+          "title": "Junior Quant Researcher - ML Alpha Research",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464"
+        },
+        {
+          "id": "h:5871cf86f5e68085",
+          "title": "Junior Risk Manager",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7013910&gh_jid=7013910"
+        },
+        {
+          "id": "h:a6c9f44d9e71ceab",
+          "title": "Junior Software Developer (C++)",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040731&gh_jid=6040731"
+        },
+        {
+          "id": "h:10841b1810bb7e2a",
+          "title": "Junior Software Developer - Front-end",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6034447&gh_jid=6034447"
+        },
+        {
+          "id": "h:ffbe233d62943554",
+          "title": "Junior Software Developer (KDB+/Q)",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040773&gh_jid=6040773"
+        },
+        {
+          "id": "h:4814ac10e5692929",
+          "title": "Junior Software Developer (Python)",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6033550&gh_jid=6033550"
         }
       ],
       "recentItems": [
+        {
+          "id": "h:e0bd2f557c986b60",
+          "title": "Recruitment team responsibility",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637",
+          "firstSeen": "2026-10-28"
+        },
         {
           "id": "h:029169b133689b61",
           "title": "Trading Infrastructure Specialist – Graduate Program",
@@ -8703,15 +8937,16 @@
           "title": "Platform Storage Specialist",
           "url": "https://www.squarepoint-capital.com/open-opportunities?id=7907168&gh_jid=7907168",
           "firstSeen": "2026-10-21"
-        },
-        {
-          "id": "h:96cfccb802742325",
-          "title": "Senior Security Architect",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=8184856&gh_jid=8184856",
-          "firstSeen": "2026-10-13"
         }
       ],
-      "newItems": []
+      "newItems": [
+        {
+          "id": "h:e0bd2f557c986b60",
+          "title": "Recruitment team responsibility",
+          "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Early+Careers+Opportunity&dep=86659&loc=14632%2C86972%2C14636%2C233152%2C14638%2C14637",
+          "firstSeen": "2026-10-28"
+        }
+      ]
     },
     {
       "id": "qube-research-technologies",
@@ -8719,7 +8954,7 @@
       "url": "https://www.qube-rt.com/careers/",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:16:11+00:00",
+      "lastCheckedAt": "2026-10-28T11:49:36+00:00",
       "totalOpen": 190,
       "knownIds": [
         "h:fa74faa269063818",
@@ -8731,7 +8966,6 @@
         "h:dec02f523e0d1186",
         "h:ae51831ee8e9524b",
         "h:fe5a2e830c0fe376",
-        "h:fa9f51a327dd7a7b",
         "h:f02ad47b12c339d3",
         "h:15670ec2c5202e91",
         "h:01cbae90ff7d8ebd",
@@ -8754,16 +8988,16 @@
         "h:fe4aad68b98b1cea",
         "h:ccfd6c694be557f2",
         "h:542a3e53ad0b7640",
-        "h:ce1b0241716fd8e2",
         "h:66a2a71b348bf0ce",
-        "h:6315a01b94f3d929",
+        "h:ce1b0241716fd8e2",
         "h:fff468f5af1ccc2b",
+        "h:6315a01b94f3d929",
+        "h:3462fb36af3d6c26",
         "h:5a2ab28413e80669",
         "h:c6331453cd21042c",
-        "h:3462fb36af3d6c26",
         "h:33dfceb6416eff71",
-        "h:0e963ab6f2bd4b34",
         "h:74b762cfedb93d53",
+        "h:0e963ab6f2bd4b34",
         "h:1b6e4e6d17dff1c9",
         "h:f2d696d5ea8e9f00",
         "h:11a40a620e5c849f",
@@ -8795,20 +9029,21 @@
         "h:86688b15cc0e9188",
         "h:08b1418d171730b5",
         "h:5e3696da58dd132c",
+        "h:af27673af20f2d51",
         "h:15f28fe33034341f",
         "h:e783922b8fcb5b2f",
-        "h:af27673af20f2d51",
-        "h:dac94b8613d8e98f",
         "h:31e57b6ceeea5c70",
+        "h:dac94b8613d8e98f",
         "h:7c0c2ea51cdb75a6",
         "h:32f11b5cf98f4396",
         "h:8bca7c0c3936d41e",
-        "h:fc8ab4a029c31962",
         "h:dc06fa96b1b68637",
+        "h:fc8ab4a029c31962",
         "h:f77dcf5baea2731d",
         "h:786647f3685ccb1c",
         "h:5cb3cff892e28758",
         "h:055befc6aca74e34",
+        "h:a61e7f6bef9af64d",
         "h:ad1eb04e293a4d4a",
         "h:148fb47804c79774",
         "h:e07a82bbbc7f6ade",
@@ -8821,30 +9056,30 @@
         "h:94d1687c32ac97b0",
         "h:62255998e9399a87",
         "h:52b52e6c21aa38df",
-        "h:f492c9d6ba73e77a",
         "h:dabe37ca2dfabfb4",
+        "h:f492c9d6ba73e77a",
         "h:e0eb879184a613e1",
         "h:053d77584c2c098e",
         "h:89e071ba6c00f609",
         "h:f26207c8f20bcd35",
         "h:b144baac03cc38df",
         "h:3f8f3f1bbaae884e",
-        "h:014bdb7ca4d86305",
-        "h:9142bf98edd3fb60",
         "h:cc4352a42ec24546",
+        "h:9142bf98edd3fb60",
+        "h:014bdb7ca4d86305",
         "h:68ff528542caf5cf",
         "h:8cc1066b3a749ac6",
         "h:8684261a14e3ccd6",
-        "h:31ebd16206816537",
         "h:353fb4e9e8b37845",
         "h:706aeb33c18c5a99",
-        "h:579c158f1404b4fa",
+        "h:31ebd16206816537",
         "h:a877daf05988d150",
+        "h:579c158f1404b4fa",
         "h:6687617d3ab8cb82",
         "h:cac2e7bea6655d62",
         "h:6f4acbfc64111dde",
-        "h:943a74ddb8520cba",
         "h:a4dac8c48d96683e",
+        "h:943a74ddb8520cba",
         "h:95200dacf79da940",
         "h:116d737d874b5ea2",
         "h:c26bc4ed207e04cd",
@@ -8852,8 +9087,8 @@
         "h:c40efe2af90570e4",
         "h:635e3586f9bd8975",
         "h:9f811fd860b0f272",
-        "h:c3d4ffa340da1722",
         "h:f915fa4acecedebe",
+        "h:c3d4ffa340da1722",
         "h:7aa47edf099b1054",
         "h:d76c36591a3fe194",
         "h:10181957f3dcf55a",
@@ -8866,11 +9101,11 @@
         "h:e1b02e59a6862299",
         "h:b402ece73b064b33",
         "h:b405ee33f7dcd9f8",
-        "h:d487cfbdd82530ff",
         "h:3dc5de2045b25d45",
+        "h:d487cfbdd82530ff",
         "h:06567a49316e4a16",
-        "h:3221d3e8f8c7e3b8",
         "h:b701f262571b032e",
+        "h:3221d3e8f8c7e3b8",
         "h:57211d6c32cc5492",
         "h:9af9f6b4cba54dd1",
         "h:acb5a60dacec244c",
@@ -8883,6 +9118,7 @@
         "h:a0673d54ecb8bc09",
         "h:576aebb3bac03f03",
         "h:6804780550ab2c8e",
+        "h:af09f832855a4de2",
         "h:78b3394b2a0da925",
         "h:aedece60ceaf7640",
         "h:583c6a883caf6d8e",
@@ -8892,9 +9128,8 @@
         "h:c47090ffcc2ae001",
         "h:35e9f92fecf8b3e7",
         "h:e8ff64a0e9ad0d87",
-        "h:3f50cd7ca67b62e4",
-        "h:81710a78490c17f2",
         "h:7355eabdbad05eb7",
+        "h:81710a78490c17f2",
         "h:2a68d4c4e4900e20",
         "h:c2866d89c68750f7",
         "h:57a5700031b36466",
@@ -8958,11 +9193,6 @@
           "id": "h:fe5a2e830c0fe376",
           "title": "2027 Internship – Security Engineer London , Paris View opportunity",
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8777760002"
-        },
-        {
-          "id": "h:fa9f51a327dd7a7b",
-          "title": "2027 - Internship, Software Engineering and Quantitative Development London , Paris , Wrocław , Zurich View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=8773084002"
         },
         {
           "id": "h:f02ad47b12c339d3",
@@ -9075,14 +9305,19 @@
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8339642002"
         },
         {
+          "id": "h:66a2a71b348bf0ce",
+          "title": "Data Scientist Paris View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=6557776002"
+        },
+        {
           "id": "h:ce1b0241716fd8e2",
           "title": "Data Scientist London View opportunity",
           "url": "https://www.qube-rt.com/careers/job?gh_jid=6962479002"
         },
         {
-          "id": "h:66a2a71b348bf0ce",
-          "title": "Data Scientist Paris View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=6557776002"
+          "id": "h:fff468f5af1ccc2b",
+          "title": "Data Scientist - Macro London View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=8894692002"
         },
         {
           "id": "h:6315a01b94f3d929",
@@ -9090,9 +9325,9 @@
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8895028002"
         },
         {
-          "id": "h:fff468f5af1ccc2b",
-          "title": "Data Scientist - Macro London View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=8894692002"
+          "id": "h:3462fb36af3d6c26",
+          "title": "Data Scientist - Market Data Paris View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=8827514002"
         },
         {
           "id": "h:5a2ab28413e80669",
@@ -9105,24 +9340,19 @@
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8551885002"
         },
         {
-          "id": "h:3462fb36af3d6c26",
-          "title": "Data Scientist - Market Data Paris View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=8827514002"
-        },
-        {
           "id": "h:33dfceb6416eff71",
           "title": "Data Scientist - Options Paris View opportunity",
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8611970002"
         },
         {
-          "id": "h:0e963ab6f2bd4b34",
-          "title": "Data Support Engineer London View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=8785678002"
-        },
-        {
           "id": "h:74b762cfedb93d53",
           "title": "Data Support Engineer Sydney View opportunity",
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8819502002"
+        },
+        {
+          "id": "h:0e963ab6f2bd4b34",
+          "title": "Data Support Engineer London View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=8785678002"
         },
         {
           "id": "h:1b6e4e6d17dff1c9",
@@ -9213,9 +9443,26 @@
           "id": "h:f01fb51da599c2da",
           "title": "HR Operations Specialist Sydney View opportunity",
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8695498002"
+        },
+        {
+          "id": "h:961d6393ee508c5e",
+          "title": "Identity and Access Management Lead London View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=8785268002"
         }
       ],
       "recentItems": [
+        {
+          "id": "h:a61e7f6bef9af64d",
+          "title": "PostgreSQL DBA London View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=8919361002",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:af09f832855a4de2",
+          "title": "Software Engineer - Data Lifecycle New York View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=8919666002",
+          "firstSeen": "2026-10-28"
+        },
         {
           "id": "h:f02ad47b12c339d3",
           "title": "2027 Internship - Technology New York View opportunity",
@@ -9293,33 +9540,22 @@
           "title": "Production Support Engineer — LLM Platform Singapore View opportunity",
           "url": "https://www.qube-rt.com/careers/job?gh_jid=8886941002",
           "firstSeen": "2026-10-14"
-        },
-        {
-          "id": "h:96371d40547e59fd",
-          "title": "Enterprise PKI Specialist (Contractor) London View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=8588252002",
-          "firstSeen": "2026-10-13"
-        },
-        {
-          "id": "h:89e071ba6c00f609",
-          "title": "Quantitative Developer - Front End, React/C# London View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=8883229002",
-          "firstSeen": "2026-10-13"
-        },
-        {
-          "id": "h:ee57fc1adb0311f7",
-          "title": "Senior AI Delivery Engineer Chicago View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=8625902002",
-          "firstSeen": "2026-10-13"
-        },
-        {
-          "id": "h:a2398ccfe9f25b7f",
-          "title": "Senior Software Engineer - Market Access Mumbai View opportunity",
-          "url": "https://www.qube-rt.com/careers/job?gh_jid=7892671002",
-          "firstSeen": "2026-10-13"
         }
       ],
-      "newItems": []
+      "newItems": [
+        {
+          "id": "h:a61e7f6bef9af64d",
+          "title": "PostgreSQL DBA London View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=8919361002",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:af09f832855a4de2",
+          "title": "Software Engineer - Data Lifecycle New York View opportunity",
+          "url": "https://www.qube-rt.com/careers/job?gh_jid=8919666002",
+          "firstSeen": "2026-10-28"
+        }
+      ]
     },
     {
       "id": "capital-fund-management-cfm",
@@ -9327,12 +9563,14 @@
       "url": "https://jobs.cfm.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_shifttype=&optionsFacetsDD_city=&optionsFacetsDD_department=",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:16:18+00:00",
-      "totalOpen": 22,
+      "lastCheckedAt": "2026-10-28T11:49:42+00:00",
+      "totalOpen": 24,
       "knownIds": [
         "h:9f5e37dd01d70ba0",
         "h:f1c3dba29c65bf8b",
         "h:d6eca1cf25c15b93",
+        "h:0d2448f84ef71e25",
+        "h:c266f6a7669e26c5",
         "h:c76ad9758d6009d5",
         "h:3ffe28e59ff82542",
         "h:586b3bbc29cb1631",
@@ -9347,8 +9585,8 @@
         "h:98befab9f855814b",
         "h:9855c04d8f7074cd",
         "h:d6f8bdb4ba41e3a1",
-        "h:95f7cb4e21d43caf",
         "h:5010190618945703",
+        "h:95f7cb4e21d43caf",
         "h:3e8938cc7083ad8f",
         "h:eb7adc483b17fee3",
         "h:dfdaa25571557380"
@@ -9368,6 +9606,16 @@
           "id": "h:d6eca1cf25c15b93",
           "title": "Français (France)",
           "url": "https://jobs.cfm.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_shifttype=&optionsFacetsDD_city=&optionsFacetsDD_department=&locale=fr_FR"
+        },
+        {
+          "id": "h:0d2448f84ef71e25",
+          "title": "Internship - Market Data Announcements Tool Redesign & AI Assistance",
+          "url": "https://jobs.cfm.com/job/Paris-Internship-Market-Data-Announcements-Tool-Redesign-&-AI-Assistance-75/1374612755/"
+        },
+        {
+          "id": "h:c266f6a7669e26c5",
+          "title": "Internship - Local Volatility Models",
+          "url": "https://jobs.cfm.com/job/Paris-Internship-Local-Volatility-Models-75/1374618655/"
         },
         {
           "id": "h:c76ad9758d6009d5",
@@ -9440,14 +9688,14 @@
           "url": "https://jobs.cfm.com/job/Paris-Financial-Engineering-Stage-75/1370480355/"
         },
         {
-          "id": "h:95f7cb4e21d43caf",
-          "title": "Equity research analyst - Hardware & Semiconductors sector",
-          "url": "https://jobs.cfm.com/job/New-York-Equity-research-analyst-Hardware-&-Semiconductors-sector-NY-10001/1351839855/"
-        },
-        {
           "id": "h:5010190618945703",
           "title": "Equity research analyst - Financials sector",
           "url": "https://jobs.cfm.com/job/New-York-Equity-research-analyst-Financials-sector-NY-10001/1351840855/"
+        },
+        {
+          "id": "h:95f7cb4e21d43caf",
+          "title": "Equity research analyst - Hardware & Semiconductors sector",
+          "url": "https://jobs.cfm.com/job/New-York-Equity-research-analyst-Hardware-&-Semiconductors-sector-NY-10001/1351839855/"
         },
         {
           "id": "h:3e8938cc7083ad8f",
@@ -9466,6 +9714,18 @@
         }
       ],
       "recentItems": [
+        {
+          "id": "h:0d2448f84ef71e25",
+          "title": "Internship - Market Data Announcements Tool Redesign & AI Assistance",
+          "url": "https://jobs.cfm.com/job/Paris-Internship-Market-Data-Announcements-Tool-Redesign-&-AI-Assistance-75/1374612755/",
+          "firstSeen": "2026-10-28"
+        },
+        {
+          "id": "h:c266f6a7669e26c5",
+          "title": "Internship - Local Volatility Models",
+          "url": "https://jobs.cfm.com/job/Paris-Internship-Local-Volatility-Models-75/1374618655/",
+          "firstSeen": "2026-10-28"
+        },
         {
           "id": "h:c76ad9758d6009d5",
           "title": "Quant Specialist",
@@ -9495,26 +9755,20 @@
           "title": "Data Engineer - Associate",
           "url": "https://jobs.cfm.com/job/Shanghai-Data-Engineer-Associate/1372791055/",
           "firstSeen": "2026-10-15"
-        },
-        {
-          "id": "h:709c01878d19db62",
-          "title": "Portfolio Engineering - Internship",
-          "url": "https://jobs.cfm.com/job/Paris-Portfolio-Engineering-Internship-75/1372636755/",
-          "firstSeen": "2026-10-13"
         }
       ],
       "newItems": [
         {
-          "id": "h:c76ad9758d6009d5",
-          "title": "Quant Specialist",
-          "url": "https://jobs.cfm.com/job/Paris-Quant-Specialist-75/1374440255/",
-          "firstSeen": "2026-10-27"
+          "id": "h:0d2448f84ef71e25",
+          "title": "Internship - Market Data Announcements Tool Redesign & AI Assistance",
+          "url": "https://jobs.cfm.com/job/Paris-Internship-Market-Data-Announcements-Tool-Redesign-&-AI-Assistance-75/1374612755/",
+          "firstSeen": "2026-10-28"
         },
         {
-          "id": "h:3ffe28e59ff82542",
-          "title": "Data Scientist - Fundamental Corporate Data - VP - ED",
-          "url": "https://jobs.cfm.com/job/Paris-Data-Scientist-Fundamental-Corporate-Data-VP-ED-75/1374455855/",
-          "firstSeen": "2026-10-27"
+          "id": "h:c266f6a7669e26c5",
+          "title": "Internship - Local Volatility Models",
+          "url": "https://jobs.cfm.com/job/Paris-Internship-Local-Volatility-Models-75/1374618655/",
+          "firstSeen": "2026-10-28"
         }
       ]
     },
@@ -9524,7 +9778,7 @@
       "url": "https://www.oldmissioncapital.com/careers/",
       "source": "ashby:old-mission-capital",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:16:26+00:00",
+      "lastCheckedAt": "2026-10-28T11:49:50+00:00",
       "totalOpen": 39,
       "knownIds": [
         "ashby:236b1766-2cd4-49ef-9949-4ea5c321bb04",
@@ -10014,7 +10268,7 @@
       "url": "https://www.genevatrading.com/careers-open-positions/",
       "source": "generic:static",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:16:27+00:00",
+      "lastCheckedAt": "2026-10-28T11:49:50+00:00",
       "totalOpen": 0,
       "knownIds": [],
       "openItems": [],
@@ -10027,7 +10281,7 @@
       "url": "https://apply.workable.com/tibra-capital-1",
       "source": "generic:dom",
       "status": "ok",
-      "lastCheckedAt": "2026-10-27T11:16:32+00:00",
+      "lastCheckedAt": "2026-10-28T11:49:56+00:00",
       "totalOpen": 2,
       "knownIds": [
         "h:217d7d89c38c1f91",
